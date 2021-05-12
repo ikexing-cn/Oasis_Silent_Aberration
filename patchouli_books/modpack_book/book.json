@@ -1,0 +1,9 @@
+{
+    "name": "item.modpack_book.name",
+    "landing_text": "info.modpack_book.landing",
+	"subtitle": "By Krotov Stephen",
+    "version": 1,
+    "model": "modpack:modpack_book",
+    "show_toasts": false,
+    "show_progress": false
+    }

@@ -1,0 +1,11 @@
+{
+    "name": "text.prologue.frist.name",
+    "icon": "minecraft:writable_book",
+    "category": "prologue",
+    "pages": [
+        {
+            "type": "text",
+            "text": "text.prologue.frist.pages_1"
+        }
+    ]
+}

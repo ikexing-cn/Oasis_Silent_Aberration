@@ -1,0 +1,283 @@
+UniqueId, RegistryName, ModId, UnlocalizedName, LocalizedName
+0, cyberware:neuropozyne, cyberware, cyberware.potion.neuropozyne, 排斥抑制
+1, minecraft:speed, minecraft, effect.moveSpeed, 速度
+2, minecraft:slowness, minecraft, effect.moveSlowdown, 缓慢
+3, minecraft:haste, minecraft, effect.digSpeed, 急迫
+4, minecraft:mining_fatigue, minecraft, effect.digSlowDown, 挖掘疲劳
+5, minecraft:strength, minecraft, effect.damageBoost, 力量
+6, minecraft:instant_health, minecraft, effect.heal, 瞬间治疗
+7, minecraft:instant_damage, minecraft, effect.harm, 瞬间伤害
+8, minecraft:jump_boost, minecraft, effect.jump, 跳跃提升
+9, minecraft:nausea, minecraft, effect.confusion, 反胃
+10, minecraft:regeneration, minecraft, effect.regeneration, 生命恢复
+11, minecraft:resistance, minecraft, effect.resistance, 抗性提升
+12, minecraft:fire_resistance, minecraft, effect.fireResistance, 防火
+13, minecraft:water_breathing, minecraft, effect.waterBreathing, 水下呼吸
+14, minecraft:invisibility, minecraft, effect.invisibility, 隐身
+15, minecraft:blindness, minecraft, effect.blindness, 失明
+16, minecraft:night_vision, minecraft, effect.nightVision, 夜视
+17, minecraft:hunger, minecraft, effect.hunger, 饥饿
+18, minecraft:weakness, minecraft, effect.weakness, 虚弱
+19, minecraft:poison, minecraft, effect.poison, 中毒
+20, minecraft:wither, minecraft, effect.wither, 凋零
+21, minecraft:health_boost, minecraft, effect.healthBoost, 生命提升
+22, minecraft:absorption, minecraft, effect.absorption, 伤害吸收
+23, minecraft:saturation, minecraft, effect.saturation, 饱和
+24, minecraft:glowing, minecraft, effect.glowing, 发光
+25, minecraft:levitation, minecraft, effect.levitation, 飘浮
+26, minecraft:luck, minecraft, effect.luck, 幸运
+27, minecraft:unluck, minecraft, effect.unluck, 霉运
+28, cyberware:rejection, cyberware, cyberware.potion.rejection, 机械排斥
+29, thaumcraft:fluxtaint, thaumcraft, potion.flux_taint, 腐毒
+30, thaumcraft:visexhaust, thaumcraft, potion.vis_exhaust, 咒流
+31, thaumcraft:infectiousvisexhaust, thaumcraft, potion.infvisexhaust, 咒喰
+32, thaumcraft:unnaturalhunger, thaumcraft, potion.unhunger, 反常之饥
+33, thaumcraft:warpward, thaumcraft, potion.warpward, 扭曲守护
+34, thaumcraft:deathgaze, thaumcraft, potion.deathgaze, 死亡凝视
+35, thaumcraft:blurredvision, thaumcraft, potion.blurred, 视瞻昏渺
+36, thaumcraft:sunscorned, thaumcraft, potion.sunscorned, 日之辱蔑
+37, thaumcraft:thaumarhia, thaumcraft, potion.thaumarhia, 玄癔
+38, tconstruct:carry, tconstruct, potion.carry, 肩托
+39, tconstruct:enderference, tconstruct, potion.enderference, potion.enderference
+40, tconstruct:insatiable, tconstruct, potion.insatiable, potion.insatiable
+41, tconstruct:magnetic, tconstruct, potion.magnetic, 磁力
+42, tconstruct:momentum, tconstruct, potion.momentum, 动力
+43, tconstruct:dot, tconstruct, potion.dot, potion.dot
+44, tconstruct:splinter, tconstruct, potion.splinter, potion.splinter
+45, botania:soulcross, botania, botania.potion.soulCross, 噬魂
+46, botania:featherfeet, botania, botania.potion.featherFeet, 羽翼
+47, botania:emptiness, botania, botania.potion.emptiness, 空虚
+48, botania:bloodthirst, botania, botania.potion.bloodthirst, 嗜血
+49, botania:allure, botania, botania.potion.allure, 引诱
+50, botania:clear, botania, botania.potion.clear, 赦免
+51, ebwizardry:frost, ebwizardry, potion.ebwizardry:frost, 冻伤
+52, ebwizardry:transience, ebwizardry, potion.ebwizardry:transience, 超凡
+53, ebwizardry:fireskin, ebwizardry, potion.ebwizardry:fireskin, 狱炎肌肤
+54, ebwizardry:ice_shroud, ebwizardry, potion.ebwizardry:ice_shroud, 冰霜护体
+55, ebwizardry:static_aura, ebwizardry, potion.ebwizardry:static_aura, 静电力场
+56, ebwizardry:decay, ebwizardry, potion.ebwizardry:decay, 腐化
+57, ebwizardry:sixth_sense, ebwizardry, potion.ebwizardry:sixth_sense, 第六感
+58, ebwizardry:arcane_jammer, ebwizardry, potion.ebwizardry:arcane_jammer, 奥术干扰
+59, ebwizardry:mind_trick, ebwizardry, potion.ebwizardry:mind_trick, 心灵欺诈
+60, ebwizardry:mind_control, ebwizardry, potion.ebwizardry:mind_control, 精神控制
+61, ebwizardry:font_of_mana, ebwizardry, potion.ebwizardry:font_of_mana, 魔法圣池
+62, ebwizardry:fear, ebwizardry, potion.ebwizardry:fear, 恐惧
+63, ebwizardry:curse_of_soulbinding, ebwizardry, potion.ebwizardry:curse_of_soulbinding, 魂链诅咒
+64, ebwizardry:paralysis, ebwizardry, potion.ebwizardry:paralysis, 麻痹
+65, ebwizardry:muffle, ebwizardry, potion.ebwizardry:muffle, 消音
+66, ebwizardry:ward, ebwizardry, potion.ebwizardry:ward, 魔法护盾
+67, ebwizardry:slow_time, ebwizardry, potion.ebwizardry:slow_time, 时间滞留
+68, ebwizardry:empowerment, ebwizardry, potion.ebwizardry:empowerment, 魔力增强
+69, ebwizardry:curse_of_enfeeblement, ebwizardry, potion.ebwizardry:curse_of_enfeeblement, 衰弱诅咒
+70, ebwizardry:curse_of_undeath, ebwizardry, potion.ebwizardry:curse_of_undeath, 死灵诅咒
+71, ebwizardry:containment, ebwizardry, potion.ebwizardry:containment, 收容
+72, ebwizardry:frost_step, ebwizardry, potion.ebwizardry:frost_step, 霜步
+73, ebwizardry:mark_of_sacrifice, ebwizardry, potion.ebwizardry:mark_of_sacrifice, 献祭印记
+74, ebwizardry:mirage, ebwizardry, potion.ebwizardry:mirage, 蜃影
+75, ancientspellcraft:curse_of_ender, ancientspellcraft, potion.ancientspellcraft:curse_of_ender, 末影诅咒
+76, ancientspellcraft:unlimited_power, ancientspellcraft, potion.ancientspellcraft:unlimited_power, Unlimited Power
+77, ancientspellcraft:martyr, ancientspellcraft, potion.ancientspellcraft:martyr, Martyr
+78, ancientspellcraft:martyr_beneficial, ancientspellcraft, potion.ancientspellcraft:martyr_beneficial, Protected
+79, ancientspellcraft:aquatic_agility, ancientspellcraft, potion.ancientspellcraft:aquatic_agility, Aquatic Agility
+80, ancientspellcraft:lava_vision, ancientspellcraft, potion.ancientspellcraft:lava_vision, Lava Vision
+81, ancientspellcraft:magma_strider, ancientspellcraft, potion.ancientspellcraft:magma_strider, Magma Strider
+82, ancientspellcraft:magelight, ancientspellcraft, potion.ancientspellcraft:magelight, Magelight
+83, ancientspellcraft:candlelight, ancientspellcraft, potion.ancientspellcraft:candlelight, Candlelight
+84, ancientspellcraft:curse_ward, ancientspellcraft, potion.ancientspellcraft:curse_ward, Curse Ward
+85, ancientspellcraft:curse_of_death, ancientspellcraft, potion.ancientspellcraft:curse_of_death, Curse of Death
+86, ancientspellcraft:time_knot, ancientspellcraft, potion.ancientspellcraft:time_knot, Time Knot
+87, ancientspellcraft:curse_temporal_casualty, ancientspellcraft, potion.ancientspellcraft:curse_temporal_casualty, Temporal Casualty
+88, ancientspellcraft:feather_fall, ancientspellcraft, potion.ancientspellcraft:feather_fall, Feather Fall
+89, ancientspellcraft:water_walking, ancientspellcraft, potion.ancientspellcraft:water_walking, Water Walking
+90, ancientspellcraft:arcane_augmentation, ancientspellcraft, potion.ancientspellcraft:arcane_augmentation, Augmentation
+91, ancientspellcraft:intensifying_focus, ancientspellcraft, potion.ancientspellcraft:intensifying_focus, Focus
+92, ancientspellcraft:continuity_charm, ancientspellcraft, potion.ancientspellcraft:continuity_charm, Continuity Charm
+93, ancientspellcraft:projectile_ward, ancientspellcraft, potion.ancientspellcraft:projectile_ward, Projectile Ward
+94, ancientspellcraft:bulwark, ancientspellcraft, potion.ancientspellcraft:bulwark, Bulwark
+95, ancientspellcraft:arcane_aegis, ancientspellcraft, potion.ancientspellcraft:arcane_aegis, Arcane Aegis
+96, ancientspellcraft:fortified_archery, ancientspellcraft, potion.ancientspellcraft:fortified_archery, Fortified Archery
+97, ancientspellcraft:eagle_eye, ancientspellcraft, potion.ancientspellcraft:eagle_eye, Eagle Eye
+98, ancientspellcraft:magical_exhaustion, ancientspellcraft, potion.ancientspellcraft:magical_exhaustion, Magical Exhaustion
+99, ancientspellcraft:bubble_head, ancientspellcraft, potion.ancientspellcraft:bubble_head, Bubble Head
+100, ancientspellcraft:spell_range, ancientspellcraft, potion.ancientspellcraft:spell_range, Spell Range
+101, ancientspellcraft:spell_blast, ancientspellcraft, potion.ancientspellcraft:spell_blast, Spell Blast
+102, ancientspellcraft:spell_duration, ancientspellcraft, potion.ancientspellcraft:spell_duration, Spell Blast
+103, ancientspellcraft:spell_cooldown, ancientspellcraft, potion.ancientspellcraft:spell_cooldown, Spell Cooldown
+104, ancientspellcraft:spell_siphon, ancientspellcraft, potion.ancientspellcraft:spell_siphon, Spell Siphoning
+105, ancientspellcraft:mana_regeneration, ancientspellcraft, potion.ancientspellcraft:mana_regeneration, Mana Regeneration
+106, mowziesmobs:suns_blessing, mowziesmobs, potion.sunsBlessing, 太阳祝福
+107, mowziesmobs:geomancy, mowziesmobs, potion.geomancy, 大地祝福
+108, mowziesmobs:frozen, mowziesmobs, potion.frozen, 冰冻
+109, mowziesmobs:poison_resist, mowziesmobs, potion.poisonResist, 剧毒抗性
+110, bewitchment:wednesday, bewitchment, bewitchment.wednesday, 诗神之日
+111, bewitchment:absence, bewitchment, bewitchment.absence, 全部木大
+112, bewitchment:purification, bewitchment, bewitchment.purification, 净化
+113, bewitchment:corruption, bewitchment, bewitchment.corruption, 腐败
+114, bewitchment:magic_resistance, bewitchment, bewitchment.magic_resistance, 魔法抗性
+115, bewitchment:magic_weakness, bewitchment, bewitchment.magic_weakness, 魔法弱点
+116, bewitchment:hellworld, bewitchment, bewitchment.hellworld, 地狱世界
+117, bewitchment:iceworld, bewitchment, bewitchment.iceworld, 冰霜世界
+118, bewitchment:rubedo, bewitchment, bewitchment.rubedo, 红化
+119, bewitchment:citrinitas, bewitchment, bewitchment.citrinitas, 黄化
+120, bewitchment:desertification, bewitchment, bewitchment.desertification, 沙漠化
+121, bewitchment:fertility, bewitchment, bewitchment.fertility, 肥沃
+122, bewitchment:harvest, bewitchment, bewitchment.harvest, 收获
+123, bewitchment:spore_cloud, bewitchment, bewitchment.spore_cloud, 孢子云
+124, bewitchment:blight, bewitchment, bewitchment.blight, 疫病
+125, bewitchment:ruin, bewitchment, bewitchment.ruin, 毁坏
+126, bewitchment:pesticide, bewitchment, bewitchment.pesticide, 农药
+127, bewitchment:arachnophobia, bewitchment, bewitchment.arachnophobia, 蜘蛛恐惧症
+128, bewitchment:mending, bewitchment, bewitchment.mending, 修补
+129, bewitchment:holy_water, bewitchment, bewitchment.holy_water, 圣水
+130, bewitchment:wolfsbane, bewitchment, bewitchment.wolfsbane, 附子草（乌头）
+131, bewitchment:deviants_decomposure, bewitchment, bewitchment.deviants_decomposure, 叛逆者的不安
+132, bewitchment:sleeping, bewitchment, bewitchment.sleeping, 睡觉
+133, bewitchment:volatility, bewitchment, bewitchment.volatility, 不稳定
+134, bewitchment:grace, bewitchment, bewitchment.grace, 优雅
+135, bewitchment:shell_armor, bewitchment, bewitchment.shell_armor, 壳护甲
+136, bewitchment:deflection, bewitchment, bewitchment.deflection, 偏移
+137, bewitchment:revealing, bewitchment, bewitchment.revealing, 示警
+138, bewitchment:disrobing, bewitchment, bewitchment.disrobing, 褪甲
+139, bewitchment:sinking, bewitchment, bewitchment.sinking, 沉没
+140, bewitchment:cursed_leaps, bewitchment, bewitchment.cursed_leaps, 诅咒之跃
+141, bewitchment:hellfire, bewitchment, bewitchment.hellfire, 地狱烈焰
+142, bewitchment:fear, bewitchment, bewitchment.fear, 恐惧
+143, bewitchment:mortal_coil, bewitchment, bewitchment.mortal_coil, 死亡缠绕
+144, bewitchment:corrosion, bewitchment, bewitchment.corrosion, Corrosion
+145, bewitchment:bulk, bewitchment, bewitchment.bulk, Bulk
+146, bewitchment:butterfingers, bewitchment, bewitchment.butterfingers, Butterfingers
+147, bewitchment:rhino_hide, bewitchment, bewitchment.rhino_hide, Rhino Hide
+148, bewitchment:paper_skin, bewitchment, bewitchment.paper_skin, Paper Skin
+149, bewitchment:rage, bewitchment, bewitchment.rage, Rage
+150, bewitchment:friendship, bewitchment, bewitchment.friendship, Friendship
+151, beyondtheveil:folly, beyondtheveil, 痴愚§r, 痴愚§r
+152, beyondtheveil:terror, beyondtheveil, 恐惧§r, 恐惧§r
+153, beyondtheveil:heartbreak, beyondtheveil, 心碎§r, 心碎§r
+154, bloodmagic:boost, bloodmagic, Boost, Boost
+155, bloodmagic:whirlwind, bloodmagic, Whirlwind, Whirlwind
+156, bloodmagic:planar_binding, bloodmagic, Planar Binding, Planar Binding
+157, bloodmagic:soul_snare, bloodmagic, Soul Snare, Soul Snare
+158, bloodmagic:soul_fray, bloodmagic, Soul Fray, Soul Fray
+159, bloodmagic:fire_fuse, bloodmagic, Fire Fuse, Fire Fuse
+160, bloodmagic:constrict, bloodmagic, Constriction, Constriction
+161, bloodmagic:plant_leech, bloodmagic, Plant Leech, Plant Leech
+162, bloodmagic:deafness, bloodmagic, Deaf, Deaf
+163, bloodmagic:bounce, bloodmagic, Bounce, Bounce
+164, bloodmagic:cling, bloodmagic, Cling, Cling
+165, bloodmagic:sacrificial_lamb, bloodmagic, S. Lamb, S. Lamb
+166, bloodmagic:flight, bloodmagic, Flight, Flight
+167, bloodmagic:grounded, bloodmagic, Grounded, Grounded
+168, bloodmagic:suspended, bloodmagic, Suspended, Suspended
+169, bloodmagic:heavy_heart, bloodmagic, Heavy Heart, Heavy Heart
+170, bloodmagic:feathered, bloodmagic, Feathered, Feathered
+171, champions:jailed, champions, champions.jailed, 监禁
+172, champions:plague, champions, champions.plague, 瘟疫
+173, champions:injured, champions, champions.injured, 内伤
+174, immersiveengineering:flammable, immersiveengineering, immersiveengineering.potion.flammable, 易燃
+175, immersiveengineering:slippery, immersiveengineering, immersiveengineering.potion.slippery, 易滑
+176, immersiveengineering:conductive, immersiveengineering, immersiveengineering.potion.conductive, 导电
+177, immersiveengineering:sticky, immersiveengineering, immersiveengineering.potion.sticky, 粘性
+178, immersiveengineering:stunned, immersiveengineering, immersiveengineering.potion.stunned, 眩晕
+179, immersiveengineering:concretefeet, immersiveengineering, immersiveengineering.potion.concreteFeet, 凝滞
+180, immersiveengineering:flashed, immersiveengineering, immersiveengineering.potion.flashed, 闪光
+181, conarm:superhotpotion, conarm, potion.superhotpotion, potion.superhotpotion
+182, vampirism:thirst, vampirism, effect.vampirism.thirst, 血渴
+183, vampirism:sanguinare, vampirism, effect.vampirism.sanguinare, 吸血之疾
+184, vampirism:saturation, vampirism, effect.vampirism.saturation, 饱饮
+185, vampirism:sunscreen, vampirism, effect.vampirism.sunscreen, 防晒
+186, vampirism:fire_protection, vampirism, effect.vampirism.fire_protection, 火焰保护
+187, vampirism:disguise_as_vampire, vampirism, effect.vampirism.disguise_as_vampire, effect.vampirism.disguise_as_vampire
+188, vampirism:garlic, vampirism, effect.vampirism.garlic, 蒜熏
+189, vampirism:poison, vampirism, effect.vampirism.poison, 毒药
+190, vampirism:freeze, vampirism, action.vampirism.vampire.freeze, 冰冻
+191, evilcraft:paling, evilcraft, potions.evilcraft.paling, 苍白
+192, extraalchemy:effect.fuse, extraalchemy, effect.fuse, 引信
+193, extraalchemy:effect.recall, extraalchemy, effect.recall, 回溯
+194, extraalchemy:effect.sinking, extraalchemy, effect.sinking, 沉没
+195, extraalchemy:effect.freezing, extraalchemy, effect.freezing, 霜冻
+196, extraalchemy:effect.dislocation, extraalchemy, effect.dislocation, 错位
+197, extraalchemy:effect.magnetism, extraalchemy, effect.magnetism, 磁性
+198, extraalchemy:effect.piper, extraalchemy, effect.piper, 吸引
+199, extraalchemy:effect.pacifism, extraalchemy, effect.pacifism, 和平
+200, extraalchemy:effect.crumbling, extraalchemy, effect.crumbling, 地噬
+201, extraalchemy:effect.concentration, extraalchemy, effect.concentration, 宁神
+202, extraalchemy:effect.return, extraalchemy, effect.return, 归还
+203, extraalchemy:effect.photosynthesis, extraalchemy, effect.photosynthesis, 光合
+204, extraalchemy:effect.hurry, extraalchemy, effect.hurry, 急促
+205, extraalchemy:effect.cheatdeath_quiescent, extraalchemy, effect.cheatDeath_quiescent, 死亡抗拒
+206, extraalchemy:effect.cheatdeath_active, extraalchemy, effect.cheatDeath_active, 死亡时刻
+207, extraalchemy:effect.charged, extraalchemy, effect.charged, 不稳定
+208, extraalchemy:effect.charged2, extraalchemy, effect.charged2, 不稳定
+209, extraalchemy:effect.reincarnation, extraalchemy, effect.reincarnation, 复苏
+210, extraalchemy:effect.combustion, extraalchemy, effect.combustion, 浴火
+211, extraalchemy:effect.learning, extraalchemy, effect.learning, 智慧
+212, extraalchemy:effect.gravity, extraalchemy, effect.gravity, 万有引力
+213, extraalchemy:effect.leech, extraalchemy, effect.leech, 水蛭
+214, extraalchemy:effect.sails, extraalchemy, effect.sails, 航行
+215, extraalchemy:effect.beheading, extraalchemy, effect.beheading, 斩首
+216, extraalchemy:effect.dispel, extraalchemy, effect.dispel, 驱散
+217, extraalchemy:effect.pain, extraalchemy, effect.pain, 疼痛
+218, extraalchemy:effect.push, extraalchemy, effect.push, 斥力
+219, extraalchemy:effect.pull, extraalchemy, effect.pull, 引力
+220, extra_spells:leeching, extra_spells, potion.extra_spells:leeching, 被水蛭吸血
+221, extra_spells:vampirism, extra_spells, potion.extra_spells:vampirism, 吸血鬼
+222, scalinghealth:bandaged, scalinghealth, effect.scalinghealth.bandaged, 包扎愈合
+223, totaltinkers:hemorrhage, totaltinkers, effect.totaltinkers.hemorrhage, 大出血
+224, vs_world:valkyrium-levitation, vs_world, effect.valkyrium-levitation, 升力
+225, vs_world:valkyrium-levitation-jump, vs_world, effect.valkyrium-levitation-jump, 弹跳
+226, zentweaker:briskness, zentweaker, zentweaker.potion.briskness, zentweaker.potion.briskness
+227, zentweaker:heaviness, zentweaker, zentweaker.potion.heaviness, zentweaker.potion.heaviness
+228, abyssalcraft:cplague, abyssalcraft, potion.Cplague, 珊瑚瘟疫
+229, abyssalcraft:dplague, abyssalcraft, potion.Dplague, 恐惧瘟疫
+230, abyssalcraft:antimatter, abyssalcraft, potion.Antimatter, 反物质
+231, astralsorcery:potioncheatdeath, astralsorcery, effect.as.cheatdeath, 凤凰之火
+232, astralsorcery:potionbleed, astralsorcery, effect.as.bleed, 流血
+233, astralsorcery:potionspellplague, astralsorcery, effect.as.spellplague, effect.as.spellplague
+234, astralsorcery:potiondropmodifier, astralsorcery, effect.as.dropmod, 画饼充饥
+235, astralsorcery:potiontimefreeze, astralsorcery, effect.as.timefreeze, effect.as.timefreeze
+236, thebetweenlands:effect_blessed, thebetweenlands, bl.effect.blessed, 护佑
+237, thebetweenlands:effect_petrify, thebetweenlands, bl.elixir.petrify, 麻痹药水
+238, thebetweenlands:effect_isolatedsenses, thebetweenlands, bl.elixir.isolatedSenses, 感官隔绝之药
+239, thebetweenlands:effect_limbless, thebetweenlands, bl.elixir.limbless, 四肢截断之药
+240, thebetweenlands:effect_deformed, thebetweenlands, bl.elixir.deformed, 形体无序之药
+241, thebetweenlands:effect_foggedmind, thebetweenlands, bl.elixir.foggedMind, 意识混沌之药
+242, thebetweenlands:effect_heavyweight, thebetweenlands, bl.elixir.heavyweight, 超重之药
+243, thebetweenlands:effect_basilisk, thebetweenlands, bl.elixir.basilisk, 蜥毒毒剂
+244, thebetweenlands:effect_weakbow, thebetweenlands, bl.elixir.weakbow, 无力之弓药水
+245, thebetweenlands:effect_blindman, thebetweenlands, bl.elixir.blindman, 致盲药剂
+246, thebetweenlands:effect_slugarm, thebetweenlands, bl.elixir.slugarm, 臂力削弱药水
+247, thebetweenlands:effect_stenching, thebetweenlands, bl.elixir.stenching, 恶臭药水
+248, thebetweenlands:effect_drunkard, thebetweenlands, bl.elixir.drunkard, 醉鬼之酒
+249, thebetweenlands:effect_starvation, thebetweenlands, bl.elixir.starvation, 饥饿之药
+250, thebetweenlands:effect_poisonsting, thebetweenlands, bl.elixir.poisonsting, 剧毒之药
+251, thebetweenlands:effect_decay, thebetweenlands, bl.elixir.decay, 机体残蚀之药
+252, thebetweenlands:effect_draining, thebetweenlands, bl.elixir.draining, 生命凋零之药
+253, thebetweenlands:effect_lumbering, thebetweenlands, bl.elixir.lumbering, 行走疲劳之药
+254, thebetweenlands:effect_weakness, thebetweenlands, bl.elixir.weakness, 机能虚弱之药
+255, thebetweenlands:effect_hunterssensemaster, thebetweenlands, bl.elixir.huntersSenseMaster, 狩猎大师之酿
+256, thebetweenlands:effect_wings, thebetweenlands, bl.elixir.wings, 蜻蜓变形药剂
+257, thebetweenlands:effect_gillsgrowth, thebetweenlands, bl.elixir.gillsgrowth, 鱼类变形药剂
+258, thebetweenlands:effect_unclouded, thebetweenlands, bl.elixir.unclouded, 开眼药水
+259, thebetweenlands:effect_lightweight, thebetweenlands, bl.elixir.lightweight, 轻功药水
+260, thebetweenlands:effect_spiderbreed, thebetweenlands, bl.elixir.spiderbreed, 蜘蛛药水
+261, thebetweenlands:effect_sagittarius, thebetweenlands, bl.elixir.sagittarius, 精准射手之酿
+262, thebetweenlands:effect_catseyes, thebetweenlands, bl.elixir.catsEyes, 夜猫之眼药水
+263, thebetweenlands:effect_swiftarm, thebetweenlands, bl.elixir.swiftarm, 迅捷之手药水
+264, thebetweenlands:effect_masking, thebetweenlands, bl.elixir.masking, 掩蔽药水
+265, thebetweenlands:effect_hunterssense, thebetweenlands, bl.elixir.huntersSense, 猎人之酿
+266, thebetweenlands:effect_feasting, thebetweenlands, bl.elixir.feasting, 饱腹之酿
+267, thebetweenlands:effect_toughskin, thebetweenlands, bl.elixir.toughskin, 皮肤硬化之酿
+268, thebetweenlands:effect_ripening, thebetweenlands, bl.elixir.ripening, 熟化之酿
+269, thebetweenlands:effect_healing, thebetweenlands, bl.elixir.healing, 治疗之酿
+270, thebetweenlands:effect_nimblefeet, thebetweenlands, bl.elixir.nimblefeet, 身手敏捷之酿
+271, thebetweenlands:effect_strength, thebetweenlands, bl.elixir.strength, 力量增强之酿
+272, thebetweenlands:root_bound, thebetweenlands, bl.potion.rootBound, 根须缠绕
+273, thebetweenlands:enlightened, thebetweenlands, bl.potion.enlightened, 开明
+274, tconevo:immortality, tconevo, effect.tconevo.immortality, 不朽
+275, tconevo:mortal_wounds, tconevo, effect.tconevo.mortal_wounds, 致命创伤
+276, tconevo:damage_reduction, tconevo, effect.tconevo.damage_reduction, 抗伤
+277, tconevo:damage_boost, tconevo, effect.tconevo.damage_boost, 增伤
+278, hungeroverhaul:wellfed, hungeroverhaul, potion.wellfed, 饱食
+279, thaumadditions:sonus, thaumadditions, potion.thaumadditions:sonus, 声音感知
+280, thaumadditions:sanity_checker, thaumadditions, , 
+#output time is 5 ms.
