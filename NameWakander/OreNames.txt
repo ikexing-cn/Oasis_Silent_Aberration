@@ -11,27 +11,77 @@ agiosite_brick_decorative
   aether:agiosite_brick_decorative, tile.aether.agiosite_brick_decorative.name, 饰纹天冶砖, 5
   aether:agiosite_brick_decorative, tile.aether.agiosite_brick_decorative.name, 饰纹天冶砖, 3
   aether:agiosite_brick_decorative, tile.aether.agiosite_brick_decorative.name, 饰纹天冶砖, 4
+allFlowers
+  minecraft:red_flower, tile.flower2.poppy.name, 虞美人, 0
+  minecraft:red_flower, tile.flower2.oxeyeDaisy.name, 滨菊, 8
+  minecraft:red_flower, tile.flower2.tulipOrange.name, 橙色郁金香, 5
+  minecraft:red_flower, tile.flower2.blueOrchid.name, 兰花, 1
+  minecraft:red_flower, tile.flower2.allium.name, 绒球葱, 2
+  minecraft:red_flower, tile.flower2.houstonia.name, 茜草花, 3
+  minecraft:red_flower, tile.flower2.tulipRed.name, 红色郁金香, 4
+  minecraft:red_flower, tile.flower2.tulipPink.name, 粉红色郁金香, 7
+  minecraft:yellow_flower, tile.flower1.dandelion.name, 蒲公英, 0
+  minecraft:red_flower, tile.flower2.tulipWhite.name, 白色郁金香, 6
+allTallFlowers
+  minecraft:double_plant, tile.doublePlant.syringa.name, 丁香, 1
+  minecraft:double_plant, tile.doublePlant.rose.name, 玫瑰丛, 4
+  minecraft:double_plant, tile.doublePlant.sunflower.name, 向日葵, 0
+  minecraft:double_plant, tile.doublePlant.paeonia.name, 牡丹, 5
+arrow
+  minecraft:spectral_arrow, item.spectral_arrow.name, 光灵箭, 0
+  minecraft:tipped_arrow, item.tipped_arrow.name, 不可合成的药箭, 0
+  minecraft:arrow, item.arrow.name, 箭, 0
 bakingEgg
   iceandfire:myrmex_desert_egg, item.iceandfire.myrmex_desert_egg.name, 沙漠恐蚁卵, 32767
   iceandfire:iceandfire.deathworm_egg, item.iceandfire.deathworm_egg.name, 死亡蠕虫卵, 32767
   iceandfire:myrmex_jungle_egg, item.iceandfire.myrmex_jungle_egg.name, 丛林恐蚁卵, 32767
   iceandfire:hippogryph_egg, item.iceandfire.hippogryph_egg.name, 骏鹰蛋, 32767
+barsIron
+  minecraft:iron_bars, tile.fenceIron.name, 铁栏杆, 0
+bed
+  minecraft:bed, item.bed.green.name, 绿色床, 13
+  minecraft:bed, item.bed.orange.name, 橙色床, 1
+  minecraft:bed, item.bed.magenta.name, 品红色床, 2
+  minecraft:bed, item.bed.lightBlue.name, 淡蓝色床, 3
+  minecraft:bed, item.bed.yellow.name, 黄色床, 4
+  minecraft:bed, item.bed.silver.name, 淡灰色床, 8
+  minecraft:bed, item.bed.pink.name, 粉红色床, 6
+  minecraft:bed, item.bed.white.name, 白色床, 0
+  minecraft:bed, item.bed.cyan.name, 青色床, 9
+  minecraft:bed, item.bed.blue.name, 蓝色床, 11
+  minecraft:bed, item.bed.red.name, 红色床, 14
+  minecraft:bed, item.bed.lime.name, 黄绿色床, 5
+  minecraft:bed, item.bed.purple.name, 紫色床, 10
+  minecraft:bed, item.bed.black.name, 黑色床, 15
+  minecraft:bed, item.bed.gray.name, 灰色床, 7
+  minecraft:bed, item.bed.brown.name, 棕色床, 12
 blockAbyssalnite
   abyssalcraft:ingotblock, tile.ingotblock.0.name, §3渊素块, 0
 blockAdaminite
   thaumadditions:adaminite_block, tile.thaumadditions:adaminite_block.name, 精金块, 0
+blockAluminium
+  embers:block_aluminum, tile.block_aluminum.name, 铝块, 0
+blockAluminum
+  embers:block_aluminum, tile.block_aluminum.name, 铝块, 0
 blockAmber
   thaumcraft:amber_block, tile.amber_block.name, 琥珀块, 0
   thaumadditions:chiseled_amber_block, tile.thaumadditions:chiseled_amber_block.name, 雕凿琥珀块, 0
   thaumcraft:amber_brick, tile.amber_brick.name, 琥珀砖块, 0
+blockAmethyst
+  mysticalworld:amethyst_block, tile.amethyst_block.name, 紫水晶块, 0
 blockAquaMiddleGem
   thebetweenlands:aqua_middle_gem_block, tile.thebetweenlands.aqua_middle_gem_block.name, 水蓝元素宝石块, 0
 blockBone
   thebetweenlands:slimy_bone_block, tile.thebetweenlands.slimy_bone_block.name, 粘骨块, 0
+  minecraft:bone_block, tile.boneBlock.name, 骨块, 0
 blockBrass
   thaumcraft:metal_brass, tile.metal_brass.name, 黄铜方块, 0
+blockBronze
+  embers:block_bronze, tile.block_bronze.name, 青铜块, 0
 blockCactus
   minecraft:cactus, tile.cactus.name, 仙人掌, 0
+blockChest
+  minecraft:chest, tile.chest.name, 箱子, 0
 blockCincinnasite
   betternether:cincinnasite_tile_large, tile.cincinnasite_tile_large.name, 大辛西纳石顶瓦, 0
   betternether:cincinnasite_tile_small, tile.cincinnasite_tile_small.name, 小辛西纳石顶瓦, 0
@@ -39,22 +89,33 @@ blockCincinnasite
   betternether:cincinnasite_forged, tile.cincinnasite_forged.name, 锻造辛西纳石块, 0
 blockCoal
   minecraft:coal_block, tile.blockCoal.name, 煤炭块, 0
+blockCopper
+  mysticalworld:copper_block, tile.copper_block.name, 铜块, 0
+  embers:block_copper, tile.block_copper.name, 铜块, 0
 blockCrimsonMiddleGem
   thebetweenlands:crimson_middle_gem_block, tile.thebetweenlands.crimson_middle_gem_block.name, 猩红元素宝石块, 0
+blockDawnstone
+  embers:block_dawnstone, tile.block_dawnstone.name, 黎明石块, 0
 blockDiamond
   minecraft:diamond_block, tile.blockDiamond.name, 钻石块, 0
 blockDreadium
   abyssalcraft:ingotblock, tile.ingotblock.2.name, §4惧质块, 2
+blockElectrum
+  embers:block_electrum, tile.block_electrum.name, 琥珀金块, 0
 blockEmerald
   minecraft:emerald_block, tile.blockEmerald.name, 绿宝石块, 0
 blockEthaxium
   abyssalcraft:ingotblock, tile.ingotblock.3.name, §b伊塞斯块, 3
 blockFireDragonsteel
   iceandfire:dragonsteel_fire_block, tile.iceandfire.dragonsteel_fire_block.name, 龙炎钢块, 0
+blockFuelCoke
+  pyrotech:coal_coke_block, tile.pyrotech.coal_coke_block.name, 焦煤块, 0
 blockGlass
+  pyrotech:refractory_glass, tile.pyrotech.refractory_glass.name, 耐火玻璃, 0
   thebetweenlands:silt_glass, tile.thebetweenlands.silt_glass.name, 淤泥玻璃, 0
   minecraft:glass, tile.glass.name, 玻璃, 0
   minecraft:stained_glass, tile.stainedGlass.white.name, 白色染色玻璃, 32767
+  pyrotech:slag_glass, tile.pyrotech.slag_glass.name, 炉渣玻璃, 0
   abyssalcraft:abyssalsandglass, tile.abyssalsandglass.name, 深渊沙玻璃, 0
 blockGlassBlack
   minecraft:stained_glass, tile.stainedGlass.black.name, 黑色染色玻璃, 15
@@ -101,12 +162,20 @@ blockIron
   minecraft:iron_block, tile.blockIron.name, 铁块, 0
 blockLapis
   minecraft:lapis_block, tile.blockLapis.name, 青金石块, 0
+blockLead
+  embers:block_lead, tile.block_lead.name, 铅块, 0
 blockLiquifiedCoralium
   abyssalcraft:ingotblock, tile.ingotblock.1.name, §b精炼珊瑚块, 1
+blockMagma
+  minecraft:magma, tile.magma.name, 岩浆块, 0
 blockMithminite
   thaumadditions:mithminite_block, tile.thaumadditions:mithminite_block.name, 秘金块, 0
 blockMithrillium
   thaumadditions:mithrillium_block, tile.thaumadditions:mithrillium_block.name, 秘银块, 0
+blockNetherWart
+  minecraft:nether_wart_block, tile.netherWartBlock.name, 地狱疣块, 0
+blockNickel
+  embers:block_nickel, tile.block_nickel.name, 镍块, 0
 blockOctine
   thebetweenlands:octine_block, tile.thebetweenlands.octine_block.name, 炽炎铁块, 0
 blockPrismarine
@@ -127,6 +196,8 @@ blockSapphire
   iceandfire:sapphire_block, tile.iceandfire.sapphireBlock.name, 蓝宝石块, 0
 blockSilver
   iceandfire:silver_block, tile.iceandfire.silverBlock.name, 银块, 0
+  mysticalworld:silver_block, tile.silver_block.name, Block of Silver, 0
+  embers:block_silver, tile.block_silver.name, 银块, 0
 blockSlime
   minecraft:slime, tile.slime.name, 粘液块, 0
 blockSulfur
@@ -135,12 +206,32 @@ blockSyrmorite
   thebetweenlands:syrmorite_block, tile.thebetweenlands.syrmorite_block.name, 赛摩铜块, 0
 blockThaumium
   thaumcraft:metal_thaumium, tile.metal_thaumium.name, 神秘块, 0
+blockTin
+  embers:block_tin, tile.block_tin.name, 锡块, 0
 blockTorch
   minecraft:torch, tile.torch.name, 火把, 0
 blockValonite
   thebetweenlands:valonite_block, tile.thebetweenlands.valonite_block.name, 法罗钠块, 0
 blockVoid
   thaumcraft:metal_void, tile.metal_void.name, 虚空金属块, 0
+blockWool
+  minecraft:wool, tile.cloth.magenta.name, 品红色羊毛, 2
+  minecraft:wool, tile.cloth.orange.name, 橙色羊毛, 1
+  minecraft:wool, tile.cloth.gray.name, 灰色羊毛, 7
+  minecraft:wool, tile.cloth.purple.name, 紫色羊毛, 10
+  minecraft:wool, tile.cloth.brown.name, 棕色羊毛, 12
+  minecraft:wool, tile.cloth.white.name, 白色羊毛, 32767
+  minecraft:wool, tile.cloth.yellow.name, 黄色羊毛, 4
+  minecraft:wool, tile.cloth.silver.name, 淡灰色羊毛, 8
+  minecraft:wool, tile.cloth.cyan.name, 青色羊毛, 9
+  minecraft:wool, tile.cloth.black.name, 黑色羊毛, 15
+  minecraft:wool, tile.cloth.red.name, 红色羊毛, 14
+  minecraft:wool, tile.cloth.pink.name, 粉红色羊毛, 6
+  minecraft:wool, tile.cloth.lime.name, 黄绿色羊毛, 5
+  minecraft:wool, tile.cloth.white.name, 白色羊毛, 0
+  minecraft:wool, tile.cloth.blue.name, 蓝色羊毛, 11
+  minecraft:wool, tile.cloth.green.name, 绿色羊毛, 13
+  minecraft:wool, tile.cloth.lightBlue.name, 淡蓝色羊毛, 3
 bone
   minecraft:bone, item.bone.name, 骨头, 0
   thebetweenlands:items_misc, item.thebetweenlands.slimy_bone.name, 粘骨, 14
@@ -150,6 +241,8 @@ boneWither
   iceandfire:witherbone, item.iceandfire.witherbone.name, 凋灵之骨, 0
 boneWithered
   iceandfire:witherbone, item.iceandfire.witherbone.name, 凋灵之骨, 0
+bookshelf
+  minecraft:bookshelf, tile.bookshelf.name, 书架, 0
 bread
   minecraft:bread, item.minecraft:bread.name, 面包, 0
 charredBlock
@@ -160,10 +253,26 @@ charredBlock
   iceandfire:chared_stone, tile.iceandfire.charedStone.name, 焦灰石头, 0
   iceandfire:chared_grass, tile.iceandfire.charedGrass.name, 焦灰草方块, 0
 chest
-  minecraft:chest, tile.chest.name, 箱子, 0
   minecraft:ender_chest, tile.enderChest.name, 末影箱, 0
-  minecraft:trapped_chest, tile.chestTrap.name, 陷阱箱, 0
+  minecraft:silver_shulker_box, tile.shulkerBoxSilver.name, 淡灰色潜影盒, 0
+  minecraft:gray_shulker_box, tile.shulkerBoxGray.name, 灰色潜影盒, 0
+  minecraft:light_blue_shulker_box, tile.shulkerBoxLightBlue.name, 淡蓝色潜影盒, 0
   thebetweenlands:weedwood_chest, tile.thebetweenlands.weedwood_chest.name, 杂草木箱子, 0
+  minecraft:lime_shulker_box, tile.shulkerBoxLime.name, 黄绿色潜影盒, 0
+  minecraft:chest, tile.chest.name, 箱子, 0
+  minecraft:brown_shulker_box, tile.shulkerBoxBrown.name, 棕色潜影盒, 0
+  minecraft:green_shulker_box, tile.shulkerBoxGreen.name, 绿色潜影盒, 0
+  minecraft:pink_shulker_box, tile.shulkerBoxPink.name, 粉红色潜影盒, 0
+  minecraft:blue_shulker_box, tile.shulkerBoxBlue.name, 蓝色潜影盒, 0
+  minecraft:black_shulker_box, tile.shulkerBoxBlack.name, 黑色潜影盒, 0
+  minecraft:white_shulker_box, tile.shulkerBoxWhite.name, 白色潜影盒, 0
+  minecraft:trapped_chest, tile.chestTrap.name, 陷阱箱, 0
+  minecraft:magenta_shulker_box, tile.shulkerBoxMagenta.name, 品红色潜影盒, 0
+  minecraft:orange_shulker_box, tile.shulkerBoxOrange.name, 橙色潜影盒, 0
+  minecraft:cyan_shulker_box, tile.shulkerBoxCyan.name, 青色潜影盒, 0
+  minecraft:red_shulker_box, tile.shulkerBoxRed.name, 红色潜影盒, 0
+  minecraft:yellow_shulker_box, tile.shulkerBoxYellow.name, 黄色潜影盒, 0
+  minecraft:purple_shulker_box, tile.shulkerBoxPurple.name, 紫色潜影盒, 0
 chestEnder
   minecraft:ender_chest, tile.enderChest.name, 末影箱, 0
 chestTrapped
@@ -171,6 +280,8 @@ chestTrapped
 chestWood
   minecraft:chest, tile.chest.name, 箱子, 0
   thebetweenlands:weedwood_chest, tile.thebetweenlands.weedwood_chest.name, 杂草木箱子, 0
+clayBall
+  minecraft:clay_ball, item.clay.name, 粘土, 0
 clusterCinnabar
   thaumcraft:cluster, item.cluster.cinnabar.name, 朱砂原矿簇, 6
 clusterCopper
@@ -190,8 +301,20 @@ clusterTin
 coal
   abyssalcraft:charcoal, item.cha_rcoal.name, 查洛炭, 0
 cobblestone
-  thebetweenlands:betweenstone, tile.thebetweenlands.betweenstone.name, 交错石, 0
   minecraft:cobblestone, tile.stonebrick.name, 圆石, 0
+  pyrotech:cobblestone, tile.pyrotech.cobblestone.diorite.name, 碎闪长岩, 1
+  thebetweenlands:betweenstone, tile.thebetweenlands.betweenstone.name, 交错石, 0
+  pyrotech:cobblestone, tile.pyrotech.cobblestone.andesite.name, 碎安山岩, 0
+  pyrotech:cobblestone, tile.pyrotech.cobblestone.limestone.name, 碎石灰岩, 3
+  pyrotech:cobblestone, tile.pyrotech.cobblestone.granite.name, 碎花岗岩, 2
+cobblestoneAndesite
+  pyrotech:cobblestone, tile.pyrotech.cobblestone.andesite.name, 碎安山岩, 0
+cobblestoneDiorite
+  pyrotech:cobblestone, tile.pyrotech.cobblestone.diorite.name, 碎闪长岩, 1
+cobblestoneGranite
+  pyrotech:cobblestone, tile.pyrotech.cobblestone.granite.name, 碎花岗岩, 2
+cobblestoneLimestone
+  pyrotech:cobblestone, tile.pyrotech.cobblestone.limestone.name, 碎石灰岩, 3
 coinGarlic
   harvestcraft:garliccoinitem, item.garliccoinitem.name, 大蒜硬币, 0
 cropAgave
@@ -210,6 +333,8 @@ cropArtichoke
   harvestcraft:artichokeitem, item.artichokeitem.name, 洋蓟, 0
 cropAsparagus
   harvestcraft:asparagusitem, item.asparagusitem.name, 芦笋, 0
+cropAubergine
+  mysticalworld:aubergine, item.aubergine.name, 茄子, 0
 cropAvocado
   harvestcraft:avocadoitem, item.avocadoitem.name, 牛油果, 0
 cropBambooshoot
@@ -223,6 +348,8 @@ cropBean
 cropBeet
   minecraft:beetroot, item.minecraft:beetroot.name, 甜菜, 0
   harvestcraft:beetitem, item.beetitem.name, 甜菜, 0
+cropBeetroot
+  minecraft:beetroot, item.minecraft:beetroot.name, 甜菜, 0
 cropBellpepper
   harvestcraft:bellpepperitem, item.bellpepperitem.name, 甜椒, 0
 cropBlackberry
@@ -286,6 +413,7 @@ cropDurian
 cropEdibleroot
   harvestcraft:ediblerootitem, item.ediblerootitem.name, 食用块茎, 0
 cropEggplant
+  mysticalworld:aubergine, item.aubergine.name, 茄子, 0
   harvestcraft:eggplantitem, item.eggplantitem.name, 茄子, 0
 cropElderberry
   harvestcraft:elderberryitem, item.elderberryitem.name, 接骨木, 0
@@ -682,6 +810,7 @@ doorWood
   minecraft:birch_door, item.doorBirch.name, 白桦木门, 0
   minecraft:wooden_door, item.doorOak.name, 橡木门, 0
   minecraft:acacia_door, item.doorAcacia.name, 金合欢木门, 0
+  roots:wildwood_door, item.wildwood_door.name, 野木门, 0
   minecraft:jungle_door, item.doorJungle.name, 丛林木门, 0
   minecraft:spruce_door, item.doorSpruce.name, 云杉木门, 0
   abyssalcraft:door_drt, item.door_drt.name, 恐惧之地木门, 0
@@ -697,16 +826,26 @@ dropHoney
   harvestcraft:honeyitem, item.honeyitem.name, 蜂蜜, 0
 dustAbyssalnite
   acintegration:dust, item.dust.abyssalnite.name, 渊素粉, 0
+dustAsh
+  embers:dust_ash, item.dust_ash.name, 灰烬, 0
+dustAshes
+  embers:dust_ash, item.dust_ash.name, 灰烬, 0
 dustCoal
   bloodmagic:component, item.bloodmagic.baseComponent.sand_coal.name, 煤矿砂, 21
+dustCopper
+  mysticalworld:copper_dust, item.copper_dust.name, 铜粉, 0
 dustDreadium
   acintegration:dust, item.dust.dreadium.name, 惧质粉, 2
+dustFlint
+  pyrotech:material, item.pyrotech.dust.flint.name, 粉碎的燧石, 31
 dustGlowstone
   minecraft:glowstone_dust, item.yellowDust.name, 荧石粉, 0
 dustGold
   bloodmagic:component, item.bloodmagic.baseComponent.sand_gold.name, 金矿砂, 20
 dustIron
   bloodmagic:component, item.bloodmagic.baseComponent.sand_iron.name, 铁矿砂, 19
+dustLimestone
+  pyrotech:material, item.pyrotech.dust.limestone.name, 粉碎的石灰岩, 28
 dustLiquifiedCoralium
   acintegration:dust, item.dust.coralium.name, 精炼珊瑚粉, 1
 dustPrismarine
@@ -718,12 +857,24 @@ dustSalt
 dustSaltpeter
   abyssalcraft:nitre, item.nitre.name, 硝石, 0
   bloodmagic:component, item.bloodmagic.baseComponent.saltpeter.name, 硝石, 24
+dustSilver
+  mysticalworld:silver_dust, item.silver_dust.name, 亮灰荧石粉, 0
+dustSugar
+  minecraft:sugar, item.sugar.name, 糖, 0
 dustSulfur
   abyssalcraft:sulfur, item.sulfur.name, 硫粉, 0
+  soot:sulfur, item.sulfur.name, 硫粉, 0
   bloodmagic:component, item.bloodmagic.baseComponent.sulfur.name, 硫磺, 23
+dustTinyCopper
+  mysticalworld:copper_dust_tiny, item.copper_dust_tiny.name, 小堆铜粉, 0
+dustTinySilver
+  mysticalworld:silver_dust_tiny, item.silver_dust_tiny.name, 小堆银粉, 0
+dustWheat
+  roots:flour, item.flour.name, 面粉, 0
 dye
   minecraft:dye, item.dyePowder.black.name, 墨囊, 32767
 dyeBlack
+  mysticalworld:ink_bottle, item.ink_bottle.name, 墨水瓶, 0
   minecraft:dye, item.dyePowder.black.name, 墨囊, 0
 dyeBlue
   minecraft:dye, item.dyePowder.blue.name, 青金石, 4
@@ -802,6 +953,7 @@ fenceWood
   minecraft:dark_oak_fence, tile.darkOakFence.name, 深色橡木栅栏, 0
   minecraft:jungle_fence, tile.jungleFence.name, 丛林木栅栏, 0
   minecraft:nether_brick_fence, tile.netherFence.name, 地狱砖栅栏, 0
+  mysticalworld:charred_fence, tile.charred_fence.name, 烧焦的栅栏, 0
   thebetweenlands:hearthgrove_plank_fence, tile.thebetweenlands.hearthgrove_plank_fence.name, 火树栅栏, 0
   thebetweenlands:weedwood_plank_fence, tile.thebetweenlands.weedwood_plank_fence.name, 杂草木板栅栏, 0
   thebetweenlands:rotten_plank_fence, tile.thebetweenlands.rotten_plank_fence.name, 腐朽木板栅栏, 0
@@ -1008,6 +1160,7 @@ foodBratwurst
   harvestcraft:bratwurstitem, item.bratwurstitem.name, 德式油煎香肠, 0
 foodBread
   minecraft:bread, item.minecraft:bread.name, 面包, 0
+  roots:wildewheet_bread, item.wildewheet_bread.name, 野麦面包, 0
 foodBreadedporkchop
   harvestcraft:breadedporkchopitem, item.breadedporkchopitem.name, 猪排, 0
 foodBreakfastburrito
@@ -1040,7 +1193,9 @@ foodCactussoup
   harvestcraft:cactussoupitem, item.cactussoupitem.name, 仙人掌汤, 0
 foodCalamaricooked
   harvestcraft:calamaricookeditem, item.calamaricookeditem.name, 熟鱿鱼, 0
+  mysticalworld:cooked_squid, item.cooked_squid.name, 熟鱿鱼, 0
 foodCalamariraw
+  mysticalworld:raw_squid, item.raw_squid.name, 生鱿鱼, 0
   harvestcraft:calamarirawitem, item.calamarirawitem.name, 生鱿鱼, 0
 foodCaliforniaroll
   harvestcraft:californiarollitem, item.californiarollitem.name, 加州寿司卷, 0
@@ -1406,6 +1561,8 @@ foodEelraw
   harvestcraft:eelrawitem, item.eelrawitem.name, 生鳗鱼, 0
 foodEggnog
   harvestcraft:eggnogitem, item.eggnogitem.name, 蛋酒, 0
+foodEggplant
+  mysticalworld:aubergine, item.aubergine.name, 茄子, 0
 foodEggplantparm
   harvestcraft:eggplantparmitem, item.eggplantparmitem.name, 茄子帕尔马意面, 0
 foodEggroll
@@ -1468,6 +1625,7 @@ foodFivespice
   harvestcraft:fivespiceitem, item.fivespiceitem.name, 五香粉, 0
 foodFlour
   harvestcraft:flouritem, item.flouritem.name, 面粉, 0
+  roots:flour, item.flour.name, 面粉, 0
 foodFootlong
   harvestcraft:footlongitem, item.footlongitem.name, 法式长棍面包, 0
 foodFortunecookie
@@ -1546,6 +1704,12 @@ foodGlazedcarrots
   harvestcraft:glazedcarrotsitem, item.glazedcarrotsitem.name, 糖汁胡萝卜, 0
 foodGlisteningsalad
   harvestcraft:glisteningsaladitem, item.glisteningsaladitem.name, 闪闪发光的沙拉, 0
+foodGoodMeat
+  mysticalworld:raw_squid, item.raw_squid.name, 生鱿鱼, 0
+  mysticalworld:venison, item.venison.name, 鹿肉, 0
+foodGoodMeatCooked
+  mysticalworld:cooked_venison, item.cooked_venison.name, 烤鹿肉, 0
+  mysticalworld:cooked_squid, item.cooked_squid.name, 熟鱿鱼, 0
 foodGooseberryjelly
   harvestcraft:gooseberryjellyitem, item.gooseberryjellyitem.name, 醋栗酱, 0
 foodGooseberryjellysandwich
@@ -1618,6 +1782,7 @@ foodGrilledcheesevegemitetoast
   harvestcraft:grilledcheesevegemitetoastitem, item.grilledcheesevegemitetoastitem.name, 酵母烤奶酪三明治, 0
 foodGrilledeggplant
   harvestcraft:grilledeggplantitem, item.grilledeggplantitem.name, 烤茄子, 0
+  mysticalworld:cooked_aubergine, item.cooked_aubergine.name, 烤茄子, 0
 foodGrilledmushroom
   harvestcraft:grilledmushroomitem, item.grilledmushroomitem.name, 烤蘑菇, 0
 foodGrilledskewers
@@ -1975,6 +2140,8 @@ foodNaan
   harvestcraft:naanitem, item.naanitem.name, 印度烤饼, 0
 foodNachoes
   harvestcraft:nachoesitem, item.nachoesitem.name, 烤辣味干酪玉米片, 0
+foodNativeGameMeatCooked
+  mysticalworld:cooked_venison, item.cooked_venison.name, 烤鹿肉, 0
 foodNeapolitanicecream
   harvestcraft:neapolitanicecreamitem, item.neapolitanicecreamitem.name, 那不勒斯冰淇淋, 0
 foodNetherstartoast
@@ -2225,6 +2392,9 @@ foodPowdereddonut
   harvestcraft:powdereddonutitem, item.powdereddonutitem.name, 粉甜甜圈, 0
 foodPralines
   harvestcraft:pralinesitem, item.pralinesitem.name, 胡桃糖, 0
+foodProteinCooked
+  mysticalworld:cooked_venison, item.cooked_venison.name, 烤鹿肉, 0
+  mysticalworld:cooked_squid, item.cooked_squid.name, 熟鱿鱼, 0
 foodPumpkinbread
   harvestcraft:pumpkinbreaditem, item.pumpkinbreaditem.name, 南瓜面包, 0
 foodPumpkinoatscones
@@ -2267,6 +2437,10 @@ foodRaspberrytrifle
   harvestcraft:raspberrytrifleitem, item.raspberrytrifleitem.name, 树莓蛋奶层叠蛋糕, 0
 foodRaspberryyogurt
   harvestcraft:raspberryyogurtitem, item.raspberryyogurtitem.name, 树莓酸奶, 0
+foodRedMeat
+  mysticalworld:venison, item.venison.name, 鹿肉, 0
+foodRedMeatCooked
+  mysticalworld:cooked_venison, item.cooked_venison.name, 烤鹿肉, 0
 foodRedvelvetcake
   harvestcraft:redvelvetcakeitem, tile.redvelvetcake.name, 红丝绒蛋糕, 0
 foodRedvelvetcupcake
@@ -2628,7 +2802,9 @@ foodVeggiestrips
   harvestcraft:veggiestripsitem, item.veggiestripsitem.name, 蔬菜条, 0
 foodVenisoncooked
   harvestcraft:venisoncookeditem, item.venisoncookeditem.name, 熟鹿肉, 0
+  mysticalworld:cooked_venison, item.cooked_venison.name, 烤鹿肉, 0
 foodVenisonraw
+  mysticalworld:venison, item.venison.name, 鹿肉, 0
   harvestcraft:venisonrawitem, item.venisonrawitem.name, 生鹿肉, 0
 foodVindaloo
   harvestcraft:vindalooitem, item.vindalooitem.name, 咖喱肉, 0
@@ -2671,12 +2847,16 @@ frozenBlock
   iceandfire:frozen_cobblestone, tile.iceandfire.frozenCobblestone.name, 霜冻圆石, 0
   iceandfire:frozen_stone, tile.iceandfire.frozenStone.name, 霜冻石头, 0
   iceandfire:frozen_grass, tile.iceandfire.frozenGrass.name, 霜冻草方块, 0
+fuelCoke
+  pyrotech:material, item.pyrotech.coal.coke.name, 煤焦, 1
 fur
   thaumadditions:zeith_fur, item.thaumadditions:zeith_fur.name, 苍狼皮, 0
 gemAmber
   thaumcraft:amber, item.amber.name, 琥珀, 0
 gemAmbrosium
   aether:ambrosium_shard, item.aether.ambrosium_shard.name, 神能晶片, 0
+gemAmethyst
+  mysticalworld:amethyst_gem, item.amethyst_gem.name, 紫水晶, 0
 gemAquaMiddleGem
   thebetweenlands:aqua_middle_gem, item.thebetweenlands.aqua_middle_gem.name, 水蓝元素宝石, 0
 gemCoralium
@@ -2696,6 +2876,8 @@ gemLapis
 gemLifeCrystal
   thebetweenlands:life_crystal_fragment, item.thebetweenlands.life_crystal_fragment.name, 生命水晶碎块, 32767
   thebetweenlands:life_crystal, item.thebetweenlands.life_crystal.name, 生命水晶, 32767
+gemPearl
+  mysticalworld:pearl, item.pearl.name, 珍珠, 0
 gemPrismarine
   minecraft:prismarine_shard, item.prismarineShard.name, 海晶碎片, 0
 gemQuartz
@@ -2757,6 +2939,8 @@ holystone_brick_decorative
   aether:holystone_brick_decorative, tile.aether.holystone_brick_decorative.name, 饰纹圣石砖, 5
   aether:holystone_brick_decorative, tile.aether.holystone_brick_decorative.name, 饰纹圣石砖, 6
   aether:holystone_pillar, tile.aether.holystone_pillar.name, 圣石砖柱, 0
+hopper
+  minecraft:hopper, tile.hopper.name, 漏斗, 0
 iceDragonScaleBlock
   iceandfire:dragonscale_blue, tile.iceandfire.dragonscale_block.name, 龙鳞块, 0
   iceandfire:dragonscale_silver, tile.iceandfire.dragonscale_block.name, 龙鳞块, 0
@@ -2774,6 +2958,12 @@ ingotAbyssalnite
   abyssalcraft:abyingot, item.abyingot.name, §3渊素锭, 0
 ingotAdaminite
   thaumadditions:adaminite_ingot, item.thaumadditions:adaminite_ingot.name, 精金锭, 0
+ingotAluminium
+  embers:ingot_aluminum, item.ingot_aluminum.name, 再生铝锭, 0
+ingotAluminum
+  embers:ingot_aluminum, item.ingot_aluminum.name, 再生铝锭, 0
+ingotAntimony
+  soot:ingot_antimony, item.ingot_antimony.name, 锑锭, 0
 ingotArkenium
   aether:arkenium, item.aether.arkenium.name, 阿肯钢材, 0
 ingotBrass
@@ -2782,12 +2972,20 @@ ingotBrick
   minecraft:brick, item.brick.name, 红砖, 0
 ingotBrickNether
   minecraft:netherbrick, item.netherbrick.name, 地狱砖块, 0
+ingotBronze
+  embers:ingot_bronze, item.ingot_bronze.name, 青铜锭, 0
 ingotCopper
   abyssalcraft:copperingot, item.copperingot.name, 铜锭, 0
+  embers:ingot_copper, item.ingot_copper.name, 铜锭, 0
+  mysticalworld:copper_ingot, item.copper_ingot.name, 铜锭, 0
 ingotCoraliumBrick
   abyssalcraft:cbrick, item.cbrick.name, 珊瑚砖, 0
+ingotDawnstone
+  embers:ingot_dawnstone, item.ingot_dawnstone.name, 黎明石锭, 0
 ingotDreadium
   abyssalcraft:dreadiumingot, item.dreadiumingot.name, §4惧质锭, 0
+ingotElectrum
+  embers:ingot_electrum, item.ingot_electrum.name, 琥珀金锭, 0
 ingotEthaxium
   abyssalcraft:ethaxiumingot, item.ethaxiumingot.name, §b伊塞斯锭, 0
 ingotEthaxiumBrick
@@ -2800,35 +2998,56 @@ ingotIceDragonsteel
   iceandfire:dragonsteel_ice_ingot, item.iceandfire.dragonsteel_ice_ingot.name, 龙霜钢锭, 0
 ingotIron
   minecraft:iron_ingot, item.ingotIron.name, 铁锭, 0
+ingotLead
+  embers:ingot_lead, item.ingot_lead.name, 铅锭, 0
 ingotLiquifiedCoralium
   abyssalcraft:cingot, item.cingot.name, §b精炼珊瑚锭, 0
 ingotMithminite
   thaumadditions:mithminite_ingot, item.thaumadditions:mithminite_ingot.name, 秘金锭, 0
 ingotMithrillium
   thaumadditions:mithrillium_ingot, item.thaumadditions:mithrillium_ingot.name, 秘银锭, 0
+ingotNickel
+  embers:ingot_nickel, item.ingot_nickel.name, 镍锭, 0
 ingotOctine
   thebetweenlands:octine_ingot, item.thebetweenlands.octine_ingot.name, 炽炎铁锭, 0
 ingotSilver
+  mysticalworld:silver_ingot, item.silver_ingot.name, 银锭, 0
   iceandfire:silver_ingot, item.iceandfire.silverIngot.name, 银锭, 0
+  embers:ingot_silver, item.ingot_silver.name, 银锭, 0
 ingotSyrmorite
   thebetweenlands:items_misc, item.thebetweenlands.syrmorite_ingot.name, 赛摩铜锭, 11
 ingotThaumium
   thaumcraft:ingot, item.ingot.thaumium.name, 神秘锭, 0
 ingotTin
+  embers:ingot_tin, item.ingot_tin.name, 再生锡锭, 0
   abyssalcraft:tiningot, item.tiningot.name, 锡锭, 0
 ingotVoid
   thaumcraft:ingot, item.ingot.void.name, 虚空金属锭, 1
+ingredientChowderFill
+  mysticalworld:cooked_squid, item.cooked_squid.name, 熟鱿鱼, 0
 ingredientEgg
   iceandfire:myrmex_desert_egg, item.iceandfire.myrmex_desert_egg.name, 沙漠恐蚁卵, 32767
   iceandfire:iceandfire.deathworm_egg, item.iceandfire.deathworm_egg.name, 死亡蠕虫卵, 32767
   iceandfire:myrmex_jungle_egg, item.iceandfire.myrmex_jungle_egg.name, 丛林恐蚁卵, 32767
   iceandfire:hippogryph_egg, item.iceandfire.hippogryph_egg.name, 骏鹰蛋, 32767
+ingredientKebabAdventure
+  mysticalworld:raw_squid, item.raw_squid.name, 生鱿鱼, 0
+  mysticalworld:venison, item.venison.name, 鹿肉, 0
+ingredientKebabMain
+  mysticalworld:aubergine, item.aubergine.name, 茄子, 0
+ingredientKebabSeafood
+  mysticalworld:cooked_squid, item.cooked_squid.name, 熟鱿鱼, 0
+ingredientVegNugget
+  mysticalworld:aubergine, item.aubergine.name, 茄子, 0
+itemClay
+  minecraft:clay_ball, item.clay.name, 粘土, 0
 itemSalt
   harvestcraft:saltitem, item.saltitem.name, 盐, 0
 jungleMyrmexEgg
   iceandfire:myrmex_jungle_egg, item.iceandfire.myrmex_jungle_egg.name, 丛林恐蚁卵, 32767
 leather
   minecraft:leather, item.leather.name, 皮革, 0
+  roots:fey_leather, item.fey_leather.name, 精灵皮革, 0
 liquidAntimatter
   abyssalcraft:antiwater, tile.antiwater.name, 液态反物质, 0
 liquidCoralium
@@ -2893,12 +3112,13 @@ listAllfiber
   harvestcraft:flaxitem, item.flaxitem.name, 亚麻, 0
   harvestcraft:sisalitem, item.sisalitem.name, 剑麻, 0
 listAllfishcooked
-  minecraft:cooked_salmon, item.minecraft:cooked_salmon.name, 熟鲑鱼, 0
-  harvestcraft:calamaricookeditem, item.calamaricookeditem.name, 熟鱿鱼, 0
   harvestcraft:cookedtofishitem, item.cookedtofishitem.name, 熟豆腐鱼, 0
   minecraft:cooked_cod, item.minecraft:cooked_cod.name, 熟鱼, 0
   minecraft:cooked_fish, item.fish.salmon.cooked.name, 熟鲑鱼, 1
   minecraft:cooked_fish, item.fish.cod.cooked.name, 熟鱼, 0
+  minecraft:cooked_salmon, item.minecraft:cooked_salmon.name, 熟鲑鱼, 0
+  harvestcraft:calamaricookeditem, item.calamaricookeditem.name, 熟鱿鱼, 0
+  mysticalworld:cooked_squid, item.cooked_squid.name, 熟鱿鱼, 0
 listAllfishfresh
   minecraft:salmon, item.minecraft:salmon.name, 生鲑鱼, 0
   harvestcraft:troutrawitem, item.troutrawitem.name, 生鲑鱼, 0
@@ -2920,10 +3140,19 @@ listAllfishfresh
   harvestcraft:snapperrawitem, item.snapperrawitem.name, 生鲷鱼, 0
   harvestcraft:sardinerawitem, item.sardinerawitem.name, 生沙丁鱼, 0
   harvestcraft:perchrawitem, item.perchrawitem.name, 生鲈鱼, 0
+  mysticalworld:raw_squid, item.raw_squid.name, 生鱿鱼, 0
   minecraft:cod, item.minecraft:cod.name, 生鱼, 0
   harvestcraft:charrrawitem, item.charrrawitem.name, 生嘉鱼, 0
 listAllfishraw
   minecraft:salmon, item.minecraft:salmon.name, 生鲑鱼, 0
+  minecraft:clownfish, item.minecraft:clownfish.name, 小丑鱼, 0
+  harvestcraft:walleyerawitem, item.walleyerawitem.name, 生大眼狮鲈鱼, 0
+  harvestcraft:rawtofishitem, item.rawtofishitem.name, 生豆腐鱼, 0
+  harvestcraft:calamarirawitem, item.calamarirawitem.name, 生鱿鱼, 0
+  harvestcraft:catfishrawitem, item.catfishrawitem.name, 生鲶鱼, 0
+  harvestcraft:sardinerawitem, item.sardinerawitem.name, 生沙丁鱼, 0
+  mysticalworld:raw_squid, item.raw_squid.name, 生鱿鱼, 0
+  minecraft:cod, item.minecraft:cod.name, 生鱼, 0
   harvestcraft:groundfishitem, item.groundfishitem.name, 鱼肉馅, 0
   harvestcraft:troutrawitem, item.troutrawitem.name, 生鲑鱼, 0
   minecraft:fish, item.fish.cod.raw.name, 生鱼, 32767
@@ -2931,21 +3160,14 @@ listAllfishraw
   harvestcraft:herringrawitem, item.herringrawitem.name, 生青鱼, 0
   harvestcraft:tilapiarawitem, item.tilapiarawitem.name, 生罗非鱼, 0
   harvestcraft:anchovyrawitem, item.anchovyrawitem.name, 生鳀鱼, 0
-  minecraft:clownfish, item.minecraft:clownfish.name, 小丑鱼, 0
   harvestcraft:carprawitem, item.carprawitem.name, 生鲤鱼, 0
   harvestcraft:grouperrawitem, item.grouperrawitem.name, 生石斑鱼, 0
-  harvestcraft:walleyerawitem, item.walleyerawitem.name, 生大眼狮鲈鱼, 0
-  harvestcraft:rawtofishitem, item.rawtofishitem.name, 生豆腐鱼, 0
   minecraft:pufferfish, item.minecraft:pufferfish.name, 河豚, 0
   harvestcraft:greenheartfishitem, item.greenheartfishitem.name, 绿心鱼, 0
-  harvestcraft:calamarirawitem, item.calamarirawitem.name, 生鱿鱼, 0
   harvestcraft:mudfishrawitem, item.mudfishrawitem.name, 生泥鱼, 0
   harvestcraft:bassrawitem, item.bassrawitem.name, 生鲈鱼, 0
-  harvestcraft:catfishrawitem, item.catfishrawitem.name, 生鲶鱼, 0
   harvestcraft:snapperrawitem, item.snapperrawitem.name, 生鲷鱼, 0
-  harvestcraft:sardinerawitem, item.sardinerawitem.name, 生沙丁鱼, 0
   harvestcraft:perchrawitem, item.perchrawitem.name, 生鲈鱼, 0
-  minecraft:cod, item.minecraft:cod.name, 生鱼, 0
   harvestcraft:charrrawitem, item.charrrawitem.name, 生嘉鱼, 0
 listAllfruit
   harvestcraft:papayaitem, item.papayaitem.name, 木瓜, 0
@@ -3051,6 +3273,7 @@ listAlljuice
   harvestcraft:blueberryjuiceitem, item.blueberryjuiceitem.name, 蓝莓汁, 0
   harvestcraft:peachjuiceitem, item.peachjuiceitem.name, 桃子汁, 0
 listAllmeatcooked
+  mysticalworld:cooked_venison, item.cooked_venison.name, 烤鹿肉, 0
   harvestcraft:venisoncookeditem, item.venisoncookeditem.name, 熟鹿肉, 0
   harvestcraft:cookedtofurkeyitem, item.cookedtofurkeyitem.name, 熟豆腐火鸡肉, 0
   harvestcraft:cookedtofickenitem, item.cookedtofickenitem.name, 熟豆腐鸡肉, 0
@@ -3074,6 +3297,7 @@ listAllmeatraw
   harvestcraft:groundmuttonitem, item.groundmuttonitem.name, 羊肉馅, 0
   minecraft:beef, item.minecraft:beef.name, 生牛肉, 0
   harvestcraft:rawtofuduckitem, item.rawtofuduckitem.name, 生豆腐鸭肉, 0
+  mysticalworld:venison, item.venison.name, 鹿肉, 0
   harvestcraft:rawtofabbititem, item.rawtofabbititem.name, 生豆腐兔肉, 0
   harvestcraft:rawtofickenitem, item.rawtofickenitem.name, 生豆腐鸡肉, 0
   harvestcraft:rawtofenisonitem, item.rawtofenisonitem.name, 生豆腐鹿肉, 0
@@ -3186,6 +3410,7 @@ listAllseed
   harvestcraft:amaranthseeditem, item.amaranthseeditem.name, 苋菜种子, 0
   harvestcraft:gingerseeditem, item.gingerseeditem.name, 生姜种子, 0
   harvestcraft:wintersquashseeditem, item.wintersquashseeditem.name, 冬南瓜种子, 0
+  mysticalworld:aubergine_seed, item.aubergine_seed.name, 茄子种子, 0
   harvestcraft:kaleseeditem, item.kaleseeditem.name, 甘蓝种子, 0
   harvestcraft:bambooshootseeditem, item.bambooshootseeditem.name, 竹笋种子, 0
   harvestcraft:parsnipseeditem, item.parsnipseeditem.name, 防风草种子, 0
@@ -3317,6 +3542,7 @@ listAllveggie
   harvestcraft:beetitem, item.beetitem.name, 甜菜, 0
   harvestcraft:tomatoitem, item.tomatoitem.name, 番茄, 0
   harvestcraft:jackfruititem, item.jackfruititem.name, 菠萝蜜, 0
+  mysticalworld:aubergine, item.aubergine.name, 茄子, 0
   minecraft:beetroot, item.minecraft:beetroot.name, 甜菜, 0
   harvestcraft:leekitem, item.leekitem.name, 韭菜, 0
   harvestcraft:onionitem, item.onionitem.name, 洋葱, 0
@@ -3351,11 +3577,13 @@ listAllveggie
   harvestcraft:beanitem, item.beanitem.name, 豆子, 0
 listAllvenisoncooked
   harvestcraft:venisoncookeditem, item.venisoncookeditem.name, 熟鹿肉, 0
+  mysticalworld:cooked_venison, item.cooked_venison.name, 烤鹿肉, 0
   harvestcraft:cookedtofenisonitem, item.cookedtofenisonitem.name, 熟豆腐鹿肉, 0
 listAllvenisonraw
-  harvestcraft:rawtofenisonitem, item.rawtofenisonitem.name, 生豆腐鹿肉, 0
   harvestcraft:groundvenisonitem, item.groundvenisonitem.name, 鹿肉馅, 0
   harvestcraft:venisonrawitem, item.venisonrawitem.name, 生鹿肉, 0
+  harvestcraft:rawtofenisonitem, item.rawtofenisonitem.name, 生豆腐鹿肉, 0
+  mysticalworld:venison, item.venison.name, 鹿肉, 0
 listAllwater
   minecraft:water_bucket, item.bucketWater.name, 水桶, 0
   harvestcraft:freshwateritem, item.freshwateritem.name, 淡水, 0
@@ -3402,8 +3630,10 @@ logWood
   thebetweenlands:log_sap, tile.thebetweenlands.log_sap.name, 凝胶树原木, 32767
   abyssalcraft:dltlog, tile.dltlog.name, 黑暗之地橡木, 0
   thebetweenlands:log_rubber, tile.thebetweenlands.log_rubber.name, 橡胶树原木, 32767
+  roots:wildwood_log, tile.wildwood_log.name, 野木, 0
   betternether:stalagnate_stem, tile.stalagnate.name, 石笋, 0
   minecraft:log2, tile.log.oak.name, 橡木, 32767
+  mysticalworld:charred_log, tile.charred_log.name, 烧焦的原木, 0
   thaumcraft:log_greatwood, tile.log_greatwood.name, 宏伟之木原木, 0
   thebetweenlands:giant_root, tile.thebetweenlands.giant_root.name, 巨型树根, 32767
   thebetweenlands:log_spirit_tree, tile.thebetweenlands.log_spirit_tree.name, 灵魂树原木, 32767
@@ -3419,6 +3649,11 @@ materialMethane
   abyssalcraft:methane, item.methane.name, 甲烷, 0
 materialPressedwax
   harvestcraft:beeswaxitem, item.beeswaxitem.name, 蜂蜡, 0
+milk
+  pyrotech:bucket_stone, item.pyrotech.bucket.stone.name, 石牛奶桶, 1
+  pyrotech:bucket_clay, item.pyrotech.bucket.clay.name, 粘土牛奶桶, 1
+  minecraft:milk_bucket, item.milk.name, 牛奶, 0
+  pyrotech:bucket_wood, item.pyrotech.bucket.wood.name, 木牛奶桶, 1
 mythicalSkull
   iceandfire:hippogryph_skull, item.iceandfire.hippogryph_skull.name, 骏鹰颅骨, 0
   iceandfire:seaserpent_skull, item.iceandfire.seaserpent_skull.name, 海蟒颅骨, 0
@@ -3454,19 +3689,30 @@ nuggetAbyssalnite
   abyssalcraft:ingotnugget, item.nugget.abyssalnite.name, 渊素粒, 0
 nuggetAdaminite
   thaumadditions:adaminite_nugget, item.thaumadditions:adaminite_nugget.name, 精金粒, 0
+nuggetAluminium
+  embers:nugget_aluminum, item.nugget_aluminum.name, 铝粒, 0
 nuggetAluminum
+  embers:nugget_aluminum, item.nugget_aluminum.name, 铝粒, 0
   agricraft:agri_nugget, item.agricraft:nugget_aluminum.name, 铝粒, 8
 nuggetBrass
   thaumcraft:nugget, item.nugget.brass.name, 炼金黄铜粒, 8
+nuggetBronze
+  embers:nugget_bronze, item.nugget_bronze.name, 青铜粒, 0
 nuggetCopper
   agricraft:agri_nugget, item.agricraft:nugget_copper.name, 铜粒, 4
-  grimoireofgaia:shard, item.grimoireofgaia.shard_4.name, 铜粒, 4
   thaumcraft:nugget, item.nugget.copper.name, 铜粒, 1
+  embers:nugget_copper, item.nugget_copper.name, 铜粒, 0
+  mysticalworld:copper_nugget, item.copper_nugget.name, 铜粒, 0
+  grimoireofgaia:shard, item.grimoireofgaia.shard_4.name, 铜粒, 4
+nuggetDawnstone
+  embers:nugget_dawnstone, item.nugget_dawnstone.name, 黎明石粒, 0
 nuggetDiamond
   grimoireofgaia:shard, item.grimoireofgaia.shard_2.name, 钻石碎片, 2
   agricraft:agri_nugget, item.agricraft:nugget_diamond.name, 钻石粒, 1
 nuggetDreadium
   abyssalcraft:ingotnugget, item.nugget.dreadium.name, 惧质粒, 2
+nuggetElectrum
+  embers:nugget_electrum, item.nugget_electrum.name, 琥珀金粒, 0
 nuggetEmerald
   agricraft:agri_nugget, item.agricraft:nugget_emerald.name, 绿宝石粒, 0
   grimoireofgaia:shard, item.grimoireofgaia.shard_3.name, 绿宝石碎片, 3
@@ -3482,6 +3728,7 @@ nuggetIron
   thaumcraft:nugget, item.nugget.iron.name, 铁粒, 0
 nuggetLead
   agricraft:agri_nugget, item.agricraft:nugget_lead.name, 铅粒, 6
+  embers:nugget_lead, item.nugget_lead.name, 铅粒, 0
   thaumcraft:nugget, item.nugget.lead.name, 铅粒, 4
 nuggetLiquifiedCoralium
   abyssalcraft:ingotnugget, item.nugget.coralium.name, 精炼珊瑚粒, 1
@@ -3498,6 +3745,7 @@ nuggetMithrillium
   thaumadditions:mithrillium_nugget, item.thaumadditions:mithrillium_nugget.name, 秘银粒, 0
 nuggetNickel
   agricraft:agri_nugget, item.agricraft:nugget_nickel.name, 镍粒, 9
+  embers:nugget_nickel, item.nugget_nickel.name, 镍粒, 0
 nuggetOctine
   thebetweenlands:items_misc, item.thebetweenlands.octine_nugget.name, 炽炎铁粒, 42
 nuggetOsmium
@@ -3512,6 +3760,8 @@ nuggetQuicksilver
 nuggetSilver
   thaumcraft:nugget, item.nugget.silver.name, 银粒, 3
   agricraft:agri_nugget, item.agricraft:nugget_silver.name, 银粒, 7
+  embers:nugget_silver, item.nugget_silver.name, 银Nugget, 0
+  mysticalworld:silver_nugget, item.silver_nugget.name, 银粒, 0
   grimoireofgaia:shard, item.grimoireofgaia.shard_5.name, 银粒, 5
   iceandfire:silver_nugget, item.iceandfire.silverNugget.name, 银粒, 0
 nuggetSyrmorite
@@ -3520,6 +3770,7 @@ nuggetThaumium
   thaumcraft:nugget, item.nugget.thaumium.name, 神秘粒, 6
 nuggetTin
   thaumcraft:nugget, item.nugget.tin.name, 锡粒, 2
+  embers:nugget_tin, item.nugget_tin.name, 锡粒, 0
   agricraft:agri_nugget, item.agricraft:nugget_tin.name, 锡粒, 5
 nuggetUnknown
   agricraft:agri_nugget, item.agricraft:nugget_unknown.name, 未知碎片, 12
@@ -3537,11 +3788,17 @@ obsidian
 oreAbyssalnite
   abyssalcraft:abydreadore, tile.abydreadore.name, 恐惧之地渊素矿石, 0
   abyssalcraft:abyore, tile.abyore.name, 渊素矿石, 0
+oreAluminium
+  embers:ore_aluminum, tile.ore_aluminum.name, 铝矿石, 0
+oreAluminum
+  embers:ore_aluminum, tile.ore_aluminum.name, 铝矿石, 0
 oreAmber
   thaumcraft:ore_amber, tile.ore_amber.name, 琥珀矿石, 0
 oreAmbrosium
   aether:ambrosium_ore, tile.aether.ambrosium_ore.name, 神能矿石, 0
   netherendingores:ore_other_1, tile.netherendingores:ore_other_1.overworld_ambrosium_ore.name, Overworld Ambrosium Ore, 6
+oreAmethyst
+  mysticalworld:amethyst_ore, tile.amethyst_ore.name, 紫水晶矿石, 0
 oreAquaMiddleGem
   thebetweenlands:aqua_middle_gem_ore, tile.thebetweenlands.aqua_middle_gem_ore.name, 水蓝元素宝石矿石, 0
 oreArdite
@@ -3562,6 +3819,8 @@ oreCobalt
   netherendingores:ore_other_1, tile.netherendingores:ore_other_1.overworld_cobalt_ore.name, 钴矿石, 4
   netherendingores:ore_other_1, tile.netherendingores:ore_other_1.end_cobalt_ore.name, 末地钴矿石, 5
 oreCopper
+  mysticalworld:copper_ore, tile.copper_ore.name, 铜矿石, 0
+  embers:ore_copper, tile.ore_copper.name, 铜矿石, 0
   abyssalcraft:abycopore, tile.abycopore.name, 深渊铜矿石, 0
 oreCoralium
   abyssalcraft:coraliumore, tile.coraliumore.name, 珊瑚矿石, 0
@@ -3677,6 +3936,8 @@ oreIron
   minecraft:iron_ore, tile.oreIron.name, 铁矿石, 0
 oreLapis
   minecraft:lapis_ore, tile.oreLapis.name, 青金石矿石, 0
+oreLead
+  embers:ore_lead, tile.ore_lead.name, 铅矿, 0
 oreLifeCrystal
   thebetweenlands:life_crystal_stalactite, tile.thebetweenlands.life_crystal_stalactite.ore.name, 生命水晶矿石, 1
 oreLiquifiedCoralium
@@ -3695,6 +3956,7 @@ oreNetherChargedCertusQuartz
   netherendingores:ore_nether_modded_1, tile.netherendingores:ore_nether_modded_1.charged_certus_quartz_ore.name, 地狱充能赛特斯石英矿石, 10
 oreNetherCoal
   netherendingores:ore_nether_vanilla, tile.netherendingores:ore_nether_vanilla.coal_ore.name, 地狱煤矿石, 0
+  pyrotech:dense_nether_coal_ore, tile.pyrotech.dense_nether_coal_ore.name, 下界致密煤矿, 0
 oreNetherCopper
   netherendingores:ore_nether_modded_1, tile.netherendingores:ore_nether_modded_1.copper_ore.name, 地狱铜矿石, 1
 oreNetherDiamond
@@ -3751,15 +4013,20 @@ oreNetherZanite
   netherendingores:ore_nether_modded_2, tile.netherendingores:ore_nether_modded_2.zanite_ore.name, Nether Zanite Ore, 7
 oreNetherZinc
   netherendingores:ore_nether_modded_2, tile.netherendingores:ore_nether_modded_2.zinc_ore.name, 下界锌矿石, 0
+oreNickel
+  embers:ore_nickel, tile.ore_nickel.name, 镍矿石, 0
 oreOctine
   thebetweenlands:octine_ore, tile.thebetweenlands.octine_ore.name, 炽炎铁矿石, 0
 orePearlescentCoralium
   abyssalcraft:abypcorore, tile.abypcorore.name, 珠光四射的珊瑚矿石, 0
 oreQuartz
+  netherendingores:ore_other_1, tile.netherendingores:ore_other_1.end_quartz_ore.name, 末地石英矿石, 1
+  embers:ore_quartz, tile.ore_quartz.name, 石英矿石, 0
+  mysticalworld:quartz_ore, tile.quartz_ore.name, 石英矿石, 0
   minecraft:quartz_ore, tile.netherquartz.name, 下界石英矿石, 0
   netherendingores:ore_other_1, tile.netherendingores:ore_other_1.overworld_quartz_ore.name, 石英矿石, 0
-  netherendingores:ore_other_1, tile.netherendingores:ore_other_1.end_quartz_ore.name, 末地石英矿石, 1
-  thaumcraft:ore_quartz, tile.ore_quartz.name, 石英矿, 0
+  mysticalworld:granite_quartz_ore, tile.granite_quartz_ore.name, 石英矿石, 0
+  thaumcraft:ore_quartz, tile.ore_quartz.name, 石英矿石, 0
 oreRedstone
   minecraft:redstone_ore, tile.oreRedstone.name, 红石矿石, 0
 oreSaltpeter
@@ -3770,12 +4037,15 @@ oreSapphire
 oreScabyst
   thebetweenlands:scabyst_ore, tile.thebetweenlands.scabyst_ore.name, 痂壳晶矿石, 0
 oreSilver
+  embers:ore_silver, tile.ore_silver.name, 银矿石, 0
   iceandfire:silver_ore, tile.iceandfire.silverOre.name, 银矿石, 0
+  mysticalworld:silver_ore, tile.silver_ore.name, Silver Ore, 0
 oreSulfur
   thebetweenlands:sulfur_ore, tile.thebetweenlands.sulfur_ore.name, 硫磺矿石, 0
 oreSyrmorite
   thebetweenlands:syrmorite_ore, tile.thebetweenlands.syrmorite_ore.name, 赛摩铜矿石, 0
 oreTin
+  embers:ore_tin, tile.ore_tin.name, 锡矿, 0
   abyssalcraft:abytinore, tile.abytinore.name, 深渊锡矿石, 0
 oreValonite
   thebetweenlands:valonite_ore, tile.thebetweenlands.valonite_ore.name, 法罗钠矿石, 0
@@ -3834,29 +4104,61 @@ plankWood
   thaumadditions:taintwood_planks, tile.thaumadditions:taintwood_planks.name, 腐化原木木板, 0
   thebetweenlands:nibbletwig_planks, tile.thebetweenlands.nibbletwig_planks.name, 奇趣枝木板, 0
   thaumcraft:plank_greatwood, tile.plank_greatwood.name, 宏伟之木木板, 0
+  mysticalworld:charred_planks, tile.charred_planks.name, 烧焦的木板, 0
   minecraft:planks, tile.wood.oak.name, 橡木木板, 32767
   abyssalcraft:dreadplanks, tile.dreadplanks.name, 恐惧之地木板, 0
+  roots:wildwood_planks, tile.wildwood_planks.name, 野木木板, 0
   thebetweenlands:giant_root_planks, tile.thebetweenlands.giant_root_planks.name, 巨型树根木板, 0
   abyssalcraft:dltplank, tile.dltplank.name, 黑暗之地橡木木板, 0
   thebetweenlands:rubber_tree_planks, tile.thebetweenlands.rubber_tree_planks.name, 橡胶树木板, 0
 plateAdaminite
   thaumadditions:adaminite_plate, item.thaumadditions:adaminite_plate.name, 精金板, 0
+plateAluminium
+  embers:plate_aluminum, item.plate_aluminum.name, 铝板, 0
+plateAluminum
+  embers:plate_aluminum, item.plate_aluminum.name, 铝板, 0
 plateBrass
   thaumcraft:plate, item.plate.brass.name, 黄铜板, 0
+plateBronze
+  embers:plate_bronze, item.plate_bronze.name, 青铜板, 0
+plateCopper
+  embers:plate_copper, item.plate_copper.name, 铜板, 0
+plateDawnstone
+  embers:plate_dawnstone, item.plate_dawnstone.name, 黎明石板, 0
+plateElectrum
+  embers:plate_electrum, item.plate_electrum.name, 琥珀金板, 0
+plateGold
+  embers:plate_gold, item.plate_gold.name, 金板, 0
 plateIron
   thaumcraft:plate, item.plate.iron.name, 铁板, 1
+  embers:plate_iron, item.plate_iron.name, 铁板, 0
+plateLead
+  embers:plate_lead, item.plate_lead.name, 铅板, 0
 plateMithminite
   thaumadditions:mithminite_plate, item.thaumadditions:mithminite_plate.name, 秘金板, 0
 plateMithrillium
   thaumadditions:mithrillium_plate, item.thaumadditions:mithrillium_plate.name, 秘银板, 0
+plateNickel
+  embers:plate_nickel, item.plate_nickel.name, 镍板, 0
+plateSilver
+  embers:plate_silver, item.plate_silver.name, 银板, 0
 plateThaumium
   thaumcraft:plate, item.plate.thaumium.name, 神秘板, 2
+plateTin
+  embers:plate_tin, item.plate_tin.name, 锡板, 0
 plateVoid
   thaumcraft:plate, item.plate.void.name, 虚空金属板, 3
+pyreFireStarters
+  minecraft:flint_and_steel, item.flintAndSteel.name, 打火石, 0
 quartzDark
   thaumictinkerer:black_quartz, item.thaumictinkerer:black_quartz.name, 烟黑石英, 0
 quicksilver
   thaumcraft:quicksilver, item.quicksilver.name, 水银, 0
+rail
+  minecraft:rail, tile.rail.name, 铁轨, 0
+  minecraft:activator_rail, tile.activatorRail.name, 激活铁轨, 0
+  minecraft:detector_rail, tile.detectorRail.name, 探测铁轨, 0
+  minecraft:golden_rail, tile.goldenRail.name, 充能铁轨, 0
 record
   minecraft:record_wait, item.record.name, 音乐唱片, 0
   thebetweenlands:wandering_wisps, item.thebetweenlands.wandering_wisps.name, 流浪精灵唱片, 0
@@ -3884,6 +4186,27 @@ record
   minecraft:record_blocks, item.record.name, 音乐唱片, 0
   thebetweenlands:onwards, item.thebetweenlands.onwards.name, 前行唱片, 0
   thebetweenlands:stuck_in_the_mud, item.thebetweenlands.stuck_in_the_mud.name, 深陷泥潭唱片, 0
+rock
+  pyrotech:rock, tile.pyrotech.rock_andesite.name, 安山岩块, 3
+  pyrotech:rock, tile.pyrotech.rock_granite.name, 花岗岩块, 1
+  pyrotech:rock, tile.pyrotech.rock_diorite.name, 闪长岩块, 2
+  pyrotech:rock, tile.pyrotech.rock_sandstone.name, 砂岩块, 6
+  pyrotech:rock, tile.pyrotech.rock_limestone.name, 石灰岩块, 8
+  pyrotech:rock, tile.pyrotech.rock_sandstone_red.name, 红砂岩块, 10
+  pyrotech:rock, tile.pyrotech.rock_stone.name, 石块, 0
+rootsBark
+  roots:bark_oak, item.bark_oak.name, 橡树皮, 0
+  roots:bark_birch, item.bark_birch.name, 白桦树皮, 0
+  roots:bark_acacia, item.bark_acacia.name, 金合欢树皮, 0
+  roots:bark_jungle, item.bark_jungle.name, 丛林树皮, 0
+  roots:bark_spruce, item.bark_spruce.name, 云杉树皮, 0
+  roots:bark_wildwood, item.bark_wildwood.name, 野木树皮, 0
+  roots:bark_dark_oak, item.bark_dark_oak.name, 深色橡树皮, 0
+runestone
+  roots:runestone, tile.runestone.name, 符文石, 0
+  roots:chiseled_runestone, tile.chiseled_runestone.name, 雕刻的符文石, 0
+  roots:runestone_brick_alt, tile.runestone_brick_alt.name, 符文石砖, 0
+  roots:runestone_brick, tile.runestone_brick.name, 符文石砖, 0
 salmonRaw
   minecraft:salmon, item.minecraft:salmon.name, 生鲑鱼, 0
   minecraft:fish, item.fish.cod.raw.name, 生鱼, 0
@@ -3901,6 +4224,11 @@ seaSerpentScales
   iceandfire:sea_serpent_scales_blue, item.iceandfire.sea_serpent_scales_blue.name, 海蟒鳞片, 0
   iceandfire:sea_serpent_scales_deepblue, item.iceandfire.sea_serpent_scales_deepblue.name, 海蟒鳞片, 0
   iceandfire:sea_serpent_scales_green, item.iceandfire.sea_serpent_scales_green.name, 海蟒鳞片, 0
+seed
+  minecraft:melon_seeds, item.seeds_melon.name, 西瓜种子, 0
+  minecraft:pumpkin_seeds, item.seeds_pumpkin.name, 南瓜种子, 0
+  minecraft:beetroot_seeds, item.beetroot_seeds.name, 甜菜种子, 0
+  minecraft:wheat_seeds, item.seeds.name, 小麦种子, 0
 seedAgave
   harvestcraft:agaveseeditem, item.agaveseeditem.name, 龙舌兰种子, 0
 seedAmaranth
@@ -4083,6 +4411,25 @@ sentrystone_brick_decorative
   aether:sentrystone_brick_decorative_lit, tile.aether.sentrystone_brick_decorative_lit.name, 饰纹亮岗哨石砖, 0
   aether:sentrystone_brick_decorative_lit, tile.aether.sentrystone_brick_decorative_lit.name, 饰纹亮岗哨石砖, 3
   aether:sentrystone_brick_decorative_lit, tile.aether.sentrystone_brick_decorative_lit.name, 饰纹亮岗哨石砖, 2
+shulkerBox
+  minecraft:silver_shulker_box, tile.shulkerBoxSilver.name, 淡灰色潜影盒, 0
+  minecraft:gray_shulker_box, tile.shulkerBoxGray.name, 灰色潜影盒, 0
+  minecraft:light_blue_shulker_box, tile.shulkerBoxLightBlue.name, 淡蓝色潜影盒, 0
+  minecraft:lime_shulker_box, tile.shulkerBoxLime.name, 黄绿色潜影盒, 0
+  minecraft:brown_shulker_box, tile.shulkerBoxBrown.name, 棕色潜影盒, 0
+  minecraft:green_shulker_box, tile.shulkerBoxGreen.name, 绿色潜影盒, 0
+  minecraft:pink_shulker_box, tile.shulkerBoxPink.name, 粉红色潜影盒, 0
+  minecraft:blue_shulker_box, tile.shulkerBoxBlue.name, 蓝色潜影盒, 0
+  minecraft:black_shulker_box, tile.shulkerBoxBlack.name, 黑色潜影盒, 0
+  minecraft:white_shulker_box, tile.shulkerBoxWhite.name, 白色潜影盒, 0
+  minecraft:magenta_shulker_box, tile.shulkerBoxMagenta.name, 品红色潜影盒, 0
+  minecraft:orange_shulker_box, tile.shulkerBoxOrange.name, 橙色潜影盒, 0
+  minecraft:cyan_shulker_box, tile.shulkerBoxCyan.name, 青色潜影盒, 0
+  minecraft:red_shulker_box, tile.shulkerBoxRed.name, 红色潜影盒, 0
+  minecraft:yellow_shulker_box, tile.shulkerBoxYellow.name, 黄色潜影盒, 0
+  minecraft:purple_shulker_box, tile.shulkerBoxPurple.name, 紫色潜影盒, 0
+shulkerShell
+  minecraft:shulker_shell, item.shulkerShell.name, 潜影壳, 0
 skyroot_decorative
   aether:skyroot_decorative, tile.aether.skyroot_decorative.name, 饰纹天根木板, 2
   aether:skyroot_decorative, tile.aether.skyroot_decorative.name, 饰纹天根木板, 1
@@ -4105,12 +4452,17 @@ slabWood
   thebetweenlands:rubber_tree_plank_slab, tile.thebetweenlands.rubber_tree_plank_slab.name, 橡胶木板台阶, 0
   thebetweenlands:giant_root_plank_slab, tile.thebetweenlands.giant_root_plank_slab.name, 巨型树根台阶, 0
   thebetweenlands:hearthgrove_plank_slab, tile.thebetweenlands.hearthgrove_plank_slab.name, 火树台阶, 0
-  thaumcraft:slab_silverwood, tile.slab_silverwood.name, 银树台阶, 0
   thebetweenlands:nibbletwig_plank_slab, tile.thebetweenlands.nibbletwig_plank_slab.name, 奇趣枝台阶, 0
   betternether:stalagnate_planks_slab_half, tile.stalagnate_planks_slab_half.name, 石笋台阶, 0
+  roots:wildwood_slab, tile.wildwood_slab.name, 野木台阶, 0
+  thaumcraft:slab_silverwood, tile.slab_silverwood.name, 银树台阶, 0
+  mysticalworld:charred_slab, tile.charred_slab.name, 烧焦的台阶, 0
   abyssalcraft:dltslab1, tile.dltslab1.name, 黑暗之地橡木台阶, 0
 slimeball
   minecraft:slime_ball, item.slimeball.name, 粘液球, 0
+  embers:adhesive, item.adhesive.name, 胶粘剂, 0
+snowball
+  minecraft:snowball, item.snowball.name, 雪球, 0
 stairWood
   thebetweenlands:hearthgrove_plank_stairs, tile.thebetweenlands.hearthgrove_plank_stairs.name, 火树楼梯, 0
   minecraft:dark_oak_stairs, tile.stairsWoodDarkOak.name, 深色橡木楼梯, 0
@@ -4118,13 +4470,17 @@ stairWood
   minecraft:oak_stairs, tile.stairsWood.name, 橡木楼梯, 0
   thebetweenlands:rubber_tree_plank_stairs, tile.thebetweenlands.rubber_tree_plank_stairs.name, 橡胶木板楼梯, 0
   minecraft:birch_stairs, tile.stairsWoodBirch.name, 桦木楼梯, 0
+  mysticalworld:charred_stairs, tile.charred_stairs.name, 烧焦的楼梯, 0
   minecraft:spruce_stairs, tile.stairsWoodSpruce.name, 云杉木楼梯, 0
+  roots:wildwood_stairs, tile.wildwood_stairs.name, 野木楼梯, 0
   minecraft:jungle_stairs, tile.stairsWoodJungle.name, 丛林木楼梯, 0
   thebetweenlands:giant_root_plank_stairs, tile.thebetweenlands.giant_root_plank_stairs.name, 巨型树根楼梯, 0
   thebetweenlands:nibbletwig_plank_stairs, tile.thebetweenlands.nibbletwig_plank_stairs.name, 奇趣枝楼梯, 0
   abyssalcraft:dltstairs, tile.dltstairs.name, 黑暗之地橡木楼梯, 0
   minecraft:acacia_stairs, tile.stairsWoodAcacia.name, 金合欢木楼梯, 0
   thebetweenlands:rotten_plank_stairs, tile.thebetweenlands.rotten_plank_stairs.name, 腐朽木板楼梯, 0
+stickStone
+  pyrotech:material, item.pyrotech.stick.stone.name, 石棒, 27
 stickWood
   minecraft:stick, item.stick.name, 木棍, 0
   thebetweenlands:items_misc, item.thebetweenlands.weedwood_stick.name, 杂草木棍, 20
@@ -4143,9 +4499,12 @@ stoneGranite
   minecraft:stone, tile.stone.granite.name, 花岗岩, 1
 stoneGranitePolished
   minecraft:stone, tile.stone.graniteSmooth.name, 磨制花岗岩, 2
+stoneLimestone
+  pyrotech:limestone, tile.pyrotech.limestone.name, 石灰岩, 0
 stoneVoid
   thaumicaugmentation:stone, tile.thaumicaugmentation.stone.stone_void.name, 虚空石, 0
 string
+  mysticalworld:silk_thread, item.silk_thread.name, 丝线, 0
   minecraft:string, item.string.name, 线, 0
 stringAny
   minecraft:string, item.string.name, 线, 0
@@ -4168,11 +4527,20 @@ therawood_decorative
   aether:therawood_decorative, tile.aether.therawood_decorative.name, 饰纹坻星木, 0
 toolAxe
   iceandfire:silver_axe, item.iceandfire.silver_axe.name, 银斧, 0
-  iceandfire:myrmex_desert_axe, item.iceandfire.myrmex_desert_axe.name, 沙漠蚁甲斧, 0
-  iceandfire:dragonsteel_ice_axe, item.iceandfire.dragonsteel_ice_axe.name, 龙霜钢斧, 0
-  iceandfire:myrmex_jungle_axe, item.iceandfire.myrmex_jungle_axe.name, 丛林蚁甲斧, 0
+  pyrotech:redstone_axe, item.pyrotech.redstone.axe.name, 红石斧, 32767
   iceandfire:dragonbone_axe, item.iceandfire.dragonbone_axe.name, 龙骨斧, 0
   iceandfire:dragonsteel_fire_axe, item.iceandfire.dragonsteel_fire_axe.name, 龙炎钢斧, 0
+  minecraft:iron_axe, item.hatchetIron.name, 铁斧, 32767
+  pyrotech:obsidian_axe, item.pyrotech.obsidian.axe.name, 黑曜石斧, 32767
+  iceandfire:myrmex_jungle_axe, item.iceandfire.myrmex_jungle_axe.name, 丛林蚁甲斧, 0
+  minecraft:golden_axe, item.hatchetGold.name, 金斧, 32767
+  minecraft:stone_axe, item.hatchetStone.name, 石斧, 32767
+  minecraft:diamond_axe, item.hatchetDiamond.name, 钻石斧, 32767
+  iceandfire:myrmex_desert_axe, item.iceandfire.myrmex_desert_axe.name, 沙漠蚁甲斧, 0
+  pyrotech:bone_axe, item.pyrotech.bone.axe.name, 骨斧, 32767
+  iceandfire:dragonsteel_ice_axe, item.iceandfire.dragonsteel_ice_axe.name, 龙霜钢斧, 0
+  pyrotech:crude_axe, item.pyrotech.crude.axe.name, 简陋的斧, 32767
+  pyrotech:flint_axe, item.pyrotech.flint.axe.name, 燧石斧, 32767
 toolBakeware
   harvestcraft:bakewareitem, item.bakewareitem.name, 烤盘, 0
 toolCuttingboard
@@ -4187,6 +4555,24 @@ toolPot
   harvestcraft:potitem, item.potitem.name, 锅, 0
 toolSaucepan
   harvestcraft:saucepanitem, item.saucepanitem.name, 深平底锅, 0
+toolSharp
+  pyrotech:redstone_axe, item.pyrotech.redstone.axe.name, 红石斧, 32767
+  minecraft:golden_sword, item.swordGold.name, 金剑, 32767
+  minecraft:iron_axe, item.hatchetIron.name, 铁斧, 32767
+  pyrotech:obsidian_sword, item.pyrotech.obsidian.sword.name, 黑曜石剑, 32767
+  pyrotech:flint_sword, item.pyrotech.flint.sword.name, 燧石剑, 32767
+  pyrotech:obsidian_axe, item.pyrotech.obsidian.axe.name, 黑曜石斧, 32767
+  pyrotech:bone_sword, item.pyrotech.bone.sword.name, 骨剑, 32767
+  minecraft:golden_axe, item.hatchetGold.name, 金斧, 32767
+  minecraft:stone_sword, item.swordStone.name, 石剑, 32767
+  minecraft:stone_axe, item.hatchetStone.name, 石斧, 32767
+  minecraft:diamond_axe, item.hatchetDiamond.name, 钻石斧, 32767
+  pyrotech:redstone_sword, item.pyrotech.redstone.sword.name, 红石剑, 32767
+  minecraft:diamond_sword, item.swordDiamond.name, 钻石剑, 32767
+  minecraft:iron_sword, item.swordIron.name, 铁剑, 32767
+  pyrotech:bone_axe, item.pyrotech.bone.axe.name, 骨斧, 32767
+  pyrotech:crude_axe, item.pyrotech.crude.axe.name, 简陋的斧, 32767
+  pyrotech:flint_axe, item.pyrotech.flint.axe.name, 燧石斧, 32767
 toolSkillet
   harvestcraft:skilletitem, item.skilletitem.name, 平底锅, 0
 torch
@@ -4205,6 +4591,7 @@ treeLeaves
   thebetweenlands:leaves_nibbletwig_tree, tile.thebetweenlands.leaves_nibbletwig_tree.name, 奇趣枝树叶, 0
   thebetweenlands:leaves_hearthgrove_tree, tile.thebetweenlands.leaves_hearthgrove_tree.name, 火树树叶, 0
   thebetweenlands:leaves_sap_tree, tile.thebetweenlands.leaves_sap_tree.name, 凝胶树树叶, 0
+  roots:wildwood_leaves, tile.wildwood_leaves.name, 野木树叶, 0
   thebetweenlands:leaves_spirit_tree_bottom, tile.thebetweenlands.leaves_spirit_tree_bottom.name, 灵魂树树叶, 0
   thaumcraft:leaves_greatwood, tile.leaves_greatwood.name, 宏伟之木树叶, 32767
   minecraft:leaves2, tile.leaves.oak.name, 橡树树叶, 32767
@@ -4264,10 +4651,16 @@ treeSapling
   harvestcraft:pear_sapling, tile.pear_sapling.name, 梨树树苗, 0
   thaumcraft:sapling_greatwood, tile.sapling_greatwood.name, 宏伟之木树苗, 0
   harvestcraft:nutmeg_sapling, tile.nutmeg_sapling.name, 肉豆蔻树苗, 0
+twine
+  minecraft:string, item.string.name, 线, 0
+  pyrotech:material, item.pyrotech.twine.name, 麻线, 14
+  pyrotech:material, item.pyrotech.twine.durable.name, 耐用麻线, 26
 vine
   thebetweenlands:thorns, tile.thebetweenlands.thorns.name, 荆棘, 0
   thebetweenlands:poison_ivy, tile.thebetweenlands.poison_ivy.name, 剧毒藤蔓, 0
   minecraft:vine, tile.vine.name, 藤蔓, 0
+wildroot
+  roots:wildroot, item.wildroot.name, 野根, 0
 wisproot_decorative
   aether:light_skyroot_decorative, tile.aether.light_skyroot_decorative.name, 饰纹天纤木板, 5
   aether:light_skyroot_decorative, tile.aether.light_skyroot_decorative.name, 饰纹天纤木板, 4
@@ -4279,6 +4672,7 @@ wisproot_decorative
   aether:light_skyroot_beam, tile.aether.light_skyroot_beam.name, 天纤木梁, 0
   aether:light_skyroot_decorative, tile.aether.light_skyroot_decorative.name, 饰纹天纤木板, 2
 wool
+  minecraft:wool, tile.cloth.white.name, 白色羊毛, 0
   minecraft:wool, tile.cloth.white.name, 白色羊毛, 32767
 woolBlack
   minecraft:wool, tile.cloth.black.name, 黑色羊毛, 15
@@ -4317,4 +4711,4 @@ woolYellow
 workbench
   minecraft:crafting_table, tile.workbench.name, 工作台, 0
   thebetweenlands:weedwood_workbench, tile.thebetweenlands.weedwood_workbench.name, 杂草木工作台, 0
-#output time is 14 ms.
+#output time is 16 ms.

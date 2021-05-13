@@ -1,0 +1,127 @@
+
+{
+  "ID": 78,
+  "Name": "Swamplands Clearing",
+  "Resource Location": "thebetweenlands:swamplands_clearing",
+  "Class": "thebetweenlands.common.world.biome.BiomeSwamplandsClearing",
+  "Root Height": 122.0,
+  "Height Variation": 1.0,
+  "Top Block": "thebetweenlands:swamp_grass",
+  "Filler Block": "thebetweenlands:swamp_dirt",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Water Color": "1589792",
+  "Temperature": 0.8,
+  "Humidity": 0.9,
+  "Water Tint": 1589792,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "WET",
+    "FOREST",
+    "DENSE",
+    "WATER",
+    "SWAMP"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "com.shinoow.abyssalcraft.common.entity.EntityDepthsGhoul",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.shinoow.abyssalcraft.common.entity.EntityAbyssalZombie",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "gaia.entity.monster.EntityGaiaSiren",
+      "Weight": 60,
+      "Min Group Count": 4,
+      "Max Group Count": 6
+    },
+    {
+      "Entity Class": "gaia.entity.monster.EntityGaiaNaga",
+      "Weight": 30,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "gaia.entity.monster.EntityGaiaSludgeGirl",
+      "Weight": 100,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "gaia.entity.monster.EntityGaiaGelatinousSlime",
+      "Weight": 80,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "gaia.entity.monster.EntityGaiaCreep",
+      "Weight": 80,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "gaia.entity.monster.EntityGaiaEnderEye",
+      "Weight": 40,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "gaia.entity.prop.EntityGaiaPropVase",
+      "Weight": 40,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "gaia.entity.prop.EntityGaiaPropChestMimic",
+      "Weight": 40,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "gaia.entity.monster.EntityGaiaArachne",
+      "Weight": 80,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "gaia.entity.monster.EntityGaiaDeathword",
+      "Weight": 40,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "gaia.entity.monster.EntityGaiaBoneKnight",
+      "Weight": 40,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "gaia.entity.monster.EntityGaiaFleshLich",
+      "Weight": 40,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

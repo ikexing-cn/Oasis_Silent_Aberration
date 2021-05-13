@@ -86,15 +86,22 @@ minecraft:smith,tool,Emerald:3,4->minecraft:diamond
 minecraft:smith,tool,Item:minecraft:diamond_pickaxe->Emerald:12,15
 minecraft:butcher,butcher,Emerald:14,18->minecraft:porkchop
 minecraft:butcher,butcher,Emerald:14,18->minecraft:chicken
+minecraft:butcher,butcher,Emerald:14,18->mysticalworld:venison
 minecraft:butcher,butcher,Emerald:16,24->minecraft:coal
 minecraft:butcher,butcher,Emerald:-7,-5->Item:minecraft:cooked_porkchop
 minecraft:butcher,butcher,Emerald:-8,-6->Item:minecraft:cooked_chicken
+minecraft:butcher,butcher,Emerald:1,1->Item:mysticalworld:cooked_venison
 minecraft:butcher,leather,Emerald:9,12->minecraft:leather
 minecraft:butcher,leather,Emerald:2,4->Item:minecraft:leather_leggings
+minecraft:butcher,leather,Emerald:9,12->mysticalworld:pelt
+minecraft:butcher,leather,Emerald:4,9->mysticalworld:carapace
+minecraft:butcher,leather,Emerald:1,1->mysticalworld:antlers
 minecraft:butcher,leather,Item:minecraft:leather_chestplate->Emerald:7,12
 minecraft:butcher,leather,Emerald:8,10->Item:minecraft:saddle
+roots:druid,druid,Emerald:8,12->Item:roots:living_arrow
+roots:druid,druid,Emerald:42,64->Item:roots:wildwood_sapling
 vampirism:hunter_expert,vampirism.hunter_expert,Emerald:20,30->vampirism:vampire_fang
 vampirism:hunter_expert,vampirism.hunter_expert,Emerald:1,1->vampirism:vampire_book
 vampirism:vampire_expert,vampirism.vampire_expert,Emerald:20,30->vampirism:vampire_fang
 vampirism:vampire_expert,vampirism.vampire_expert,Emerald:1,1->vampirism:vampire_book
-#output time is 1 ms.
+#output time is 11 ms.
