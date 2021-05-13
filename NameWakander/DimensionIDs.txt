@@ -8,7 +8,5 @@ UniqueId, UnlocalizedName, LocalizedName(if exist)
 51, The Dreadlands, The Dreadlands
 52, Omothol, Omothol
 53, The Dark Realm, The Dark Realm
-66, EREBUS, EREBUS
-312, pocket, pocket
 14676, emptiness, emptiness
 #output time is 1 ms.
