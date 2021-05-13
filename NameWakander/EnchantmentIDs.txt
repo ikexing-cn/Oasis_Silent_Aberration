@@ -38,4 +38,4 @@ UniqueId, RegistryName, ModId, UnlocalizedName, LocalizedName
 62, minecraft:lure, minecraft, enchantment.fishingSpeed, 饵钓
 70, minecraft:mending, minecraft, enchantment.mending, 经验修补
 71, minecraft:vanishing_curse, minecraft, enchantment.vanishing_curse, 消失诅咒
-#output time is 11 ms.
+#output time is 6 ms.

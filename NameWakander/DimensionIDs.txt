@@ -9,4 +9,4 @@ UniqueId, UnlocalizedName, LocalizedName(if exist)
 52, Omothol, Omothol
 53, The Dark Realm, The Dark Realm
 14676, emptiness, emptiness
-#output time is 1 ms.
+#output time is 0 ms.

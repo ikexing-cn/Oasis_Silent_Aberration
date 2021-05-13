@@ -527,12 +527,11 @@ tile.chest_of_drawers.name, betternether:chest_of_drawers[facing=north,open=fals
 秘银源质罐子, thaumadditions:jar_mithrillium
 精金源质罐子, thaumadditions:jar_adaminite
 秘金源质罐子, thaumadditions:jar_mithminite
-Imperium 水晶块, thaumadditions:crystal_block[facing=down]
+Ordo 水晶块, thaumadditions:crystal_block[facing=down]
 Aer 水晶块, thaumadditions:crystal_block[facing=down]
 Terra 水晶块, thaumadditions:crystal_block[facing=down]
 Ignis 水晶块, thaumadditions:crystal_block[facing=down]
 Aqua 水晶块, thaumadditions:crystal_block[facing=down]
-Ordo 水晶块, thaumadditions:crystal_block[facing=down]
 Perditio 水晶块, thaumadditions:crystal_block[facing=down]
 Vacuos 水晶块, thaumadditions:crystal_block[facing=down]
 Lux 水晶块, thaumadditions:crystal_block[facing=down]
@@ -575,6 +574,7 @@ Draco 水晶块, thaumadditions:crystal_block[facing=down]
 Infernum 水晶块, thaumadditions:crystal_block[facing=down]
 Ventus 水晶块, thaumadditions:crystal_block[facing=down]
 Visum 水晶块, thaumadditions:crystal_block[facing=down]
+Imperium 水晶块, thaumadditions:crystal_block[facing=down]
 Mythus 水晶块, thaumadditions:crystal_block[facing=down]
 腐化南瓜, thaumadditions:taintkin[facing=south]
 腐化南瓜灯, thaumadditions:taintkin_lit[facing=south]
@@ -1638,25 +1638,25 @@ Overworld Icestone Ore, netherendingores:ore_other_1[blocks=overworld_icestone_o
 渗透附魔台, thaumictinkerer:osmotic_enchanter
 活力牌板, thaumictinkerer:animation_tablet
 烟黑石英块, thaumictinkerer:black_quartz_block
-气象之球, thaumicwonders:meteorb[facing=north]
-疯狂引擎, thaumicwonders:madness_engine
 矿石探测器, thaumicwonders:ore_diviner
-元始加速器, thaumicwonders:primordial_accelerator[enabled=true,facing=north]
+虚空信标, thaumicwonders:void_beacon[enabled=true]
+气象之球, thaumicwonders:meteorb[facing=north]
+元始加速冲撞终端, thaumicwonders:primordial_accelerator_terminus[facing=north]
+创造模式源质罐子, thaumicwonders:creative_essentia_jar
+嗜肉之球, thaumicwonders:meaty_orb[facing=north]
 维度撕裂器, thaumicwonders:dimensional_ripper[enabled=true,facing=down]
 传送锚, thaumicwonders:portal_anchor
 咒波蒸馏器, thaumicwonders:flux_distiller[charge=0]
+元始加速轨道, thaumicwonders:primordial_accelerator_tunnel[facing=north]
+聚合矩阵, thaumicwonders:coalescence_matrix_precursor
+灵感引擎, thaumicwonders:inspiration_engine
 万能溶剂之锅, thaumicwonders:alkahest_vat
 永燃之瓮, thaumicwonders:everburning_urn
-虚空信标, thaumicwonders:void_beacon[enabled=true]
+疯狂引擎, thaumicwonders:madness_engine
 传送门生成器, thaumicwonders:portal_generator[enabled=true]
-聚合矩阵, thaumicwonders:coalescence_matrix_precursor
-嗜肉之球, thaumicwonders:meaty_orb[facing=north]
-创造模式源质罐子, thaumicwonders:creative_essentia_jar
-灵感引擎, thaumicwonders:inspiration_engine
-乌洛托品（魔法版01型）, thaumicwonders:hexamite[explode=false]
-元始加速轨道, thaumicwonders:primordial_accelerator_tunnel[facing=north]
 咒波容器, thaumicwonders:flux_capacitor[charge=0]
-元始加速冲撞终端, thaumicwonders:primordial_accelerator_terminus[facing=north]
+元始加速器, thaumicwonders:primordial_accelerator[enabled=true,facing=north]
+乌洛托品（魔法版01型）, thaumicwonders:hexamite[explode=false]
 城堡方块, vampirism:castle_block[variant=dark_brick]
 城堡方块, vampirism:castle_block[variant=purple_brick]
 城堡方块, vampirism:castle_block[variant=dark_brick_bloody]

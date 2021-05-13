@@ -17,4 +17,4 @@ swamp_water, swamp_water, 沼泽的水
 tar, tar, 焦油
 vampirismblood, vampirismblood, 血液（吸血鬼模组）
 water, water, 水
-#output time is 10 ms.
+#output time is 5 ms.

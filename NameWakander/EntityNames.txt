@@ -562,4 +562,4 @@ vampirism:villager_vampire_faction, entity.vampirism.villager_vampire_faction.na
 vampirism:hunter_trainer_dummy, entity.vampirism.hunter_trainer_dummy.name, 卧底猎人教官
 vampirism:converted_horse, entity.vampirism.converted_horse.name, entity.vampirism.converted_horse.name
 minecraft:lightning_bolt, entity.null.name, entity.null.name
-#output time is 12 ms.
+#output time is 7 ms.
