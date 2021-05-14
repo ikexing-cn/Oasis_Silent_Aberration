@@ -23,11 +23,13 @@
     "oreAluminum": {
       "slagColor": "e2e2e3",
       "langKey": [
-        "embers:tile.ore_aluminum"
+        "embers:tile.ore_aluminum",
+        "immersiveengineering:tile.immersiveengineering.ore.aluminum"
       ],
       "output": [
         "agricraft:agri_nugget:8",
-        "embers:nugget_aluminum:0"
+        "embers:nugget_aluminum:0",
+        "immersiveengineering:metal:21"
       ]
     },
     "oreCopper": {
@@ -35,12 +37,14 @@
       "langKey": [
         "abyssalcraft:tile.abycopore",
         "embers:tile.ore_copper",
+        "immersiveengineering:tile.immersiveengineering.ore.copper",
         "mysticalworld:tile.copper_ore"
       ],
       "output": [
         "agricraft:agri_nugget:4",
         "embers:nugget_copper:0",
         "grimoireofgaia:shard:4",
+        "immersiveengineering:metal:20",
         "mysticalworld:copper_nugget:0",
         "thaumcraft:nugget:1"
       ]
@@ -65,6 +69,7 @@
       "output": [
         "agricraft:agri_nugget:3",
         "grimoireofgaia:shard:0",
+        "immersiveengineering:metal:29",
         "minecraft:iron_nugget:0",
         "thaumcraft:nugget:0"
       ]
@@ -72,22 +77,26 @@
     "oreLead": {
       "slagColor": "95afee",
       "langKey": [
-        "embers:tile.ore_lead"
+        "embers:tile.ore_lead",
+        "immersiveengineering:tile.immersiveengineering.ore.lead"
       ],
       "output": [
         "agricraft:agri_nugget:6",
         "embers:nugget_lead:0",
+        "immersiveengineering:metal:22",
         "thaumcraft:nugget:4"
       ]
     },
     "oreNickel": {
       "slagColor": "e4e5d8",
       "langKey": [
-        "embers:tile.ore_nickel"
+        "embers:tile.ore_nickel",
+        "immersiveengineering:tile.immersiveengineering.ore.nickel"
       ],
       "output": [
         "agricraft:agri_nugget:9",
-        "embers:nugget_nickel:0"
+        "embers:nugget_nickel:0",
+        "immersiveengineering:metal:24"
       ]
     },
     "oreOctine": {
@@ -102,15 +111,19 @@
     "oreSilver": {
       "slagColor": "e8f6fd",
       "langKey": [
+        "bewitchment:tile.bewitchment.silver_ore",
         "embers:tile.ore_silver",
         "iceandfire:tile.iceandfire.silverOre",
+        "immersiveengineering:tile.immersiveengineering.ore.silver",
         "mysticalworld:tile.silver_ore"
       ],
       "output": [
         "agricraft:agri_nugget:7",
+        "bewitchment:silver_nugget:0",
         "embers:nugget_silver:0",
         "grimoireofgaia:shard:5",
         "iceandfire:silver_nugget:0",
+        "immersiveengineering:metal:23",
         "mysticalworld:silver_nugget:0",
         "thaumcraft:nugget:3"
       ]
@@ -134,6 +147,15 @@
         "agricraft:agri_nugget:5",
         "embers:nugget_tin:0",
         "thaumcraft:nugget:2"
+      ]
+    },
+    "oreUranium": {
+      "slagColor": "5c734b",
+      "langKey": [
+        "immersiveengineering:tile.immersiveengineering.ore.uranium"
+      ],
+      "output": [
+        "immersiveengineering:metal:25"
       ]
     }
   }

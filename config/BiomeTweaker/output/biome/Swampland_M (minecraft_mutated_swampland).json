@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
-    "RARE",
+    "SWAMP",
     "HILLS",
-    "SWAMP"
+    "WET",
+    "RARE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -103,6 +103,24 @@
       "Entity Class": "epicsquid.mysticalworld.entity.EntityFrog",
       "Weight": 6,
       "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.living.EntityLizard",
+      "Weight": 6,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.living.EntitySnake",
+      "Weight": 20,
+      "Min Group Count": 0,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.living.EntityToad",
+      "Weight": 20,
+      "Min Group Count": 0,
       "Max Group Count": 4
     }
   ],
@@ -186,6 +204,12 @@
       "Max Group Count": 3
     },
     {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
       "Entity Class": "gaia.entity.monster.EntityGaiaSiren",
       "Weight": 60,
       "Min Group Count": 4,
@@ -256,12 +280,6 @@
       "Weight": 40,
       "Min Group Count": 1,
       "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [

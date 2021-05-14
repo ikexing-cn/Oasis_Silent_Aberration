@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SPARSE",
     "FOREST",
-    "MOUNTAIN"
+    "MOUNTAIN",
+    "SPARSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -85,6 +85,18 @@
       "Weight": 9,
       "Min Group Count": 1,
       "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.living.EntityLizard",
+      "Weight": 6,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.living.EntityOwl",
+      "Weight": 20,
+      "Min Group Count": 0,
+      "Max Group Count": 4
     }
   ],
   "Spawnable Monsters": [
@@ -149,6 +161,30 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "com.bewitchment.common.entity.spirit.ghost.EntityBlackDog",
+      "Weight": 3,
+      "Min Group Count": 0,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.spirit.ghost.EntityGhost",
+      "Weight": 3,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.living.EntityWerewolf",
+      "Weight": 1,
+      "Min Group Count": 0,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.spirit.demon.EntityDruden",
+      "Weight": 1,
+      "Min Group Count": 0,
+      "Max Group Count": 3
+    },
+    {
       "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityBasicVampire",
       "Weight": 75,
       "Min Group Count": 1,
@@ -157,6 +193,12 @@
     {
       "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityAdvancedVampire",
       "Weight": 7,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
@@ -237,12 +279,6 @@
       "Weight": 40,
       "Min Group Count": 1,
       "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [

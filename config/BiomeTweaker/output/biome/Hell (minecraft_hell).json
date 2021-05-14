@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DRY",
+    "NETHER",
     "HOT",
-    "NETHER"
+    "DRY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -64,6 +64,30 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "com.bewitchment.common.entity.spirit.demon.EntityHellhound",
+      "Weight": 6,
+      "Min Group Count": 0,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.spirit.demon.EntityFeuerwurm",
+      "Weight": 3,
+      "Min Group Count": 0,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.spirit.demon.EntityCleaver",
+      "Weight": 1,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.spirit.demon.EntityBafometyr",
+      "Weight": 1,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
       "Entity Class": "com.shinoow.abyssalcraft.common.entity.demon.EntityDemonPig",
       "Weight": 15,
       "Min Group Count": 1,
@@ -100,6 +124,12 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
       "Entity Class": "gaia.entity.prop.EntityGaiaPropVaseNether",
       "Weight": 12,
       "Min Group Count": 1,
@@ -122,12 +152,6 @@
       "Weight": 12,
       "Min Group Count": 2,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [],

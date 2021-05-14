@@ -21,10 +21,10 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "WASTELAND",
-    "SPARSE",
     "SNOWY",
+    "COLD",
     "DEAD",
-    "COLD"
+    "SPARSE"
   ],
   "BiomeManager Entries": {
     "COOL Weights": [
@@ -119,6 +119,12 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
       "Entity Class": "gaia.entity.monster.EntityGaiaSelkie",
       "Weight": 30,
       "Min Group Count": 2,
@@ -183,12 +189,6 @@
       "Weight": 40,
       "Min Group Count": 1,
       "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [

@@ -1,5 +1,5 @@
 UniqueId, RegistryName, ModId, UnlocalizedName, LocalizedName
-0, thaumcraft:fluxtaint, thaumcraft, potion.flux_taint, 腐毒
+0, rustic:ironskin, rustic, effect.ironskin, 钢铁皮肤
 1, minecraft:speed, minecraft, effect.moveSpeed, 速度
 2, minecraft:slowness, minecraft, effect.moveSlowdown, 缓慢
 3, minecraft:haste, minecraft, effect.digSpeed, 急迫
@@ -27,117 +27,178 @@ UniqueId, RegistryName, ModId, UnlocalizedName, LocalizedName
 25, minecraft:levitation, minecraft, effect.levitation, 飘浮
 26, minecraft:luck, minecraft, effect.luck, 幸运
 27, minecraft:unluck, minecraft, effect.unluck, 霉运
-28, thaumcraft:visexhaust, thaumcraft, potion.vis_exhaust, 咒流
-29, thaumcraft:infectiousvisexhaust, thaumcraft, potion.infvisexhaust, 咒喰
-30, thaumcraft:unnaturalhunger, thaumcraft, potion.unhunger, 反常之饥
-31, thaumcraft:warpward, thaumcraft, potion.warpward, 扭曲守护
-32, thaumcraft:deathgaze, thaumcraft, potion.deathgaze, 死亡凝视
-33, thaumcraft:blurredvision, thaumcraft, potion.blurred, 视瞻昏渺
-34, thaumcraft:sunscorned, thaumcraft, potion.sunscorned, 日之辱蔑
-35, thaumcraft:thaumarhia, thaumcraft, potion.thaumarhia, 玄癔
-36, bloodmagic:boost, bloodmagic, Boost, Boost
-37, bloodmagic:whirlwind, bloodmagic, Whirlwind, Whirlwind
-38, bloodmagic:planar_binding, bloodmagic, Planar Binding, Planar Binding
-39, bloodmagic:soul_snare, bloodmagic, Soul Snare, Soul Snare
-40, bloodmagic:soul_fray, bloodmagic, Soul Fray, Soul Fray
-41, bloodmagic:fire_fuse, bloodmagic, Fire Fuse, Fire Fuse
-42, bloodmagic:constrict, bloodmagic, Constriction, Constriction
-43, bloodmagic:plant_leech, bloodmagic, Plant Leech, Plant Leech
-44, bloodmagic:deafness, bloodmagic, Deaf, Deaf
-45, bloodmagic:bounce, bloodmagic, Bounce, Bounce
-46, bloodmagic:cling, bloodmagic, Cling, Cling
-47, bloodmagic:sacrificial_lamb, bloodmagic, S. Lamb, S. Lamb
-48, bloodmagic:flight, bloodmagic, Flight, Flight
-49, bloodmagic:grounded, bloodmagic, Grounded, Grounded
-50, bloodmagic:suspended, bloodmagic, Suspended, Suspended
-51, bloodmagic:heavy_heart, bloodmagic, Heavy Heart, Heavy Heart
-52, bloodmagic:feathered, bloodmagic, Feathered, Feathered
-53, champions:jailed, champions, champions.jailed, 监禁
-54, champions:plague, champions, champions.plague, 瘟疫
-55, champions:injured, champions, champions.injured, 内伤
-56, mowziesmobs:suns_blessing, mowziesmobs, potion.sunsBlessing, 太阳祝福
-57, mowziesmobs:geomancy, mowziesmobs, potion.geomancy, 大地祝福
-58, mowziesmobs:frozen, mowziesmobs, potion.frozen, 冰冻
-59, mowziesmobs:poison_resist, mowziesmobs, potion.poisonResist, 剧毒抗性
-60, pyrotech:comfort, pyrotech, pyrotech.effect.comfort, 舒适
-61, pyrotech:well_fed, pyrotech, pyrotech.effect.well.fed, 吃饱喝足
-62, pyrotech:resting, pyrotech, pyrotech.effect.resting, 小憩
-63, pyrotech:well_rested, pyrotech, pyrotech.effect.well.rested, 精力充沛
-64, pyrotech:focused, pyrotech, pyrotech.effect.focused, Focused
-65, vampirism:thirst, vampirism, effect.vampirism.thirst, 血渴
-66, vampirism:sanguinare, vampirism, effect.vampirism.sanguinare, 吸血之疾
-67, vampirism:saturation, vampirism, effect.vampirism.saturation, 饱饮
-68, vampirism:sunscreen, vampirism, effect.vampirism.sunscreen, 防晒
-69, vampirism:fire_protection, vampirism, effect.vampirism.fire_protection, 火焰保护
-70, vampirism:disguise_as_vampire, vampirism, effect.vampirism.disguise_as_vampire, effect.vampirism.disguise_as_vampire
-71, vampirism:garlic, vampirism, effect.vampirism.garlic, 蒜熏
-72, vampirism:poison, vampirism, effect.vampirism.poison, 毒药
-73, vampirism:freeze, vampirism, action.vampirism.vampire.freeze, 冰冻
-74, zentweaker:heaviness, zentweaker, zentweaker.potion.heaviness, zentweaker.potion.heaviness
-75, zentweaker:briskness, zentweaker, zentweaker.potion.briskness, zentweaker.potion.briskness
-76, abyssalcraft:cplague, abyssalcraft, potion.Cplague, 珊瑚瘟疫
-77, abyssalcraft:dplague, abyssalcraft, potion.Dplague, 恐惧瘟疫
-78, abyssalcraft:antimatter, abyssalcraft, potion.Antimatter, 反物质
-79, thebetweenlands:effect_blessed, thebetweenlands, bl.effect.blessed, 护佑
-80, thebetweenlands:effect_petrify, thebetweenlands, bl.elixir.petrify, 麻痹药水
-81, thebetweenlands:effect_isolatedsenses, thebetweenlands, bl.elixir.isolatedSenses, 感官隔绝之药
-82, thebetweenlands:effect_limbless, thebetweenlands, bl.elixir.limbless, 四肢截断之药
-83, thebetweenlands:effect_deformed, thebetweenlands, bl.elixir.deformed, 形体无序之药
-84, thebetweenlands:effect_foggedmind, thebetweenlands, bl.elixir.foggedMind, 意识混沌之药
-85, thebetweenlands:effect_heavyweight, thebetweenlands, bl.elixir.heavyweight, 超重之药
-86, thebetweenlands:effect_basilisk, thebetweenlands, bl.elixir.basilisk, 蜥毒毒剂
-87, thebetweenlands:effect_weakbow, thebetweenlands, bl.elixir.weakbow, 无力之弓药水
-88, thebetweenlands:effect_blindman, thebetweenlands, bl.elixir.blindman, 致盲药剂
-89, thebetweenlands:effect_slugarm, thebetweenlands, bl.elixir.slugarm, 臂力削弱药水
-90, thebetweenlands:effect_stenching, thebetweenlands, bl.elixir.stenching, 恶臭药水
-91, thebetweenlands:effect_drunkard, thebetweenlands, bl.elixir.drunkard, 醉鬼之酒
-92, thebetweenlands:effect_starvation, thebetweenlands, bl.elixir.starvation, 饥饿之药
-93, thebetweenlands:effect_poisonsting, thebetweenlands, bl.elixir.poisonsting, 剧毒之药
-94, thebetweenlands:effect_decay, thebetweenlands, bl.elixir.decay, 机体残蚀之药
-95, thebetweenlands:effect_draining, thebetweenlands, bl.elixir.draining, 生命凋零之药
-96, thebetweenlands:effect_lumbering, thebetweenlands, bl.elixir.lumbering, 行走疲劳之药
-97, thebetweenlands:effect_weakness, thebetweenlands, bl.elixir.weakness, 机能虚弱之药
-98, thebetweenlands:effect_hunterssensemaster, thebetweenlands, bl.elixir.huntersSenseMaster, 狩猎大师之酿
-99, thebetweenlands:effect_wings, thebetweenlands, bl.elixir.wings, 蜻蜓变形药剂
-100, thebetweenlands:effect_gillsgrowth, thebetweenlands, bl.elixir.gillsgrowth, 鱼类变形药剂
-101, thebetweenlands:effect_unclouded, thebetweenlands, bl.elixir.unclouded, 开眼药水
-102, thebetweenlands:effect_lightweight, thebetweenlands, bl.elixir.lightweight, 轻功药水
-103, thebetweenlands:effect_spiderbreed, thebetweenlands, bl.elixir.spiderbreed, 蜘蛛药水
-104, thebetweenlands:effect_sagittarius, thebetweenlands, bl.elixir.sagittarius, 精准射手之酿
-105, thebetweenlands:effect_catseyes, thebetweenlands, bl.elixir.catsEyes, 夜猫之眼药水
-106, thebetweenlands:effect_swiftarm, thebetweenlands, bl.elixir.swiftarm, 迅捷之手药水
-107, thebetweenlands:effect_masking, thebetweenlands, bl.elixir.masking, 掩蔽药水
-108, thebetweenlands:effect_hunterssense, thebetweenlands, bl.elixir.huntersSense, 猎人之酿
-109, thebetweenlands:effect_feasting, thebetweenlands, bl.elixir.feasting, 饱腹之酿
-110, thebetweenlands:effect_toughskin, thebetweenlands, bl.elixir.toughskin, 皮肤硬化之酿
-111, thebetweenlands:effect_ripening, thebetweenlands, bl.elixir.ripening, 熟化之酿
-112, thebetweenlands:effect_healing, thebetweenlands, bl.elixir.healing, 治疗之酿
-113, thebetweenlands:effect_nimblefeet, thebetweenlands, bl.elixir.nimblefeet, 身手敏捷之酿
-114, thebetweenlands:effect_strength, thebetweenlands, bl.elixir.strength, 力量增强之酿
-115, thebetweenlands:root_bound, thebetweenlands, bl.potion.rootBound, 根须缠绕
-116, thebetweenlands:enlightened, thebetweenlands, bl.potion.enlightened, 开明
-117, roots:freeze, roots, Freeze, Freeze
-118, roots:geas, roots, Geas, Geas
-119, roots:time_stop, roots, Time Stop, Time Stop
-120, roots:invulnerability, roots, Invulnerability, Invulnerability
-121, roots:petal_shell, roots, Petal Shell, Petal Shell
-122, roots:danger_sense, roots, Danger Sense, Danger Sense
-123, roots:animal_sense, roots, Animal Sense, Animal Sense
-124, nutrition:toughness, nutrition, potion.nutrition:toughness, 强健
-125, nutrition:nourished, nutrition, potion.nutrition:nourished, 滋养
-126, nutrition:malnourished, nutrition, potion.nutrition:malnourished, 营养不良
-127, soot:ale, soot, effect.ale, 啤酒
-128, soot:tipsy, soot, effect.tipsy, 醉酒
-129, soot:stoutness, soot, effect.stoutness, 坚毅
-130, soot:inner_fire, soot, effect.inner_fire, 烈酒
-131, soot:fire_lung, soot, effect.fire_lung, 肺火
-132, soot:steadfast, soot, effect.steadfast, 奔驰不懈
-133, soot:lifedrinker, soot, effect.lifedrinker, 生命吸取
-134, soot:snowpoff, soot, effect.snowpoff, 雪崩
-135, soot:inspiration, soot, effect.inspiration, 灵感
-136, soot:glass, soot, effect.glass, Glassified
-137, soot:experience_boost, soot, effect.experience_boost, Experience Boost
-138, hungeroverhaul:wellfed, hungeroverhaul, potion.wellfed, 饱食
-139, thaumadditions:sonus, thaumadditions, potion.thaumadditions:sonus, 声音感知
-140, thaumadditions:sanity_checker, thaumadditions, , 
-#output time is 11 ms.
+28, rustic:feather, rustic, effect.feather, 飘羽
+29, rustic:blazing_trail, rustic, effect.blazing_trail, 炽烈足迹
+30, rustic:shame, rustic, effect.shame, 羞辱
+31, rustic:full, rustic, effect.full, 饱腹
+32, rustic:magic_resistance, rustic, effect.magic_resistance, 魔法抵抗
+33, rustic:wither_ward, rustic, effect.wither_ward, 凋零防护
+34, rustic:tipsy, rustic, effect.tipsy, 微醺
+35, rusticwitchcraft:fertile_feet, rusticwitchcraft, effect.fertile_feet, Fertile Feet
+36, thaumcraft:fluxtaint, thaumcraft, potion.flux_taint, 腐毒
+37, thaumcraft:visexhaust, thaumcraft, potion.vis_exhaust, 咒流
+38, thaumcraft:infectiousvisexhaust, thaumcraft, potion.infvisexhaust, 咒喰
+39, thaumcraft:unnaturalhunger, thaumcraft, potion.unhunger, 反常之饥
+40, thaumcraft:warpward, thaumcraft, potion.warpward, 扭曲守护
+41, thaumcraft:deathgaze, thaumcraft, potion.deathgaze, 死亡凝视
+42, thaumcraft:blurredvision, thaumcraft, potion.blurred, 视瞻昏渺
+43, thaumcraft:sunscorned, thaumcraft, potion.sunscorned, 日之辱蔑
+44, thaumcraft:thaumarhia, thaumcraft, potion.thaumarhia, 玄癔
+45, bloodmagic:boost, bloodmagic, Boost, Boost
+46, bloodmagic:whirlwind, bloodmagic, Whirlwind, Whirlwind
+47, bloodmagic:planar_binding, bloodmagic, Planar Binding, Planar Binding
+48, bloodmagic:soul_snare, bloodmagic, Soul Snare, Soul Snare
+49, bloodmagic:soul_fray, bloodmagic, Soul Fray, Soul Fray
+50, bloodmagic:fire_fuse, bloodmagic, Fire Fuse, Fire Fuse
+51, bloodmagic:constrict, bloodmagic, Constriction, Constriction
+52, bloodmagic:plant_leech, bloodmagic, Plant Leech, Plant Leech
+53, bloodmagic:deafness, bloodmagic, Deaf, Deaf
+54, bloodmagic:bounce, bloodmagic, Bounce, Bounce
+55, bloodmagic:cling, bloodmagic, Cling, Cling
+56, bloodmagic:sacrificial_lamb, bloodmagic, S. Lamb, S. Lamb
+57, bloodmagic:flight, bloodmagic, Flight, Flight
+58, bloodmagic:grounded, bloodmagic, Grounded, Grounded
+59, bloodmagic:suspended, bloodmagic, Suspended, Suspended
+60, bloodmagic:heavy_heart, bloodmagic, Heavy Heart, Heavy Heart
+61, bloodmagic:feathered, bloodmagic, Feathered, Feathered
+62, mowziesmobs:suns_blessing, mowziesmobs, potion.sunsBlessing, 太阳祝福
+63, mowziesmobs:geomancy, mowziesmobs, potion.geomancy, 大地祝福
+64, mowziesmobs:frozen, mowziesmobs, potion.frozen, 冰冻
+65, mowziesmobs:poison_resist, mowziesmobs, potion.poisonResist, 剧毒抗性
+66, bewitchment:wednesday, bewitchment, bewitchment.wednesday, 诗神之日
+67, bewitchment:absence, bewitchment, bewitchment.absence, 全部木大
+68, bewitchment:purification, bewitchment, bewitchment.purification, 净化
+69, bewitchment:corruption, bewitchment, bewitchment.corruption, 腐败
+70, bewitchment:magic_resistance, bewitchment, bewitchment.magic_resistance, 魔法抗性
+71, bewitchment:magic_weakness, bewitchment, bewitchment.magic_weakness, 魔法弱点
+72, bewitchment:hellworld, bewitchment, bewitchment.hellworld, 地狱世界
+73, bewitchment:iceworld, bewitchment, bewitchment.iceworld, 冰霜世界
+74, bewitchment:rubedo, bewitchment, bewitchment.rubedo, 红化
+75, bewitchment:citrinitas, bewitchment, bewitchment.citrinitas, 黄化
+76, bewitchment:desertification, bewitchment, bewitchment.desertification, 沙漠化
+77, bewitchment:fertility, bewitchment, bewitchment.fertility, 肥沃
+78, bewitchment:harvest, bewitchment, bewitchment.harvest, 收获
+79, bewitchment:spore_cloud, bewitchment, bewitchment.spore_cloud, 孢子云
+80, bewitchment:blight, bewitchment, bewitchment.blight, 疫病
+81, bewitchment:ruin, bewitchment, bewitchment.ruin, 毁坏
+82, bewitchment:pesticide, bewitchment, bewitchment.pesticide, 农药
+83, bewitchment:arachnophobia, bewitchment, bewitchment.arachnophobia, 蜘蛛恐惧症
+84, bewitchment:mending, bewitchment, bewitchment.mending, 修补
+85, bewitchment:holy_water, bewitchment, bewitchment.holy_water, 圣水
+86, bewitchment:wolfsbane, bewitchment, bewitchment.wolfsbane, 附子草（乌头）
+87, bewitchment:deviants_decomposure, bewitchment, bewitchment.deviants_decomposure, 叛逆者的不安
+88, bewitchment:sleeping, bewitchment, bewitchment.sleeping, 睡觉
+89, bewitchment:volatility, bewitchment, bewitchment.volatility, 不稳定
+90, bewitchment:grace, bewitchment, bewitchment.grace, 优雅
+91, bewitchment:shell_armor, bewitchment, bewitchment.shell_armor, 壳护甲
+92, bewitchment:deflection, bewitchment, bewitchment.deflection, 偏移
+93, bewitchment:revealing, bewitchment, bewitchment.revealing, 示警
+94, bewitchment:disrobing, bewitchment, bewitchment.disrobing, 褪甲
+95, bewitchment:sinking, bewitchment, bewitchment.sinking, 沉没
+96, bewitchment:cursed_leaps, bewitchment, bewitchment.cursed_leaps, 诅咒之跃
+97, bewitchment:hellfire, bewitchment, bewitchment.hellfire, 地狱烈焰
+98, bewitchment:fear, bewitchment, bewitchment.fear, 恐惧
+99, bewitchment:mortal_coil, bewitchment, bewitchment.mortal_coil, 死亡缠绕
+100, bewitchment:corrosion, bewitchment, bewitchment.corrosion, Corrosion
+101, bewitchment:bulk, bewitchment, bewitchment.bulk, Bulk
+102, bewitchment:butterfingers, bewitchment, bewitchment.butterfingers, Butterfingers
+103, bewitchment:rhino_hide, bewitchment, bewitchment.rhino_hide, Rhino Hide
+104, bewitchment:paper_skin, bewitchment, bewitchment.paper_skin, Paper Skin
+105, bewitchment:rage, bewitchment, bewitchment.rage, Rage
+106, bewitchment:friendship, bewitchment, bewitchment.friendship, Friendship
+107, bloodarsenal:bleeding, bloodarsenal, Bleeding, Bleeding
+108, champions:jailed, champions, champions.jailed, 监禁
+109, champions:plague, champions, champions.plague, 瘟疫
+110, champions:injured, champions, champions.injured, 内伤
+111, immersiveengineering:flammable, immersiveengineering, immersiveengineering.potion.flammable, 易燃
+112, immersiveengineering:slippery, immersiveengineering, immersiveengineering.potion.slippery, 易滑
+113, immersiveengineering:conductive, immersiveengineering, immersiveengineering.potion.conductive, 导电
+114, immersiveengineering:sticky, immersiveengineering, immersiveengineering.potion.sticky, 粘性
+115, immersiveengineering:stunned, immersiveengineering, immersiveengineering.potion.stunned, 眩晕
+116, immersiveengineering:concretefeet, immersiveengineering, immersiveengineering.potion.concreteFeet, 凝滞
+117, immersiveengineering:flashed, immersiveengineering, immersiveengineering.potion.flashed, 闪光
+118, pyrotech:comfort, pyrotech, pyrotech.effect.comfort, 舒适
+119, pyrotech:well_fed, pyrotech, pyrotech.effect.well.fed, 吃饱喝足
+120, pyrotech:resting, pyrotech, pyrotech.effect.resting, 小憩
+121, pyrotech:well_rested, pyrotech, pyrotech.effect.well.rested, 精力充沛
+122, pyrotech:focused, pyrotech, pyrotech.effect.focused, Focused
+123, vampirism:thirst, vampirism, effect.vampirism.thirst, 血渴
+124, vampirism:sanguinare, vampirism, effect.vampirism.sanguinare, 吸血之疾
+125, vampirism:saturation, vampirism, effect.vampirism.saturation, 饱饮
+126, vampirism:sunscreen, vampirism, effect.vampirism.sunscreen, 防晒
+127, vampirism:fire_protection, vampirism, effect.vampirism.fire_protection, 火焰保护
+128, vampirism:disguise_as_vampire, vampirism, effect.vampirism.disguise_as_vampire, effect.vampirism.disguise_as_vampire
+129, vampirism:garlic, vampirism, effect.vampirism.garlic, 蒜熏
+130, vampirism:poison, vampirism, effect.vampirism.poison, 毒药
+131, vampirism:freeze, vampirism, action.vampirism.vampire.freeze, 冰冻
+132, variegated:fishermans_friend, variegated, variegated.potion.fishermans_friend, Fisher's Boon
+133, variegated:attraction, variegated, variegated.potion.attraction, Attraction
+134, variegated:wings, variegated, variegated.potion.wings, variegated.potion.wings
+135, zentweaker:briskness, zentweaker, zentweaker.potion.briskness, zentweaker.potion.briskness
+136, zentweaker:heaviness, zentweaker, zentweaker.potion.heaviness, zentweaker.potion.heaviness
+137, abyssalcraft:cplague, abyssalcraft, potion.Cplague, 珊瑚瘟疫
+138, abyssalcraft:dplague, abyssalcraft, potion.Dplague, 恐惧瘟疫
+139, abyssalcraft:antimatter, abyssalcraft, potion.Antimatter, 反物质
+140, thebetweenlands:effect_blessed, thebetweenlands, bl.effect.blessed, 护佑
+141, thebetweenlands:effect_petrify, thebetweenlands, bl.elixir.petrify, 麻痹药水
+142, thebetweenlands:effect_isolatedsenses, thebetweenlands, bl.elixir.isolatedSenses, 感官隔绝之药
+143, thebetweenlands:effect_limbless, thebetweenlands, bl.elixir.limbless, 四肢截断之药
+144, thebetweenlands:effect_deformed, thebetweenlands, bl.elixir.deformed, 形体无序之药
+145, thebetweenlands:effect_foggedmind, thebetweenlands, bl.elixir.foggedMind, 意识混沌之药
+146, thebetweenlands:effect_heavyweight, thebetweenlands, bl.elixir.heavyweight, 超重之药
+147, thebetweenlands:effect_basilisk, thebetweenlands, bl.elixir.basilisk, 蜥毒毒剂
+148, thebetweenlands:effect_weakbow, thebetweenlands, bl.elixir.weakbow, 无力之弓药水
+149, thebetweenlands:effect_blindman, thebetweenlands, bl.elixir.blindman, 致盲药剂
+150, thebetweenlands:effect_slugarm, thebetweenlands, bl.elixir.slugarm, 臂力削弱药水
+151, thebetweenlands:effect_stenching, thebetweenlands, bl.elixir.stenching, 恶臭药水
+152, thebetweenlands:effect_drunkard, thebetweenlands, bl.elixir.drunkard, 醉鬼之酒
+153, thebetweenlands:effect_starvation, thebetweenlands, bl.elixir.starvation, 饥饿之药
+154, thebetweenlands:effect_poisonsting, thebetweenlands, bl.elixir.poisonsting, 剧毒之药
+155, thebetweenlands:effect_decay, thebetweenlands, bl.elixir.decay, 机体残蚀之药
+156, thebetweenlands:effect_draining, thebetweenlands, bl.elixir.draining, 生命凋零之药
+157, thebetweenlands:effect_lumbering, thebetweenlands, bl.elixir.lumbering, 行走疲劳之药
+158, thebetweenlands:effect_weakness, thebetweenlands, bl.elixir.weakness, 机能虚弱之药
+159, thebetweenlands:effect_hunterssensemaster, thebetweenlands, bl.elixir.huntersSenseMaster, 狩猎大师之酿
+160, thebetweenlands:effect_wings, thebetweenlands, bl.elixir.wings, 蜻蜓变形药剂
+161, thebetweenlands:effect_gillsgrowth, thebetweenlands, bl.elixir.gillsgrowth, 鱼类变形药剂
+162, thebetweenlands:effect_unclouded, thebetweenlands, bl.elixir.unclouded, 开眼药水
+163, thebetweenlands:effect_lightweight, thebetweenlands, bl.elixir.lightweight, 轻功药水
+164, thebetweenlands:effect_spiderbreed, thebetweenlands, bl.elixir.spiderbreed, 蜘蛛药水
+165, thebetweenlands:effect_sagittarius, thebetweenlands, bl.elixir.sagittarius, 精准射手之酿
+166, thebetweenlands:effect_catseyes, thebetweenlands, bl.elixir.catsEyes, 夜猫之眼药水
+167, thebetweenlands:effect_swiftarm, thebetweenlands, bl.elixir.swiftarm, 迅捷之手药水
+168, thebetweenlands:effect_masking, thebetweenlands, bl.elixir.masking, 掩蔽药水
+169, thebetweenlands:effect_hunterssense, thebetweenlands, bl.elixir.huntersSense, 猎人之酿
+170, thebetweenlands:effect_feasting, thebetweenlands, bl.elixir.feasting, 饱腹之酿
+171, thebetweenlands:effect_toughskin, thebetweenlands, bl.elixir.toughskin, 皮肤硬化之酿
+172, thebetweenlands:effect_ripening, thebetweenlands, bl.elixir.ripening, 熟化之酿
+173, thebetweenlands:effect_healing, thebetweenlands, bl.elixir.healing, 治疗之酿
+174, thebetweenlands:effect_nimblefeet, thebetweenlands, bl.elixir.nimblefeet, 身手敏捷之酿
+175, thebetweenlands:effect_strength, thebetweenlands, bl.elixir.strength, 力量增强之酿
+176, thebetweenlands:root_bound, thebetweenlands, bl.potion.rootBound, 根须缠绕
+177, thebetweenlands:enlightened, thebetweenlands, bl.potion.enlightened, 开明
+178, roots:freeze, roots, Freeze, Freeze
+179, roots:geas, roots, Geas, Geas
+180, roots:time_stop, roots, Time Stop, Time Stop
+181, roots:invulnerability, roots, Invulnerability, Invulnerability
+182, roots:petal_shell, roots, Petal Shell, Petal Shell
+183, roots:danger_sense, roots, Danger Sense, Danger Sense
+184, roots:animal_sense, roots, Animal Sense, Animal Sense
+185, nutrition:toughness, nutrition, potion.nutrition:toughness, 强健
+186, nutrition:nourished, nutrition, potion.nutrition:nourished, 滋养
+187, nutrition:malnourished, nutrition, potion.nutrition:malnourished, 营养不良
+188, soot:ale, soot, effect.ale, 啤酒
+189, soot:tipsy, soot, effect.tipsy, 微醺
+190, soot:stoutness, soot, effect.stoutness, 坚毅
+191, soot:inner_fire, soot, effect.inner_fire, 烈酒
+192, soot:fire_lung, soot, effect.fire_lung, 肺火
+193, soot:steadfast, soot, effect.steadfast, 奔驰不懈
+194, soot:lifedrinker, soot, effect.lifedrinker, 生命吸取
+195, soot:snowpoff, soot, effect.snowpoff, 雪崩
+196, soot:inspiration, soot, effect.inspiration, 灵感
+197, soot:glass, soot, effect.glass, Glassified
+198, soot:experience_boost, soot, effect.experience_boost, Experience Boost
+199, hungeroverhaul:wellfed, hungeroverhaul, potion.wellfed, 饱食
+200, thaumadditions:sonus, thaumadditions, potion.thaumadditions:sonus, 声音感知
+201, thaumadditions:sanity_checker, thaumadditions, , 
+#output time is 4 ms.

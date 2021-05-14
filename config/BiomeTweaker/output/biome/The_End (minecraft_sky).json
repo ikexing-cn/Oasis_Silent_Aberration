@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "END",
-    "DRY",
-    "COLD"
+    "COLD",
+    "DRY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -53,6 +53,12 @@
       "Max Group Count": 4
     },
     {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
       "Entity Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerBeholder",
       "Weight": 1,
       "Min Group Count": 1,
@@ -61,12 +67,6 @@
     {
       "Entity Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerEnderDragonGirl",
       "Weight": 1,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
-      "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 1
     }

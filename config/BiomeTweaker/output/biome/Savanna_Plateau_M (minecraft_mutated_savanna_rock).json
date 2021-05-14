@@ -20,12 +20,12 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SPARSE",
-    "RARE",
-    "DRY",
     "SAVANNA",
     "HILLS",
-    "HOT"
+    "HOT",
+    "DRY",
+    "SPARSE",
+    "RARE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -112,6 +112,12 @@
       "Weight": 4,
       "Min Group Count": 1,
       "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.bewitchment.common.entity.living.EntitySnake",
+      "Weight": 20,
+      "Min Group Count": 0,
+      "Max Group Count": 4
     }
   ],
   "Spawnable Monsters": [
@@ -176,6 +182,18 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoana",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
       "Entity Class": "gaia.entity.monster.EntityGaiaGoblin",
       "Weight": 30,
       "Min Group Count": 2,
@@ -234,18 +252,6 @@
       "Weight": 40,
       "Min Group Count": 1,
       "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoana",
-      "Weight": 4,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [

@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "RIVER",
-    "WATER"
+    "WATER",
+    "RIVER"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -112,6 +112,12 @@
       "Max Group Count": 3
     },
     {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
       "Entity Class": "gaia.entity.monster.EntityGaiaCecaelia",
       "Weight": 80,
       "Min Group Count": 4,
@@ -128,12 +134,6 @@
       "Weight": 40,
       "Min Group Count": 2,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [

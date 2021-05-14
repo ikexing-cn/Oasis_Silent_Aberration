@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WATER",
-    "SWAMP"
+    "SWAMP",
+    "WATER"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -37,6 +37,12 @@
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
     },
     {
       "Entity Class": "gaia.entity.monster.EntityGaiaSiren",
@@ -109,12 +115,6 @@
       "Weight": 40,
       "Min Group Count": 1,
       "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [],

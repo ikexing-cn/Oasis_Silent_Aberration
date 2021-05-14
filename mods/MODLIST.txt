@@ -24,6 +24,7 @@ bloodagricraft-1.0.0.jar
 BloodArsenal-1.12.2-2.2.2-31.jar
 BloodMagic-1.12.2-2.4.3-105.jar
 Bloodmoon-MC1.12.2-1.5.3.jar
+Blur-1.0.4-14.jar
 BNBGamingLib-1.12.2-2.17.6.jar
 Bookshelf-1.12.2-2.3.590.jar
 Chameleon-1.12-4.1.3.jar
@@ -33,6 +34,7 @@ ClocheCall-1.1.2.jar
 Clumps-3.1.2.jar
 CompactStorage-3.1-12.jar
 CompatSkills-1.12.2-1.17.0.jar
+Controlling-3.0.10.jar
 CraftTweaker2-1.12-4.1.20.646.jar
 crafttweakerutils-0.7.jar
 CreativeCore_v1.10.58_mc1.12.2.jar
