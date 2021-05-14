@@ -17,6 +17,7 @@ BetterFoliage-MC1.12-2.3.2.jar
 betternether-0.1.8.6.jar
 BetterPlacement-1.0.0-1.jar
 BetterThanMending-1.1.2.jar
+bewitchment-1.12.2-0.0.22.64.jar
 BiomeTweaker-1.12.2-3.2.369.jar
 BiomeTweakerCore-1.12.2-1.0.39.jar
 bloodagricraft-1.0.0.jar
@@ -88,11 +89,11 @@ MoBends_1.12.2-1.0.0-beta-20.06.20.jar
 MobStages-1.12.2-2.0.13.jar
 modlist.bat
 MODLIST.txt
-modtweaker-4.0.18.jar
+modtweaker-4.0.19.jar
 MoreTweaker-1.0.19.jar
 MouseTweaks-2.10-mc1.12.2.jar
 mowziesmobs-1.5.8.jar
-MTLib-3.0.6.jar
+MTLib-3.0.7.jar
 mysticallib-1.12.2-1.10.0.jar
 mysticalworld-1.12.2-1.9.5.jar
 NameWakander-1.12-1.3.6.jar
