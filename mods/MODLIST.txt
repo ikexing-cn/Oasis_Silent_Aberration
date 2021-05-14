@@ -18,6 +18,7 @@ betternether-0.1.8.6.jar
 BetterPlacement-1.0.0-1.jar
 BetterThanMending-1.1.2.jar
 bewitchment-1.12.2-0.0.22.64.jar
+BeyondTheVeil-1.12.2-0.2.2.jar
 BiomeTweaker-1.12.2-3.2.369.jar
 BiomeTweakerCore-1.12.2-1.0.39.jar
 bloodagricraft-1.0.0.jar
@@ -102,6 +103,7 @@ NameWakander-1.12-1.3.6.jar
 Neat 1.4-17.jar
 Netherending-Ores-1.12.2-1.4.2.jar
 NoMobSpawningOnTrees-1.2.2-mc1.12.2.jar
+NonUpdate-AllMCVersion-Final-2.0.2-universal.jar
 nopotionshift_1.12.2-1.2.0.jar
 noRecipeBook_v1.2.2formc1.12.2.jar
 Nutrition-1.12.2-4.7.0.jar
@@ -114,6 +116,7 @@ Patchouli-1.0-23.6.jar
 performant-1.12.2-1.10.jar
 phosphor-forge-mc1.12.2-0.2.7-universal.jar
 pouchofunknown-1.9.jar
+PrettyBeaches_1.12.2-1.1.0.jar
 probe-0.1.24.jar
 pyrotech-1.12.2-1.5.12.jar
 randompatches-1.12.2-1.22.1.10.jar
