@@ -648,4 +648,4 @@ immersiveengineering:revolvershotflare, entity.revolverShotFlare.name, entity.re
 immersiveengineering:explosive, entity.explosive.name, entity.explosive.name
 immersiveengineering:fluorescenttube, entity.fluorescentTube.name, entity.fluorescentTube.name
 minecraft:lightning_bolt, entity.null.name, entity.null.name
-#output time is 4 ms.
+#output time is 6 ms.
