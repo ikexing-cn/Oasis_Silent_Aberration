@@ -79,6 +79,7 @@ UniqueId, ModId, RegistryName, LocalizedName(if exist)
 77, thebetweenlands, thebetweenlands:marsh_1, thebetweenlands:marsh_1
 78, thebetweenlands, thebetweenlands:swamplands_clearing, thebetweenlands:swamplands_clearing
 79, thebetweenlands, thebetweenlands:sludge_plains_clearing, thebetweenlands:sludge_plains_clearing
+80, beyondtheveil, beyondtheveil:biome_innsmouth, beyondtheveil:biome_innsmouth
 127, minecraft, minecraft:void, minecraft:void
 129, minecraft, minecraft:mutated_plains, minecraft:mutated_plains
 130, minecraft, minecraft:mutated_desert, minecraft:mutated_desert
@@ -101,4 +102,4 @@ UniqueId, ModId, RegistryName, LocalizedName(if exist)
 165, minecraft, minecraft:mutated_mesa, minecraft:mutated_mesa
 166, minecraft, minecraft:mutated_mesa_rock, minecraft:mutated_mesa_rock
 167, minecraft, minecraft:mutated_mesa_clear_rock, minecraft:mutated_mesa_clear_rock
-#output time is 6 ms.
+#output time is 3 ms.

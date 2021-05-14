@@ -72,6 +72,7 @@ steam, steam, 蒸汽
 sugar, sugar, 糖液
 swamp_water, swamp_water, 沼泽的水
 tar, tar, 焦油
+tears, tears, 泪
 tin, tin, 熔融锡
 umber_ale, umber_ale, 茶啤
 vampirismblood, vampirismblood, 血液（吸血鬼模组）
@@ -84,4 +85,4 @@ wildberrywine, wildberrywine, 野莓酒
 wine, wine, 葡萄酒
 wood_tar, wood_tar, 木焦油
 wormwood_mixture, wormwood_mixture, Wormwood Mixture
-#output time is 5 ms.
+#output time is 2 ms.

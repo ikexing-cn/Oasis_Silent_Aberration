@@ -1,0 +1,6 @@
+
+{
+  "Name": "surgeon",
+  "Registry ID": "beyondtheveil:surgeon",
+  "Class": "com.valeriotor.beyondtheveil.entities.EntitySurgeon"
+}

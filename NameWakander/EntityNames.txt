@@ -638,6 +638,20 @@ vampirism:villager_hunter_faction, entity.vampirism.villager_hunter_faction.name
 vampirism:villager_vampire_faction, entity.vampirism.villager_vampire_faction.name, 吸血鬼专家
 vampirism:hunter_trainer_dummy, entity.vampirism.hunter_trainer_dummy.name, 卧底猎人教官
 vampirism:converted_horse, entity.vampirism.converted_horse.name, entity.vampirism.converted_horse.name
+beyondtheveil:deep_one, entity.deep_one.name, 深潜者
+beyondtheveil:hamlet_dweller, entity.hamlet_dweller.name, 旧渔村居民
+beyondtheveil:canoe, entity.canoe.name, 独木舟
+beyondtheveil:crawling_villager, entity.crawling_villager.name, 爬行的村民
+beyondtheveil:weeper, entity.weeper.name, 泣者
+beyondtheveil:fletum, entity.fletum.name, 泣囊
+beyondtheveil:shoggoth, entity.shoggoth.name, 修格斯
+beyondtheveil:blood_zombie, entity.blood_zombie.name, 血僵尸
+beyondtheveil:blood_skeleton, entity.blood_skeleton.name, 血骷髅
+beyondtheveil:crazed_weeper, entity.crazed_weeper.name, 发狂的泣者
+beyondtheveil:dream_item, entity.dream_item.name, entity.dream_item.name
+beyondtheveil:dream_fluid, entity.dream_fluid.name, entity.dream_fluid.name
+beyondtheveil:dream_villager, entity.dream_villager.name, entity.dream_villager.name
+beyondtheveil:surgeon, entity.surgeon.name, 外科医兽
 immersiveengineering:revolvershot, entity.revolverShot.name, entity.revolverShot.name
 immersiveengineering:skylinehook, entity.skylineHook.name, entity.skylineHook.name
 immersiveengineering:revolvershothoming, entity.revolverShotHoming.name, entity.revolverShotHoming.name
@@ -648,4 +662,4 @@ immersiveengineering:revolvershotflare, entity.revolverShotFlare.name, entity.re
 immersiveengineering:explosive, entity.explosive.name, entity.explosive.name
 immersiveengineering:fluorescenttube, entity.fluorescentTube.name, entity.fluorescentTube.name
 minecraft:lightning_bolt, entity.null.name, entity.null.name
-#output time is 6 ms.
+#output time is 3 ms.

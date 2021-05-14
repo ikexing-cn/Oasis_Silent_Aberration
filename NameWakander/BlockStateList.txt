@@ -859,7 +859,7 @@ Gold Moloch Idol, bewitchment:gold_moloch_idol[facing=south]
 秘银源质罐子, thaumadditions:jar_mithrillium
 精金源质罐子, thaumadditions:jar_adaminite
 秘金源质罐子, thaumadditions:jar_mithminite
-Motus 水晶块, thaumadditions:crystal_block[facing=down]
+Vitreus 水晶块, thaumadditions:crystal_block[facing=down]
 Aer 水晶块, thaumadditions:crystal_block[facing=down]
 Terra 水晶块, thaumadditions:crystal_block[facing=down]
 Ignis 水晶块, thaumadditions:crystal_block[facing=down]
@@ -868,8 +868,8 @@ Ordo 水晶块, thaumadditions:crystal_block[facing=down]
 Perditio 水晶块, thaumadditions:crystal_block[facing=down]
 Vacuos 水晶块, thaumadditions:crystal_block[facing=down]
 Lux 水晶块, thaumadditions:crystal_block[facing=down]
+Motus 水晶块, thaumadditions:crystal_block[facing=down]
 Gelum 水晶块, thaumadditions:crystal_block[facing=down]
-Vitreus 水晶块, thaumadditions:crystal_block[facing=down]
 Metallum 水晶块, thaumadditions:crystal_block[facing=down]
 Victus 水晶块, thaumadditions:crystal_block[facing=down]
 Mortuus 水晶块, thaumadditions:crystal_block[facing=down]
@@ -1656,6 +1656,54 @@ Juniper Table, rusticwitchcraft:table_juniper[ne=true,nw=true,se=true,sw=true]
 反物质, animus:blockantimatter[decaying=true]
 彩绘金合欢木板, mowziesmobs:painted_acacia
 彩绘金合欢木台阶, mowziesmobs:painted_acacia_slab[half=bottom,variant=default]
+潮木木板, beyondtheveil:damp_wood
+熏香器, beyondtheveil:fume_spreader[is_full=false]
+暗蓝沙, beyondtheveil:dark_sand
+潮石, beyondtheveil:damp_stone
+潮木原木, beyondtheveil:damp_log[axis=y]
+潮木楼梯, beyondtheveil:damp_wood_stairs[facing=east,half=bottom,shape=straight]
+潮木顶瓦, beyondtheveil:damp_canopy[facing=north,is_flat=false,shape=straight]
+潮木顶瓦（实木）, beyondtheveil:damp_canopy_wood[facing=north]
+磨损暗蓝砖, beyondtheveil:worn_bricks
+神像, beyondtheveil:idol[facing=south]
+木桶, beyondtheveil:barrel
+蛞蝓诱捕器, beyondtheveil:slug_bait
+灯, beyondtheveil:lamp
+暗蓝砖, beyondtheveil:bricks_blue
+磨损暗蓝砖楼梯, beyondtheveil:worn_brick_stairs[facing=east,half=bottom,shape=straight]
+潮木栅栏, beyondtheveil:damp_wood_fence[east=false,north=false,south=false,west=false]
+沉眠室, beyondtheveil:sleep_chamber[facing=south,half=bottom,open=false]
+进阶沉眠室, beyondtheveil:sleep_chamber_advanced[facing=south,half=bottom,open=false]
+豆茎, beyondtheveil:beanstalk[facing=north,source=true]
+红石草方块, beyondtheveil:redstone_grass[power=none]
+幽灵草方块, beyondtheveil:ghost_grass
+造树之木, beyondtheveil:arboreal_generator[half=bottom]
+树种灌木, beyondtheveil:sapling_shrub
+维祭丝, beyondtheveil:plant_ordo[half=bottom]
+沉梦水篮, beyondtheveil:watery_cradle[facing=south,part=structure]
+泪瓶, beyondtheveil:lacrymatory
+城市测绘台, beyondtheveil:city_mapper[facing=south]
+古老石砖, beyondtheveil:elder_stone_bricks
+錾制古老石砖, beyondtheveil:elder_bricks_chiseled
+古老砖, beyondtheveil:elder_bricks
+古老石砖楼梯, beyondtheveil:elder_stone_brick_stairs[facing=east,half=bottom,shape=straight]
+古老石砖台阶, beyondtheveil:elder_slab[half=bottom,variant=default]
+心脏, beyondtheveil:heart
+献祭祭坛核心, beyondtheveil:sacrifice_altar
+血石砖, beyondtheveil:blood_bricks
+血石砖楼梯, beyondtheveil:blood_bricks_stairs[facing=east,half=bottom,shape=straight]
+血石砖台阶, beyondtheveil:blood_bricks_slab[half=bottom,variant=default]
+血井, beyondtheveil:blood_well
+雕像, beyondtheveil:statue[horizontal_facing=south]
+牺牲雕像, beyondtheveil:sacrifice_statue[horizontal_facing=south]
+忏悔雕像, beyondtheveil:penitence_statue[horizontal_facing=south]
+唤忆池, beyondtheveil:memory_sieve
+齿轮工作台, beyondtheveil:gear_bench
+梦之聚焦仪：移物, beyondtheveil:dream_focus[facing=south]
+梦之聚焦仪：移液, beyondtheveil:dream_focus_fluids
+梦之聚焦仪：村民, beyondtheveil:dream_focus_villagers
+帘幕, beyondtheveil:curtain[facing=south]
+迈祭德泪芽, beyondtheveil:megydrea[half=bottom]
 tile.bloodarsenal.slate..name, bloodarsenal:slate[type=blank]
 tile.bloodarsenal.slate..name, bloodarsenal:slate[type=reinforced]
 tile.bloodarsenal.slate..name, bloodarsenal:slate[type=imbued]
@@ -1857,7 +1905,7 @@ tile.bloodarsenal.slate..name, bloodarsenal:slate[type=ethereal]
 金属板料斗, immersiveengineering:conveyor[facing=north,type=conveyor]
 紧凑型箱子, compactstorage:compactchest
 箱子生成器, compactstorage:chestbuilder
-潮木桶, compactstorage:barrel[facing=north]
+木桶, compactstorage:barrel[facing=north]
 鼓, compactstorage:barrel_fluid[facing=north]
 Ancient Altar, crimsonwarfare:boss_activator
 珍珠块, grimoireofgaia:block_pearl
@@ -2387,24 +2435,24 @@ Overworld Icestone Ore, netherendingores:ore_other_1[blocks=overworld_icestone_o
 渗透附魔台, thaumictinkerer:osmotic_enchanter
 活力牌板, thaumictinkerer:animation_tablet
 烟黑石英块, thaumictinkerer:black_quartz_block
-灵感引擎, thaumicwonders:inspiration_engine
-创造模式源质罐子, thaumicwonders:creative_essentia_jar
-嗜肉之球, thaumicwonders:meaty_orb[facing=north]
-维度撕裂器, thaumicwonders:dimensional_ripper[enabled=true,facing=down]
 元始加速轨道, thaumicwonders:primordial_accelerator_tunnel[facing=north]
-疯狂引擎, thaumicwonders:madness_engine
-聚合矩阵, thaumicwonders:coalescence_matrix_precursor
-乌洛托品（魔法版01型）, thaumicwonders:hexamite[explode=false]
-万能溶剂之锅, thaumicwonders:alkahest_vat
+嗜肉之球, thaumicwonders:meaty_orb[facing=north]
 元始加速器, thaumicwonders:primordial_accelerator[enabled=true,facing=north]
-矿石探测器, thaumicwonders:ore_diviner
-永燃之瓮, thaumicwonders:everburning_urn
-传送锚, thaumicwonders:portal_anchor
-气象之球, thaumicwonders:meteorb[facing=north]
-元始加速冲撞终端, thaumicwonders:primordial_accelerator_terminus[facing=north]
-虚空信标, thaumicwonders:void_beacon[enabled=true]
-传送门生成器, thaumicwonders:portal_generator[enabled=true]
+乌洛托品（魔法版01型）, thaumicwonders:hexamite[explode=false]
 咒波蒸馏器, thaumicwonders:flux_distiller[charge=0]
+气象之球, thaumicwonders:meteorb[facing=north]
+聚合矩阵, thaumicwonders:coalescence_matrix_precursor
+灵感引擎, thaumicwonders:inspiration_engine
+疯狂引擎, thaumicwonders:madness_engine
+永燃之瓮, thaumicwonders:everburning_urn
+矿石探测器, thaumicwonders:ore_diviner
+虚空信标, thaumicwonders:void_beacon[enabled=true]
+维度撕裂器, thaumicwonders:dimensional_ripper[enabled=true,facing=down]
+元始加速冲撞终端, thaumicwonders:primordial_accelerator_terminus[facing=north]
+万能溶剂之锅, thaumicwonders:alkahest_vat
+创造模式源质罐子, thaumicwonders:creative_essentia_jar
+传送锚, thaumicwonders:portal_anchor
+传送门生成器, thaumicwonders:portal_generator[enabled=true]
 咒波容器, thaumicwonders:flux_capacitor[charge=0]
 城堡方块, vampirism:castle_block[variant=dark_brick]
 城堡方块, vampirism:castle_block[variant=purple_brick]

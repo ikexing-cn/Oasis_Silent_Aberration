@@ -1,0 +1,6 @@
+
+{
+  "Name": "blood_zombie",
+  "Registry ID": "beyondtheveil:blood_zombie",
+  "Class": "com.valeriotor.beyondtheveil.entities.EntityBloodZombie"
+}

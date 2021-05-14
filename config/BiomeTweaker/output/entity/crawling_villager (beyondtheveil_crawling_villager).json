@@ -1,0 +1,6 @@
+
+{
+  "Name": "crawling_villager",
+  "Registry ID": "beyondtheveil:crawling_villager",
+  "Class": "com.valeriotor.beyondtheveil.entities.EntityCrawlingVillager"
+}
