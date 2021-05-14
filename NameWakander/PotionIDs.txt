@@ -134,8 +134,8 @@ UniqueId, RegistryName, ModId, UnlocalizedName, LocalizedName
 132, variegated:fishermans_friend, variegated, variegated.potion.fishermans_friend, Fisher's Boon
 133, variegated:attraction, variegated, variegated.potion.attraction, Attraction
 134, variegated:wings, variegated, variegated.potion.wings, variegated.potion.wings
-135, zentweaker:briskness, zentweaker, zentweaker.potion.briskness, zentweaker.potion.briskness
-136, zentweaker:heaviness, zentweaker, zentweaker.potion.heaviness, zentweaker.potion.heaviness
+135, zentweaker:heaviness, zentweaker, zentweaker.potion.heaviness, zentweaker.potion.heaviness
+136, zentweaker:briskness, zentweaker, zentweaker.potion.briskness, zentweaker.potion.briskness
 137, abyssalcraft:cplague, abyssalcraft, potion.Cplague, 珊瑚瘟疫
 138, abyssalcraft:dplague, abyssalcraft, potion.Dplague, 恐惧瘟疫
 139, abyssalcraft:antimatter, abyssalcraft, potion.Antimatter, 反物质

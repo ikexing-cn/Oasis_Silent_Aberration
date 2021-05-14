@@ -707,4 +707,4 @@ minecraft:recipes/building_blocks/chiseled_stonebrick, minecraft:recipes/buildin
 minecraft:recipes/building_blocks/pink_stained_glass, minecraft:recipes/building_blocks/pink_stained_glass, minecraft:recipes/root
 minecraft:recipes/decorations/light_gray_stained_glass_pane, minecraft:recipes/decorations/light_gray_stained_glass_pane, minecraft:recipes/root
 minecraft:recipes/decorations/light_gray_bed_from_white_bed, minecraft:recipes/decorations/light_gray_bed_from_white_bed, minecraft:recipes/root
-#output time is 2 ms.
+#output time is 1 ms.

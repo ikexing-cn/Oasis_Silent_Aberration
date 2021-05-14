@@ -859,7 +859,7 @@ Gold Moloch Idol, bewitchment:gold_moloch_idol[facing=south]
 秘银源质罐子, thaumadditions:jar_mithrillium
 精金源质罐子, thaumadditions:jar_adaminite
 秘金源质罐子, thaumadditions:jar_mithminite
-Bestia 水晶块, thaumadditions:crystal_block[facing=down]
+Victus 水晶块, thaumadditions:crystal_block[facing=down]
 Aer 水晶块, thaumadditions:crystal_block[facing=down]
 Terra 水晶块, thaumadditions:crystal_block[facing=down]
 Ignis 水晶块, thaumadditions:crystal_block[facing=down]
@@ -872,7 +872,6 @@ Motus 水晶块, thaumadditions:crystal_block[facing=down]
 Gelum 水晶块, thaumadditions:crystal_block[facing=down]
 Vitreus 水晶块, thaumadditions:crystal_block[facing=down]
 Metallum 水晶块, thaumadditions:crystal_block[facing=down]
-Victus 水晶块, thaumadditions:crystal_block[facing=down]
 Mortuus 水晶块, thaumadditions:crystal_block[facing=down]
 Potentia 水晶块, thaumadditions:crystal_block[facing=down]
 Permutatio 水晶块, thaumadditions:crystal_block[facing=down]
@@ -895,6 +894,7 @@ Aversio 水晶块, thaumadditions:crystal_block[facing=down]
 Praemunio 水晶块, thaumadditions:crystal_block[facing=down]
 Desiderium 水晶块, thaumadditions:crystal_block[facing=down]
 Exanimis 水晶块, thaumadditions:crystal_block[facing=down]
+Bestia 水晶块, thaumadditions:crystal_block[facing=down]
 Humanus 水晶块, thaumadditions:crystal_block[facing=down]
 Coralos 水晶块, thaumadditions:crystal_block[facing=down]
 Dreadia 水晶块, thaumadditions:crystal_block[facing=down]
@@ -2387,25 +2387,25 @@ Overworld Icestone Ore, netherendingores:ore_other_1[blocks=overworld_icestone_o
 渗透附魔台, thaumictinkerer:osmotic_enchanter
 活力牌板, thaumictinkerer:animation_tablet
 烟黑石英块, thaumictinkerer:black_quartz_block
-元始加速冲撞终端, thaumicwonders:primordial_accelerator_terminus[facing=north]
+咒波容器, thaumicwonders:flux_capacitor[charge=0]
 嗜肉之球, thaumicwonders:meaty_orb[facing=north]
 元始加速器, thaumicwonders:primordial_accelerator[enabled=true,facing=north]
-万能溶剂之锅, thaumicwonders:alkahest_vat
-疯狂引擎, thaumicwonders:madness_engine
-咒波容器, thaumicwonders:flux_capacitor[charge=0]
-维度撕裂器, thaumicwonders:dimensional_ripper[enabled=true,facing=down]
-矿石探测器, thaumicwonders:ore_diviner
-虚空信标, thaumicwonders:void_beacon[enabled=true]
-乌洛托品（魔法版01型）, thaumicwonders:hexamite[explode=false]
-咒波蒸馏器, thaumicwonders:flux_distiller[charge=0]
-气象之球, thaumicwonders:meteorb[facing=north]
-永燃之瓮, thaumicwonders:everburning_urn
-灵感引擎, thaumicwonders:inspiration_engine
 元始加速轨道, thaumicwonders:primordial_accelerator_tunnel[facing=north]
-传送门生成器, thaumicwonders:portal_generator[enabled=true]
-聚合矩阵, thaumicwonders:coalescence_matrix_precursor
+气象之球, thaumicwonders:meteorb[facing=north]
+维度撕裂器, thaumicwonders:dimensional_ripper[enabled=true,facing=down]
+元始加速冲撞终端, thaumicwonders:primordial_accelerator_terminus[facing=north]
+矿石探测器, thaumicwonders:ore_diviner
+咒波蒸馏器, thaumicwonders:flux_distiller[charge=0]
 传送锚, thaumicwonders:portal_anchor
+传送门生成器, thaumicwonders:portal_generator[enabled=true]
+永燃之瓮, thaumicwonders:everburning_urn
+聚合矩阵, thaumicwonders:coalescence_matrix_precursor
+万能溶剂之锅, thaumicwonders:alkahest_vat
+灵感引擎, thaumicwonders:inspiration_engine
 创造模式源质罐子, thaumicwonders:creative_essentia_jar
+疯狂引擎, thaumicwonders:madness_engine
+乌洛托品（魔法版01型）, thaumicwonders:hexamite[explode=false]
+虚空信标, thaumicwonders:void_beacon[enabled=true]
 城堡方块, vampirism:castle_block[variant=dark_brick]
 城堡方块, vampirism:castle_block[variant=purple_brick]
 城堡方块, vampirism:castle_block[variant=dark_brick_bloody]
@@ -3574,4 +3574,4 @@ Silver Ore, mysticalworld:silver_ore
 紫水晶矿石, mysticalworld:amethyst_ore
 石英矿石, mysticalworld:quartz_ore
 石英矿石, mysticalworld:granite_quartz_ore
-#output time is 4 ms.
+#output time is 2 ms.
