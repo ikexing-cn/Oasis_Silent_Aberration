@@ -11,10 +11,12 @@
         "pyrotech:innovate/bow_drill",
         "pyrotech:survive/flint_and_tinder",
         "pyrotech:survive/worktable",
-        "pyrotech:survive/chopping_block"
+        "pyrotech:survive/chopping_block",
+        "pyrotech:survive/rocks"
       ],
       "bookmarks": [],
       "history": [
+        "pyrotech:survive/rocks",
         "pyrotech:survive/worktable",
         "pyrotech:survive/chopping_block",
         "pyrotech:appendix/ignition",
@@ -61,6 +63,16 @@
       "history": [
         "ancientspellcraft:2_researching/studying_spells",
         "ancientspellcraft:1_intro/1"
+      ],
+      "completedManualQuests": []
+    },
+    "mysticalworld:world_guide": {
+      "viewedEntries": [
+        "mysticalworld:crops/aubergine"
+      ],
+      "bookmarks": [],
+      "history": [
+        "mysticalworld:crops/aubergine"
       ],
       "completedManualQuests": []
     }

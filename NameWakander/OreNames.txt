@@ -1063,8 +1063,8 @@ electronTube
   immersiveengineering:material, item.immersiveengineering.material.electron_tube.name, 真空管, 26
 elementalFume
   bewitchment:stone_ichor, item.bewitchment.stone_ichor.name, 岩汁, 0
-  bewitchment:swirl_of_depths, item.bewitchment.swirl_of_depths.name, 深海涡流, 0
   bewitchment:fiery_unguent, item.bewitchment.fiery_unguent.name, 炽热药膏, 0
+  bewitchment:swirl_of_depths, item.bewitchment.swirl_of_depths.name, 深海涡流, 0
   bewitchment:heaven_extract, item.bewitchment.heaven_extract.name, 极乐浸膏, 0
 enderpearl
   minecraft:ender_pearl, item.enderPearl.name, 末影珍珠, 0

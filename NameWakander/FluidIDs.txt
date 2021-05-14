@@ -84,4 +84,4 @@ wildberrywine, wildberrywine, 野莓酒
 wine, wine, 葡萄酒
 wood_tar, wood_tar, 木焦油
 wormwood_mixture, wormwood_mixture, Wormwood Mixture
-#output time is 4 ms.
+#output time is 3 ms.
