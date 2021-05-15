@@ -32,3 +32,4 @@ mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineeri
 config/splash.properties
 config/BiomeTweaker/output/biome
 config/jei/worldSettings.cfg
+*.disabled
