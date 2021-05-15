@@ -102,4 +102,4 @@ UniqueId, ModId, RegistryName, LocalizedName(if exist)
 165, minecraft, minecraft:mutated_mesa, minecraft:mutated_mesa
 166, minecraft, minecraft:mutated_mesa_rock, minecraft:mutated_mesa_rock
 167, minecraft, minecraft:mutated_mesa_clear_rock, minecraft:mutated_mesa_clear_rock
-#output time is 3 ms.
+#output time is 5 ms.
