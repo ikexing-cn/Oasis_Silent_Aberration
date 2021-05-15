@@ -1008,8 +1008,8 @@ dustUranium
 dustWheat
   roots:flour, item.flour.name, 面粉, 0
 dye
-  bewitchment:catechu_brown, item.bewitchment.catechu_brown.name, 儿茶棕, 0
   bewitchment:dragons_blood_resin, item.bewitchment.dragons_blood_resin.name, 龙血树脂, 0
+  bewitchment:catechu_brown, item.bewitchment.catechu_brown.name, 儿茶棕, 0
   minecraft:dye, item.dyePowder.black.name, 墨囊, 32767
   bewitchment:iron_gall_ink, item.bewitchment.iron_gall_ink.name, 铁胆墨, 0
   bewitchment:ink_cap_dye, item.bewitchment.ink_cap_dye.name, Blue Ink Cap Extract, 0
@@ -1063,8 +1063,8 @@ electronTube
   immersiveengineering:material, item.immersiveengineering.material.electron_tube.name, 真空管, 26
 elementalFume
   bewitchment:stone_ichor, item.bewitchment.stone_ichor.name, 岩汁, 0
-  bewitchment:swirl_of_depths, item.bewitchment.swirl_of_depths.name, 深海涡流, 0
   bewitchment:fiery_unguent, item.bewitchment.fiery_unguent.name, 炽热药膏, 0
+  bewitchment:swirl_of_depths, item.bewitchment.swirl_of_depths.name, 深海涡流, 0
   bewitchment:heaven_extract, item.bewitchment.heaven_extract.name, 极乐浸膏, 0
 enderpearl
   minecraft:ender_pearl, item.enderPearl.name, 末影珍珠, 0
@@ -3035,8 +3035,8 @@ fur
   thaumadditions:zeith_fur, item.thaumadditions:zeith_fur.name, 苍狼皮, 0
 gemAll
   minecraft:quartz, item.netherquartz.name, 下界石英, 0
-  bewitchment:garnet, item.bewitchment.garnet.name, 石榴石, 0
   bewitchment:amethyst, item.bewitchment.amethyst.name, 紫水晶, 0
+  bewitchment:garnet, item.bewitchment.garnet.name, 石榴石, 0
   minecraft:diamond, item.diamond.name, 钻石, 0
   minecraft:emerald, item.emerald.name, 绿宝石, 0
   minecraft:dye, item.dyePowder.blue.name, 青金石, 4
