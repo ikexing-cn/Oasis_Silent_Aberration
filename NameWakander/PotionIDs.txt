@@ -137,8 +137,8 @@ UniqueId, RegistryName, ModId, UnlocalizedName, LocalizedName
 135, variegated:fishermans_friend, variegated, variegated.potion.fishermans_friend, Fisher's Boon
 136, variegated:attraction, variegated, variegated.potion.attraction, Attraction
 137, variegated:wings, variegated, variegated.potion.wings, variegated.potion.wings
-138, zentweaker:briskness, zentweaker, zentweaker.potion.briskness, zentweaker.potion.briskness
-139, zentweaker:heaviness, zentweaker, zentweaker.potion.heaviness, zentweaker.potion.heaviness
+138, zentweaker:heaviness, zentweaker, zentweaker.potion.heaviness, zentweaker.potion.heaviness
+139, zentweaker:briskness, zentweaker, zentweaker.potion.briskness, zentweaker.potion.briskness
 140, abyssalcraft:cplague, abyssalcraft, potion.Cplague, 珊瑚瘟疫
 141, abyssalcraft:dplague, abyssalcraft, potion.Dplague, 恐惧瘟疫
 142, abyssalcraft:antimatter, abyssalcraft, potion.Antimatter, 反物质
@@ -204,4 +204,4 @@ UniqueId, RegistryName, ModId, UnlocalizedName, LocalizedName
 202, hungeroverhaul:wellfed, hungeroverhaul, potion.wellfed, 饱食
 203, thaumadditions:sonus, thaumadditions, potion.thaumadditions:sonus, 声音感知
 204, thaumadditions:sanity_checker, thaumadditions, , 
-#output time is 5 ms.
+#output time is 3 ms.

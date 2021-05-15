@@ -19,6 +19,27 @@ reskillable.skill.modpack.curse=诅咒
 reskillable.skill.modpack.distortion=扭曲
 reskillable.skill.modpack.crafting=匠艺
 reskillable.skill.modpack.knowledge=学识
+reskillable.misc.skill_points=%d §4灵感
+reskillable.misc.skills=全视之眼
+reskillable.misc.unlocked=开启！
+reskillable.rank.0=聆听
+reskillable.rank.1=窥视
+reskillable.rank.2=探索
+reskillable.rank.3=奥秘
+reskillable.rank.4=迷霾
+reskillable.rank.5=未知
+reskillable.rank.6=洞悉
+reskillable.rank.7=真相
+reskillable.rank.8=全视
+reskillable.tab.skills=§b全视之眼
+reskillable.tab.abilities=能力
+reskillable.skill.reskillable.agility=探索
+reskillable.skill.reskillable.attack=攻击
+reskillable.skill.reskillable.building=建造
+reskillable.skill.reskillable.defense=防御
+reskillable.skill.reskillable.farming=自然
+reskillable.skill.reskillable.magic=灵法
+reskillable.skill.reskillable.mining=采集
 
 ##Book
 
