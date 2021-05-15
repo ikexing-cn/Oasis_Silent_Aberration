@@ -12,19 +12,49 @@
         "pyrotech:survive/flint_and_tinder",
         "pyrotech:survive/worktable",
         "pyrotech:survive/chopping_block",
-        "pyrotech:survive/rocks"
+        "pyrotech:survive/rocks",
+        "pyrotech:innovate/compacting_bin",
+        "pyrotech:innovate/stone_worktable",
+        "pyrotech:innovate/refractory_brick",
+        "pyrotech:innovate/stone_crucible",
+        "pyrotech:bloom/crafting_table",
+        "pyrotech:innovate/cog_basic",
+        "pyrotech:innovate/stone_sawmill",
+        "pyrotech:innovate/stone_oven",
+        "pyrotech:innovate/stone_kiln",
+        "pyrotech:innovate/combustion_machines",
+        "pyrotech:innovate/stone_bricks",
+        "pyrotech:innovate/storage_durable",
+        "pyrotech:gather/storage",
+        "pyrotech:adapt/stone",
+        "pyrotech:adapt/pit_kiln",
+        "pyrotech:accelerate/bloomery",
+        "pyrotech:bloom/mechanical_mulcher",
+        "pyrotech:bloom/cog_advanced",
+        "pyrotech:bloom/mechanical_bellows",
+        "pyrotech:bloom/anvil_ironclad",
+        "pyrotech:bloom/slag",
+        "pyrotech:bloom/bloom",
+        "pyrotech:bloom/tongs",
+        "pyrotech:bloom/furnace",
+        "pyrotech:bloom/wither_forge",
+        "pyrotech:accelerate/bellows"
       ],
       "bookmarks": [],
       "history": [
-        "pyrotech:survive/rocks",
-        "pyrotech:survive/worktable",
-        "pyrotech:survive/chopping_block",
+        "pyrotech:bloom/slag",
+        "pyrotech:accelerate/bloomery",
+        "pyrotech:bloom/mechanical_bellows",
+        "pyrotech:accelerate/bellows",
+        "pyrotech:bloom/wither_forge",
         "pyrotech:appendix/ignition",
-        "pyrotech:innovate/bow_drill",
-        "pyrotech:survive/flint_and_tinder",
         "pyrotech:accelerate/igniters",
-        "pyrotech:appendix/credits",
-        "pyrotech:survive/fiber_torch"
+        "pyrotech:bloom/bloom",
+        "pyrotech:bloom/furnace",
+        "pyrotech:bloom/tongs",
+        "pyrotech:bloom/anvil_ironclad",
+        "pyrotech:bloom/cog_advanced",
+        "pyrotech:bloom/mechanical_mulcher"
       ],
       "completedManualQuests": []
     },
@@ -46,10 +76,14 @@
     },
     "bewitchment:codex_infernalis": {
       "viewedEntries": [
-        "bewitchment:nethers_firstborn/conjuration"
+        "bewitchment:nethers_firstborn/conjuration",
+        "bewitchment:greater_demons/beelzebub",
+        "bewitchment:greater_demons/lilith"
       ],
       "bookmarks": [],
       "history": [
+        "bewitchment:greater_demons/lilith",
+        "bewitchment:greater_demons/beelzebub",
         "bewitchment:nethers_firstborn/conjuration"
       ],
       "completedManualQuests": []
@@ -73,6 +107,16 @@
       "bookmarks": [],
       "history": [
         "mysticalworld:crops/aubergine"
+      ],
+      "completedManualQuests": []
+    },
+    "roots:roots_guide": {
+      "viewedEntries": [
+        "roots:basics/crafting"
+      ],
+      "bookmarks": [],
+      "history": [
+        "roots:basics/crafting"
       ],
       "completedManualQuests": []
     }
