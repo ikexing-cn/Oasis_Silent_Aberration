@@ -104,4 +104,4 @@ vampirism:hunter_expert,vampirism.hunter_expert,Emerald:20,30->vampirism:vampire
 vampirism:hunter_expert,vampirism.hunter_expert,Emerald:1,1->vampirism:vampire_book
 vampirism:vampire_expert,vampirism.vampire_expert,Emerald:20,30->vampirism:vampire_fang
 vampirism:vampire_expert,vampirism.vampire_expert,Emerald:1,1->vampirism:vampire_book
-#output time is 8 ms.
+#output time is 1 ms.
