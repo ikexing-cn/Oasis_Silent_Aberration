@@ -5,13 +5,34 @@
     
     "buttons":
     {
+		"new_world":
+        {
+            "text" : "",
+            "posX" : 120,
+            "posY" : -73,
+            "width" : 154,
+            "height" : 38.4,
+			"imageWidth": 384,
+			"imageHeight": 96,
+			"texture" : "modpack:background/buttons/new_game.png",
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer.createworld"
+            }
+        },
         "singleplayer":
         {
-            "text" : "menu.singleplayer",
-            "posX" : -100,
-            "posY" : 48,
-            "width" : 200,
-            "height" : 20,
+            "text" : "",
+            "posX" : 120,
+            "posY" : -24,
+            "width" : 154,
+            "height" : 38.4,
+			"imageWidth": 384,
+			"imageHeight": 96,
+			"texture" : "modpack:background/buttons/continue.png",
+			"alignment" : "left_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -21,11 +42,15 @@
         
         "multiplayer":
         {
-            "text" : "menu.multiplayer",
-            "posX" : -100,
-            "posY" : 72,
-            "width" : 200,
-            "height" : 20,
+            "text" : "",
+            "posX" : 120,
+            "posY" : 25,
+            "width" : 154,
+            "height" : 38.4,
+			"imageWidth": 384,
+			"imageHeight": 96,
+			"texture" : "modpack:background/buttons/online.png",
+			"alignment" : "left_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -35,11 +60,15 @@
             
         "options":
         {
-            "text" : "menu.options",
-            "posX" : -100,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
+            "text" : "",
+            "posX" : 120,
+            "posY" : 74,
+            "width" : 154,
+            "height" : 38.4,
+			"imageWidth": 384,
+			"imageHeight": 96,
+			"texture" : "modpack:background/buttons/setting.png",
+			"alignment" : "left_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -49,42 +78,18 @@
         
         "quit":
         {
-            "text" : "menu.quit",
-            "posX" : 2,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
+            "text" : "",
+            "posX" : 120,
+            "posY" : 123,
+            "width" : 154,
+            "height" : 38.4,
+			"imageWidth": 384,
+			"imageHeight": 96,
+			"texture" : "modpack:background/buttons/quit.png",
+			"alignment" : "left_center",
             "action" : 
             {
                 "type" : "quit"
-            }
-        },
-        
-        "language":
-        {
-            "text" : "",
-            "posX" : -124,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
-            }
-        },
-        
-        "refresh":
-        {
-            "text" : "",
-            "posX" : -154,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" : 
-            {
-                "type" : "refresh"
             }
         }
     },
