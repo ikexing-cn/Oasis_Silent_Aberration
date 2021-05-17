@@ -111,6 +111,7 @@ minecraft:recipes/decorations/acacia_fence, minecraft:recipes/decorations/acacia
 iceandfire:iceandfire/kill_siren, iceandfire:iceandfire/kill_siren, iceandfire:iceandfire/bestiary
 minecraft:recipes/decorations/magenta_bed_from_white_bed, minecraft:recipes/decorations/magenta_bed_from_white_bed, minecraft:recipes/root
 minecraft:recipes/decorations/iron_bars, minecraft:recipes/decorations/iron_bars, minecraft:recipes/root
+bhc:main/red_heart_canister, bhc:main/red_heart_canister, bhc:main/relic_apple
 minecraft:recipes/misc/sugar, minecraft:recipes/misc/sugar, minecraft:recipes/root
 minecraft:recipes/misc/red_dye_from_rose_bush, minecraft:recipes/misc/red_dye_from_rose_bush, minecraft:recipes/root
 minecraft:recipes/building_blocks/brick_stairs, minecraft:recipes/building_blocks/brick_stairs, minecraft:recipes/root
@@ -139,6 +140,7 @@ minecraft:story/lava_bucket, minecraft:story/lava_bucket, minecraft:story/smelt_
 thebetweenlands:adventurer/none_to_rule_them_all, thebetweenlands:adventurer/none_to_rule_them_all, thebetweenlands:adventurer/dank_world
 thebetweenlands:survivalist/a_cure, thebetweenlands:survivalist/a_cure, thebetweenlands:survivalist/root
 vampirism:vampire/yuck, vampirism:vampire/yuck, vampirism:vampire/first_blood
+bhc:main/root, bhc:main/root, No Parent
 pyrotech:charcoal, pyrotech:charcoal, pyrotech:stone_brick
 minecraft:recipes/building_blocks/quartz_stairs, minecraft:recipes/building_blocks/quartz_stairs, minecraft:recipes/root
 minecraft:recipes/building_blocks/oak_stairs, minecraft:recipes/building_blocks/oak_stairs, minecraft:recipes/root
@@ -342,6 +344,7 @@ iceandfire:iceandfire/tame_amphithere, iceandfire:iceandfire/tame_amphithere, ic
 minecraft:recipes/decorations/red_stained_glass_pane, minecraft:recipes/decorations/red_stained_glass_pane, minecraft:recipes/root
 minecraft:recipes/decorations/purple_shulker_box, minecraft:recipes/decorations/purple_shulker_box, minecraft:recipes/root
 minecraft:recipes/decorations/flower_pot, minecraft:recipes/decorations/flower_pot, minecraft:recipes/root
+bhc:main/yellow_heart, bhc:main/yellow_heart, bhc:main/root
 minecraft:recipes/decorations/yellow_carpet, minecraft:recipes/decorations/yellow_carpet, minecraft:recipes/root
 pyrotech:cobblestone, pyrotech:cobblestone, pyrotech:pickaxe
 abyssalcraft:mine_abyssal_ores, abyssalcraft:mine_abyssal_ores, abyssalcraft:mine_abyssal_coralium
@@ -585,6 +588,7 @@ minecraft:recipes/redstone/light_weighted_pressure_plate, minecraft:recipes/reds
 thebetweenlands:fighter/a_spiky_matter, thebetweenlands:fighter/a_spiky_matter, thebetweenlands:fighter/chopping_boy
 minecraft:recipes/decorations/snow_layer, minecraft:recipes/decorations/snow_layer, minecraft:recipes/root
 minecraft:recipes/decorations/yellow_stained_glass_pane, minecraft:recipes/decorations/yellow_stained_glass_pane, minecraft:recipes/root
+bhc:main/yellow_heart_canister, bhc:main/yellow_heart_canister, bhc:main/yellow_heart
 bewitchment:loom, bewitchment:loom, bewitchment:distillery
 minecraft:recipes/building_blocks/blue_concrete_powder, minecraft:recipes/building_blocks/blue_concrete_powder, minecraft:recipes/root
 minecraft:recipes/building_blocks/cyan_stained_glass, minecraft:recipes/building_blocks/cyan_stained_glass, minecraft:recipes/root
@@ -698,6 +702,7 @@ minecraft:recipes/building_blocks/nether_brick, minecraft:recipes/building_block
 minecraft:end/respawn_dragon, minecraft:end/respawn_dragon, minecraft:end/kill_dragon
 iceandfire:iceandfire/dragon_horn, iceandfire:iceandfire/dragon_horn, iceandfire:iceandfire/dragon_egg
 roots:guide, roots:guide, roots:wildroot
+bhc:main/relic_apple, bhc:main/relic_apple, bhc:main/root
 immersiveengineering:main/craft_skyhook, immersiveengineering:main/craft_skyhook, immersiveengineering:main/craft_workbench
 pyrotech:granite_anvil, pyrotech:granite_anvil, pyrotech:stone_slab
 minecraft:story/smelt_iron, minecraft:story/smelt_iron, minecraft:story/upgrade_tools

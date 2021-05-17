@@ -42,6 +42,7 @@ CreativeCore_v1.10.58_mc1.12.2.jar
 crimsonrevelations-0.8.jar
 crimsonwarfare-1.5.jar
 ctintegration-1.7.2.jar
+CustomBackgrounds-MC1.12-1.1.1.jar
 CustomMainMenu-MC1.12.2-2.0.9.1.jar
 DimensionStages-1.12.2-2.0.23.jar
 Ding-1.12.2-1.0.2.jar
@@ -55,12 +56,12 @@ EpicSiegeMod-13.168.jar
 FancyBlockParticles-1.12.x-2.4.1.jar
 FastLeafDecay-v14.jar
 foamfix-0.10.11-1.12.2.jar
-Forgelin-1.8.4.jar
 GameStages-1.12.2-2.0.123.jar
 gogredux-1.12.2-1.0.0.jar
 GrimoireOfGaia3-1.12.2-1.7.2.jar
 Guide-API-1.12-2.1.8-63.jar
 HammerLib-1.12.2-2.0.6.26.jar
+HardcoreDarkness-MC1.12.2-2.0.jar
 HungerOverhaul-1.12.2-1.3.3.jenkins148.jar
 i18nupdatemod-1.12.2-1.1.0.jar
 iceandfire-1.9.1-1.12.2.jar
@@ -99,7 +100,7 @@ mowziesmobs-1.5.8.jar
 MTLib-3.0.7.jar
 mysticallib-1.12.2-1.10.0.jar
 mysticalworld-1.12.2-1.9.5.jar
-NameWakander-1.12-1.3.6.jar
+NameWakander-1.12-1.3.6.jar.disabled
 Neat 1.4-17.jar
 Netherending-Ores-1.12.2-1.4.2.jar
 NoMobSpawningOnTrees-1.2.2-mc1.12.2.jar
@@ -132,6 +133,7 @@ rustic-1.1.7.jar
 rusticwitcraft-1.0.2.jar
 SmoothFont-mc1.12.2-2.1.2.jar
 SmoothWater-0.1.4.jar
+solcarrot-1.12.2-1.8.4.jar
 Soot-1.10-hotfix.jar
 StepUp-1.0.2-mc1.10-1.12.jar
 StorageDrawers-1.12.2-5.4.2.jar

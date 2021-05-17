@@ -204,4 +204,4 @@ UniqueId, RegistryName, ModId, UnlocalizedName, LocalizedName
 202, hungeroverhaul:wellfed, hungeroverhaul, potion.wellfed, 饱食
 203, thaumadditions:sonus, thaumadditions, potion.thaumadditions:sonus, 声音感知
 204, thaumadditions:sanity_checker, thaumadditions, , 
-#output time is 1 ms.
+#output time is 10 ms.

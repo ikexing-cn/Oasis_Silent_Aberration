@@ -112,11 +112,27 @@
     },
     "roots:roots_guide": {
       "viewedEntries": [
-        "roots:basics/crafting"
+        "roots:basics/crafting",
+        "roots:basics/groves",
+        "roots:spells/spell_grove_supplication",
+        "roots:basics/pyre",
+        "roots:resources/runestone",
+        "roots:apparatus/offering_plate",
+        "roots:resources/runic_dust",
+        "roots:apparatus/runic_shears",
+        "roots:herbs/terra_moss"
       ],
       "bookmarks": [],
       "history": [
-        "roots:basics/crafting"
+        "roots:herbs/terra_moss",
+        "roots:resources/runestone",
+        "roots:apparatus/runic_shears",
+        "roots:resources/runic_dust",
+        "roots:apparatus/offering_plate",
+        "roots:basics/pyre",
+        "roots:basics/groves",
+        "roots:basics/crafting",
+        "roots:spells/spell_grove_supplication"
       ],
       "completedManualQuests": []
     }

@@ -296,6 +296,7 @@ embers:ancient_golem, entity.ancient_golem.name, 太古魔像
 embers:ember_light, entity.ember_light.name, entity.ember_light.name
 embers:magma_worm, entity.magma_worm.name, 岩浆蠕虫[WIP]
 embers:magma_projectile, entity.magma_projectile.name, entity.magma_projectile.name
+grue:entitygrue, entity.grue.EntityGrue.name, 格鲁怪物
 thaumadditions:chester, entity.thaumadditions.chester.name, 箱子精
 thaumadditions:essentia_shot, entity.thaumadditions.essentia_shot.name, entity.thaumadditions.essentia_shot.name
 thaumadditions:blue_wolf, entity.thaumadditions.blue_wolf.name, 苍狼
@@ -662,4 +663,4 @@ immersiveengineering:revolvershotflare, entity.revolverShotFlare.name, entity.re
 immersiveengineering:explosive, entity.explosive.name, entity.explosive.name
 immersiveengineering:fluorescenttube, entity.fluorescentTube.name, entity.fluorescentTube.name
 minecraft:lightning_bolt, entity.null.name, entity.null.name
-#output time is 5 ms.
+#output time is 11 ms.

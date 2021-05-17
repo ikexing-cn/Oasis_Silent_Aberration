@@ -13,6 +13,46 @@
         "*"
       ],
       "useOreDict": true
+    },
+    {
+      "item": "thebetweenlands:dug_swamp_dirt",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    },
+    {
+      "item": "thebetweenlands:dug_purified_swamp_dirt",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    },
+    {
+      "item": "thebetweenlands:dug_swamp_grass",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    },
+    {
+      "item": "thebetweenlands:dug_purified_swamp_grass",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
     }
   ]
 }
