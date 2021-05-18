@@ -1412,8 +1412,8 @@ electronTube
   immersiveengineering:material, item.immersiveengineering.material.electron_tube.name, 真空管, 26
 elementalFume
   bewitchment:stone_ichor, item.bewitchment.stone_ichor.name, 岩汁, 0
-  bewitchment:swirl_of_depths, item.bewitchment.swirl_of_depths.name, 深海涡流, 0
   bewitchment:fiery_unguent, item.bewitchment.fiery_unguent.name, 炽热药膏, 0
+  bewitchment:swirl_of_depths, item.bewitchment.swirl_of_depths.name, 深海涡流, 0
   bewitchment:heaven_extract, item.bewitchment.heaven_extract.name, 极乐浸膏, 0
 enderpearl
   minecraft:ender_pearl, item.enderPearl.name, 末影珍珠, 0
@@ -4369,8 +4369,8 @@ netherrack
   minecraft:netherrack, tile.hellrock.name, 地狱岩, 0
 nitor
   thaumcraft:nitor_purple, tile.nitor_purple.name, 紫色闪耀之光, 0
-  thaumcraft:nitor_cyan, tile.nitor_cyan.name, 青色闪耀之光, 0
   thaumcraft:nitor_red, tile.nitor_red.name, 红色闪耀之光, 0
+  thaumcraft:nitor_cyan, tile.nitor_cyan.name, 青色闪耀之光, 0
   thaumcraft:nitor_lightblue, tile.nitor_lightblue.name, 淡蓝色闪耀之光, 0
   thaumcraft:nitor_pink, tile.nitor_pink.name, 粉红色闪耀之光, 0
   thaumcraft:nitor_black, tile.nitor_black.name, 黑色闪耀之光, 0

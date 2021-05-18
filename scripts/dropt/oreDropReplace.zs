@@ -10,7 +10,6 @@ for oreDrop in oreDict.entries {
         var oreClusters as IItemStack = oreDict.get("cluster" ~ oreCluster).firstItem;
         var oreBlock as IOreDictEntry = oreDict.get("ore" ~ oreCluster);
         for block in oreBlock.items {
-            print(block.metadata);
             Dropt.list("ore_drop")
             .add(Dropt.rule()
             .matchBlocks([block.definition.id ~ ":" ~ block.metadata])
@@ -27,7 +26,6 @@ for oreDrop in oreDict.entries {
         }
         var oreNetherBlock as IOreDictEntry = oreDict.get("oreNether" ~ oreCluster);
         for block in oreNetherBlock.items {
-            print(block.metadata);
             Dropt.list("ore_nether_drop")
             .add(Dropt.rule()
             .matchBlocks([block.definition.id ~ ":" ~ block.metadata])
@@ -43,7 +41,6 @@ for oreDrop in oreDict.entries {
             );
         }var oreEndBlock as IOreDictEntry = oreDict.get("oreEnd" ~ oreCluster);
         for block in oreEndBlock.items {
-            print(block.metadata);
             Dropt.list("ore_end_drop")
             .add(Dropt.rule()
             .matchBlocks([block.definition.id ~ ":" ~ block.metadata])
