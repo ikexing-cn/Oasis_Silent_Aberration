@@ -1,3 +1,4 @@
+#priority -1
 import mods.dropt.Dropt;
 
 import crafttweaker.oredict.IOreDictEntry;
@@ -9,8 +10,8 @@ for oreDrop in oreDict.entries {
         var oreCluster as string = oreDicts.substring("cluster".length);
         var oreClusters as IItemStack = oreDict.get("cluster" ~ oreCluster).firstItem;
         var oreBlock as IOreDictEntry = oreDict.get("ore" ~ oreCluster);
-        for block in oreBlock.items {
-            Dropt.list("ore_drop")
+        for i, block in oreBlock.items {
+            Dropt.list("ore_drop"~i)
             .add(Dropt.rule()
             .matchBlocks([block.definition.id ~ ":" ~ block.metadata])
             .matchDrops([block.definition.makeStack(block.metadata)])
@@ -25,8 +26,8 @@ for oreDrop in oreDict.entries {
             );
         }
         var oreNetherBlock as IOreDictEntry = oreDict.get("oreNether" ~ oreCluster);
-        for block in oreNetherBlock.items {
-            Dropt.list("ore_nether_drop")
+        for i, block in oreNetherBlock.items {
+            Dropt.list("ore_nether_drop"~i)
             .add(Dropt.rule()
             .matchBlocks([block.definition.id ~ ":" ~ block.metadata])
             .matchDrops([block.definition.makeStack(block.metadata)])
@@ -40,8 +41,8 @@ for oreDrop in oreDict.entries {
                 )
             );
         }var oreEndBlock as IOreDictEntry = oreDict.get("oreEnd" ~ oreCluster);
-        for block in oreEndBlock.items {
-            Dropt.list("ore_end_drop")
+        for i, block in oreEndBlock.items {
+            Dropt.list("ore_end_drop"~i)
             .add(Dropt.rule()
             .matchBlocks([block.definition.id ~ ":" ~ block.metadata])
             .matchDrops([block.definition.makeStack(block.metadata)])
@@ -58,3 +59,9 @@ for oreDrop in oreDict.entries {
     }
 }
 
+Dropt.list("oreCoralium")
+    .add(Dropt.rule()
+    .matchBlocks(["abyssalcraft:coraliumore", "abyssalcraft:abycorore"])
+    .addDrop(Dropt.drop().items([<jaopca:item_clusterliquifiedcoralium>]))
+    .addDrop(Dropt.drop().selector(Dropt.weight(5)).items([<jaopca:item_clusterliquifiedcoralium>]))
+);

@@ -76,6 +76,7 @@ i18nupdatemod-1.12.2-1.1.0.jar
 iceandfire-1.9.1-1.12.2.jar
 IKnowWhatImDoing-3.0.0-fabric.jar
 ImmersiveEngineering-0.12-98.jar
+immersivepetroleum-1.12.2-1.1.9.jar
 infinitylib-1.12.0.jar
 InitialInventory-3.0.0.jar
 instantunify-1.12.2-1.1.2.jar
@@ -171,6 +172,7 @@ VampirismIntegrations-1.12.2-1.3.0.jar
 VanillaFix-1.0.10-150.jar
 variegated-1.2.7.jar
 WanionLib-1.12.2-2.5.jar
+world_generation_profiler-[1.8-1.12.2]-1.2.1.5.jar
 WrapUp-1.12-1.1.3.jar
 Zen Summoning-1.12-1.1.0.jar
 zenny3d.saturationoverflow-1.1.1.jar

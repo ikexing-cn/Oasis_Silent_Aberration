@@ -1,5 +1,7 @@
+#priority 254
 import crafttweaker.oredict.IOreDictEntry;
 import scripts.functions.remover.removeMetalByOutput;
+import crafttweaker.item.IItemDefinition;
 
 var removePartList as string[] = [
     "ingot",

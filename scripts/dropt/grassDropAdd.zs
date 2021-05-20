@@ -1,3 +1,4 @@
+#priority -1
 import mods.dropt.Dropt;
 
 Dropt.list("grass_add")

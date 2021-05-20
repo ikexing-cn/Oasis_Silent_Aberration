@@ -859,7 +859,7 @@ Gold Moloch Idol, bewitchment:gold_moloch_idol[facing=south]
 秘银源质罐子, thaumadditions:jar_mithrillium
 精金源质罐子, thaumadditions:jar_adaminite
 秘金源质罐子, thaumadditions:jar_mithminite
-Mythus 水晶块, thaumadditions:crystal_block[facing=down]
+Cognitio 水晶块, thaumadditions:crystal_block[facing=down]
 Aer 水晶块, thaumadditions:crystal_block[facing=down]
 Terra 水晶块, thaumadditions:crystal_block[facing=down]
 Ignis 水晶块, thaumadditions:crystal_block[facing=down]
@@ -889,7 +889,6 @@ Fabrico 水晶块, thaumadditions:crystal_block[facing=down]
 Machina 水晶块, thaumadditions:crystal_block[facing=down]
 Vinculum 水晶块, thaumadditions:crystal_block[facing=down]
 Spiritus 水晶块, thaumadditions:crystal_block[facing=down]
-Cognitio 水晶块, thaumadditions:crystal_block[facing=down]
 Sensus 水晶块, thaumadditions:crystal_block[facing=down]
 Aversio 水晶块, thaumadditions:crystal_block[facing=down]
 Praemunio 水晶块, thaumadditions:crystal_block[facing=down]
@@ -912,6 +911,7 @@ Infernum 水晶块, thaumadditions:crystal_block[facing=down]
 Ventus 水晶块, thaumadditions:crystal_block[facing=down]
 Visum 水晶块, thaumadditions:crystal_block[facing=down]
 Imperium 水晶块, thaumadditions:crystal_block[facing=down]
+Mythus 水晶块, thaumadditions:crystal_block[facing=down]
 腐化南瓜, thaumadditions:taintkin[facing=south]
 腐化南瓜灯, thaumadditions:taintkin_lit[facing=south]
 秘银块, thaumadditions:mithrillium_block
@@ -2017,6 +2017,9 @@ Dryad Doll, grimoireofgaia:doll_dryad[type=north]
 海蟒鳞块, iceandfire:sea_serpent_scale_block_purple
 海蟒鳞块, iceandfire:sea_serpent_scale_block_red
 海蟒鳞块, iceandfire:sea_serpent_scale_block_teal
+自动润滑器, immersivepetroleum:metal_device[_0multiblockslave=false,facing=north,type=automatic_lubricator]
+便携式发电机, immersivepetroleum:metal_device[_0multiblockslave=false,facing=north,type=gas_generator]
+沥青混凝土, immersivepetroleum:stone_decoration[type=asphalt]
 铁箱子, ironchest:iron_chest[variant=iron]
 金箱子, ironchest:iron_chest[variant=gold]
 钻石箱子, ironchest:iron_chest[variant=diamond]
@@ -2214,6 +2217,16 @@ Overworld Gravitite Ore, netherendingores:ore_other_1[blocks=overworld_gravitite
 Overworld Zanite Ore, netherendingores:ore_other_1[blocks=overworld_zanite_ore]
 Overworld Arkenium Ore, netherendingores:ore_other_1[blocks=overworld_arkenium_ore]
 Overworld Icestone Ore, netherendingores:ore_other_1[blocks=overworld_icestone_ore]
+破裂流星块, nyx:cracked_star_block
+錾制流星块, nyx:chiseled_star_block
+Gleaning Meteor Cluster, nyx:gleaning_meteor_rock
+Meteoric Glass, nyx:meteor_glass
+流星块, nyx:star_block
+流星块台阶, nyx:star_slab[half=bottom]
+Gleaning Crystal, nyx:crystal
+Meteoric Rock, nyx:meteor_rock
+流星块楼梯, nyx:star_stairs[facing=east,half=bottom,shape=straight]
+Block of Meteor, nyx:meteor_block
 液态粘土, pyrotech:fluid.liquid_clay[level=0]
 石块, pyrotech:rock[variant=rock_stone]
 花岗岩块, pyrotech:rock[variant=rock_granite]
@@ -2424,25 +2437,25 @@ Overworld Icestone Ore, netherendingores:ore_other_1[blocks=overworld_icestone_o
 渗透附魔台, thaumictinkerer:osmotic_enchanter
 活力牌板, thaumictinkerer:animation_tablet
 烟黑石英块, thaumictinkerer:black_quartz_block
+维度撕裂器, thaumicwonders:dimensional_ripper[enabled=true,facing=down]
+虚空信标, thaumicwonders:void_beacon[enabled=true]
+乌洛托品（魔法版01型）, thaumicwonders:hexamite[explode=false]
+传送锚, thaumicwonders:portal_anchor
+矿石探测器, thaumicwonders:ore_diviner
+元始加速冲撞终端, thaumicwonders:primordial_accelerator_terminus[facing=north]
+咒波容器, thaumicwonders:flux_capacitor[charge=0]
+永燃之瓮, thaumicwonders:everburning_urn
 传送门生成器, thaumicwonders:portal_generator[enabled=true]
-嗜肉之球, thaumicwonders:meaty_orb[facing=north]
 元始加速轨道, thaumicwonders:primordial_accelerator_tunnel[facing=north]
 聚合矩阵, thaumicwonders:coalescence_matrix_precursor
-咒波蒸馏器, thaumicwonders:flux_distiller[charge=0]
-气象之球, thaumicwonders:meteorb[facing=north]
-灵感引擎, thaumicwonders:inspiration_engine
-创造模式源质罐子, thaumicwonders:creative_essentia_jar
-万能溶剂之锅, thaumicwonders:alkahest_vat
-咒波容器, thaumicwonders:flux_capacitor[charge=0]
-元始加速冲撞终端, thaumicwonders:primordial_accelerator_terminus[facing=north]
-维度撕裂器, thaumicwonders:dimensional_ripper[enabled=true,facing=down]
-传送锚, thaumicwonders:portal_anchor
-永燃之瓮, thaumicwonders:everburning_urn
-乌洛托品（魔法版01型）, thaumicwonders:hexamite[explode=false]
-矿石探测器, thaumicwonders:ore_diviner
-虚空信标, thaumicwonders:void_beacon[enabled=true]
 疯狂引擎, thaumicwonders:madness_engine
+咒波蒸馏器, thaumicwonders:flux_distiller[charge=0]
 元始加速器, thaumicwonders:primordial_accelerator[enabled=true,facing=north]
+气象之球, thaumicwonders:meteorb[facing=north]
+万能溶剂之锅, thaumicwonders:alkahest_vat
+创造模式源质罐子, thaumicwonders:creative_essentia_jar
+嗜肉之球, thaumicwonders:meaty_orb[facing=north]
+灵感引擎, thaumicwonders:inspiration_engine
 城堡方块, vampirism:castle_block[variant=dark_brick]
 城堡方块, vampirism:castle_block[variant=purple_brick]
 城堡方块, vampirism:castle_block[variant=dark_brick_bloody]
@@ -3633,4 +3646,4 @@ Syrmorite簇晶体, jaopca:block_crystalclustersyrmorite
 熔融Octine, jaopca:fluid_moltenoctine[level=0]
 熔融Syrmorite, jaopca:fluid_moltensyrmorite[level=0]
 熔融铀, jaopca:fluid_moltenuranium[level=0]
-#output time is 2 ms.
+#output time is 3 ms.

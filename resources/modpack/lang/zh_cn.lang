@@ -41,6 +41,10 @@ reskillable.skill.reskillable.farming=自然
 reskillable.skill.reskillable.magic=灵法
 reskillable.skill.reskillable.mining=采集
 
+##fluid
+fluid.metal_alchemy_fluid=金属原液
+fluid.fluid_alchemy=§3纯净炼金提纯液
+
 ##Book
 
 item.modpack_book.name=§6寂灭间章

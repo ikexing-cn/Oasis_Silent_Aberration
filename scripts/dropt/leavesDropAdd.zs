@@ -1,3 +1,4 @@
+#priority -1
 import mods.dropt.Dropt;
 
 import crafttweaker.oredict.IOreDictEntry;

@@ -1412,8 +1412,8 @@ electronTube
   immersiveengineering:material, item.immersiveengineering.material.electron_tube.name, 真空管, 26
 elementalFume
   bewitchment:stone_ichor, item.bewitchment.stone_ichor.name, 岩汁, 0
-  bewitchment:fiery_unguent, item.bewitchment.fiery_unguent.name, 炽热药膏, 0
   bewitchment:swirl_of_depths, item.bewitchment.swirl_of_depths.name, 深海涡流, 0
+  bewitchment:fiery_unguent, item.bewitchment.fiery_unguent.name, 炽热药膏, 0
   bewitchment:heaven_extract, item.bewitchment.heaven_extract.name, 极乐浸膏, 0
 enderpearl
   minecraft:ender_pearl, item.enderPearl.name, 末影珍珠, 0
@@ -4297,10 +4297,13 @@ listAllyogurt
   harvestcraft:limeyogurtitem, item.limeyogurtitem.name, 青柠沙冰, 0
   harvestcraft:grapeyogurtitem, item.grapeyogurtitem.name, 葡萄酸奶, 0
 logWood
+  aether:therawood_log, tile.aether.therawood_log.name, 坻星原木, 0
+  aether:dark_skyroot_log, tile.aether.dark_skyroot_log.name, 天硕木, 0
   thebetweenlands:log_weedwood, tile.thebetweenlands.log_weedwood.name, 杂草树原木, 32767
   thebetweenlands:log_sap, tile.thebetweenlands.log_sap.name, 凝胶树原木, 32767
   abyssalcraft:dltlog, tile.dltlog.name, 黑暗之地橡木, 0
   roots:wildwood_log, tile.wildwood_log.name, 野木, 0
+  aether:light_skyroot_log, tile.aether.light_skyroot_log.name, 天纤木, 0
   thaumcraft:log_greatwood, tile.log_greatwood.name, 宏伟之木原木, 0
   thebetweenlands:log_spirit_tree, tile.thebetweenlands.log_spirit_tree.name, 灵魂树原木, 32767
   rustic:log, tile.rustic.log_olive.name, 橄榄树原木, 0
@@ -4310,6 +4313,7 @@ logWood
   harvestcraft:pamcinnamon, tile.pamcinnamon.name, 肉桂木, 0
   thebetweenlands:log_hearthgrove, tile.thebetweenlands.log_hearthgrove_tarred.name, 涂油火树原木, 32767
   abyssalcraft:dreadlog, tile.dreadlog.name, 恐惧之地树木, 0
+  aether:skyroot_log, tile.aether.skyroot_log.name, 天根木, 0
   thaumcraft:log_silverwood, tile.log_silverwood.name, 银树原木, 0
   minecraft:log, tile.log.oak.name, 橡木, 32767
   bewitchment:elder_wood, tile.bewitchment.elder_wood.name, 接骨木, 0
@@ -4879,6 +4883,7 @@ plankWood
   rustic:painted_wood_blue, tile.rustic.painted_wood_blue.name, 蓝色彩绘木板, 0
   rustic:painted_wood_brown, tile.rustic.painted_wood_brown.name, 棕色彩绘木板, 0
   thebetweenlands:weedwood_planks, tile.thebetweenlands.weedwood_planks.name, 杂草木木板, 0
+  aether:light_skyroot_planks, tile.aether.light_skyroot_planks.name, 天纤木板, 0
   thebetweenlands:hearthgrove_planks, tile.thebetweenlands.hearthgrove_planks.name, 火树木板, 0
   betternether:reeds_block, tile.reeds_block.name, 芦苇块, 0
   bewitchment:elder_planks, tile.bewitchment.elder_planks.name, 接骨木板, 0
@@ -4899,9 +4904,11 @@ plankWood
   rustic:painted_wood_green, tile.rustic.painted_wood_green.name, 绿色彩绘木板, 0
   rustic:painted_wood_red, tile.rustic.painted_wood_red.name, 红色彩绘木板, 0
   bewitchment:juniper_planks, tile.bewitchment.juniper_planks.name, 杜松木板, 0
+  aether:therawood_planks, tile.aether.therawood_planks.name, 坻星木板, 0
   bewitchment:dragons_blood_planks, tile.bewitchment.dragons_blood_planks.name, 龙血木板, 0
   thaumadditions:taintwood_planks, tile.thaumadditions:taintwood_planks.name, 腐化原木木板, 0
   thebetweenlands:nibbletwig_planks, tile.thebetweenlands.nibbletwig_planks.name, 奇趣枝木板, 0
+  aether:dark_skyroot_planks, tile.aether.dark_skyroot_planks.name, 天硕木板, 0
   mysticalworld:charred_planks, tile.charred_planks.name, 烧焦的木板, 0
   rustic:painted_wood_purple, tile.rustic.painted_wood_purple.name, 紫色彩绘木板, 0
   rustic:planks, tile.rustic.planks_olive.name, 橄榄木木板, 0
@@ -4910,6 +4917,7 @@ plankWood
   abyssalcraft:dreadplanks, tile.dreadplanks.name, 恐惧之地木板, 0
   roots:wildwood_planks, tile.wildwood_planks.name, 野木木板, 0
   rustic:painted_wood_pink, tile.rustic.painted_wood_pink.name, 粉红色彩绘木板, 0
+  aether:skyroot_planks, tile.aether.skyroot_planks.name, 天根木板, 0
   bewitchment:cypress_planks, tile.bewitchment.cypress_planks.name, 柏树木板, 0
   rustic:painted_wood_magenta, tile.rustic.painted_wood_magenta.name, 品红色彩绘木板, 0
 plateAbyssalnite
@@ -5525,6 +5533,7 @@ slabWood
   minecraft:wooden_slab, tile.woodSlab.oak.name, 橡木台阶, 32767
   thebetweenlands:weedwood_plank_slab, tile.thebetweenlands.weedwood_plank_slab.name, 杂草木板台阶, 0
   thaumcraft:slab_greatwood, tile.slab_greatwood.name, 宏伟之木台阶, 0
+  aether:greatroot_slab, tile.aether.greatroot_slab.name, 天硕木台阶, 0
   betternether:reeds_slab_half, tile.reeds_slab_half.name, 芦苇台阶, 0
   thebetweenlands:rubber_tree_plank_slab, tile.thebetweenlands.rubber_tree_plank_slab.name, 橡胶木板台阶, 0
   thebetweenlands:giant_root_plank_slab, tile.thebetweenlands.giant_root_plank_slab.name, 巨型树根台阶, 0
@@ -5536,6 +5545,9 @@ slabWood
   betternether:stalagnate_planks_slab_half, tile.stalagnate_planks_slab_half.name, 石笋台阶, 0
   roots:wildwood_slab, tile.wildwood_slab.name, 野木台阶, 0
   rustic:olive_slab_item, tile.rustic.olive_slab.name, 橄榄木台阶, 0
+  aether:skyroot_slab, tile.aether.skyroot_slab.name, 天根木台阶, 0
+  aether:wisproot_slab, tile.aether.wisproot_slab.name, 天纤木台阶, 0
+  aether:therawood_slab, tile.aether.therawood_slab.name, 坻星木台阶, 0
   thaumcraft:slab_silverwood, tile.slab_silverwood.name, 银树台阶, 0
   bewitchment:cypress_wood_slab, tile.bewitchment.cypress_wood_slab.name, 柏木台阶, 0
   mysticalworld:charred_slab, tile.charred_slab.name, 烧焦的台阶, 0
@@ -5922,4 +5934,4 @@ woolYellow
 workbench
   minecraft:crafting_table, tile.workbench.name, 工作台, 0
   thebetweenlands:weedwood_workbench, tile.thebetweenlands.weedwood_workbench.name, 杂草木工作台, 0
-#output time is 17 ms.
+#output time is 13 ms.

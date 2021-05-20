@@ -26,15 +26,18 @@ copper, copper, 熔融铜
 creosote, creosote, 杂酚油
 crystal_water, crystal_water, 结晶之水
 dawnstone, dawnstone, 熔融黎明石
+diesel, diesel, 柴油
 dwarven_ale, dwarven_ale, 啤酒
 elderberry_juice, elderberry_juice, Elderberry Juice
 elderberry_wine, elderberry_wine, Elderberry Wine
 electrum, electrum, 熔融琥珀金
 ethanol, ethanol, 乙醇
+fluid_alchemy, fluid_alchemy, §3纯净炼金提纯液
 fluid_quicksilver, fluid_quicksilver, 水银
 flux_goo, flux_goo, 咒波黏浆
 fog, fog, 雾气
 gas_dwarf, gas_dwarf, 矮人燃气
+gasoline, gasoline, 汽油
 gin, gin, Gin
 gold, gold, 熔融金
 grapejuice, grapejuice, 葡萄汁
@@ -53,10 +56,14 @@ liquid_death, liquid_death, 死亡之水
 liquidantimatter, liquidantimatter, 液态反物质
 liquidcoralium, liquidcoralium, 液态珊瑚
 liquified_coralium, liquified_coralium, 熔融珊瑚
+lubricant, lubricant, 润滑油
+lunar_water, lunar_water, 月露
 mead, mead, 蜂蜜酒
 methanol, methanol, 甲醇
+napalm, napalm, 凝固汽油
 nickel, nickel, 熔融镍
 octine, octine, 熔融Octine
+oil, oil, 原油
 oil_dwarf, oil_dwarf, 矮人燃油
 oil_soul, oil_soul, 灵魂原油
 oliveoil, oliveoil, 橄榄油
@@ -92,4 +99,4 @@ wildberrywine, wildberrywine, 野莓酒
 wine, wine, 葡萄酒
 wood_tar, wood_tar, 木焦油
 wormwood_mixture, wormwood_mixture, Wormwood Mixture
-#output time is 8 ms.
+#output time is 6 ms.

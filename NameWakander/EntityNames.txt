@@ -301,8 +301,12 @@ thaumadditions:chester, entity.thaumadditions.chester.name, 箱子精
 thaumadditions:essentia_shot, entity.thaumadditions.essentia_shot.name, entity.thaumadditions.essentia_shot.name
 thaumadditions:blue_wolf, entity.thaumadditions.blue_wolf.name, 苍狼
 thaumadditions:mithminite_scythe, entity.thaumadditions.mithminite_scythe.name, entity.thaumadditions.mithminite_scythe.name
+immersivepetroleum:speedboat, entity.speedboat.name, 汽艇
 netherendingores:netherfish, entity.netherfish.name, Netherfish
 netherendingores:primedore, entity.primedOre.name, entity.primedOre.name
+nyx:cauldron_tracker, entity.nyx.cauldron_tracker.name, entity.nyx.cauldron_tracker.name
+nyx:falling_star, entity.nyx.falling_star.name, entity.nyx.falling_star.name
+nyx:falling_meteor, entity.nyx.falling_meteor.name, entity.nyx.falling_meteor.name
 soot:firecloud, entity.firecloud.name, entity.firecloud.name
 soot:snowpoff, entity.snowpoff.name, entity.snowpoff.name
 soot:muse, entity.muse.name, 沉思
@@ -663,4 +667,4 @@ immersiveengineering:revolvershotflare, entity.revolverShotFlare.name, entity.re
 immersiveengineering:explosive, entity.explosive.name, entity.explosive.name
 immersiveengineering:fluorescenttube, entity.fluorescentTube.name, entity.fluorescentTube.name
 minecraft:lightning_bolt, entity.null.name, entity.null.name
-#output time is 5 ms.
+#output time is 6 ms.

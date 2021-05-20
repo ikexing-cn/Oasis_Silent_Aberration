@@ -1716,58 +1716,58 @@ thaumadditions:vis_pod, item.thaumadditions:vis_pod.name, Ventus 魔力豆荚, 0
 thaumadditions:vis_pod, item.thaumadditions:vis_pod.name, Visum 魔力豆荚, 0
 thaumadditions:vis_pod, item.thaumadditions:vis_pod.name, Imperium 魔力豆荚, 0
 thaumadditions:vis_pod, item.thaumadditions:vis_pod.name, Mythus 魔力豆荚, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Volatus 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Aer 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Ignis 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Motus 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Metallum 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Vitium 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Herba 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Sonus 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Visum 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Machina 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Vinculum 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Draco 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Spiritus 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Terra 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Caeles 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Humanus 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Ventus 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Exanimis 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Mortuus 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Victus 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Coralos 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Praemunio 魔力种子, 0
 thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Dreadia 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Instrumentum 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Gelum 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Potentia 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Diabolus 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Exitium 魔力种子, 0
 thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Imperium 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Fabrico 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Praemunio 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Alkimia 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Herba 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Cognitio 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Vitium 魔力种子, 0
 thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Vacuos 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Praecantatio 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Motus 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Mortuus 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Desiderium 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Coralos 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Sol 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Vinculum 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Exanimis 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Alienis 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Fabrico 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Terra 魔力种子, 0
 thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Bestia 魔力种子, 0
 thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Sensus 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Luna 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Tenebrae 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Perditio 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Sol 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Stellae 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Desiderium 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Alienis 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Ordo 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Cognitio 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Alkimia 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Aversio 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Vitreus 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Auram 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Infernum 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Lux 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Praecantatio 魔力种子, 0
 thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Aqua 魔力种子, 0
-thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Fluctus 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Visum 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Tenebrae 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Metallum 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Aversio 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Sonus 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Exitium 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Gelum 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Spiritus 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Machina 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Vitreus 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Ordo 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Potentia 魔力种子, 0
 thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Permutatio 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Auram 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Volatus 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Perditio 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Instrumentum 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Diabolus 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Infernum 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Humanus 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Ignis 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Caeles 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Luna 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Stellae 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Lux 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Ventus 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Aer 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Fluctus 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Draco 魔力种子, 0
+thaumadditions:vis_seeds, item.thaumadditions:vis_seeds.name, Victus 魔力种子, 0
 thaumadditions:void_seed, item.thaumadditions:void_seed.name, 虚空种子, 0
 thaumadditions:chester, item.thaumadditions:chester.name, 箱子精, 0
 thaumadditions:knowledge_tome, item.thaumadditions:knowledge_tome.name, 知识巨著, 0
@@ -1800,7 +1800,7 @@ thaumadditions:jar_eldritch, tile.thaumadditions:jar_eldritch.name, 邪术源质
 thaumadditions:jar_mithrillium, tile.thaumadditions:jar_mithrillium.name, 秘银源质罐子, 0
 thaumadditions:jar_adaminite, tile.thaumadditions:jar_adaminite.name, 精金源质罐子, 0
 thaumadditions:jar_mithminite, tile.thaumadditions:jar_mithminite.name, 秘金源质罐子, 0
-thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Mythus 水晶块, 0
+thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Cognitio 水晶块, 0
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Aer 水晶块, 0
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Terra 水晶块, 0
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Ignis 水晶块, 0
@@ -1830,7 +1830,6 @@ thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Fabrico �
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Machina 水晶块, 0
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Vinculum 水晶块, 0
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Spiritus 水晶块, 0
-thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Cognitio 水晶块, 0
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Sensus 水晶块, 0
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Aversio 水晶块, 0
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Praemunio 水晶块, 0
@@ -1853,6 +1852,7 @@ thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Infernum �
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Ventus 水晶块, 0
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Visum 水晶块, 0
 thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Imperium 水晶块, 0
+thaumadditions:crystal_block, tile.thaumadditions:crystal_block.name, Mythus 水晶块, 0
 thaumadditions:taintkin, tile.thaumadditions:taintkin.name, 腐化南瓜, 0
 thaumadditions:taintkin_lit, tile.thaumadditions:taintkin_lit.name, 腐化南瓜灯, 0
 thaumadditions:mithrillium_block, tile.thaumadditions:mithrillium_block.name, 秘银块, 0
@@ -2165,6 +2165,7 @@ forge:bucketfilled, item.forge.bucketFilled.name, 沼泽的水桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 死水桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 焦油桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 橡胶液桶, 0
+forge:bucketfilled, item.forge.bucketFilled.name, §3纯净炼金提纯液桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 灵魂原油桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 矮人燃油桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 熔融铁桶, 0
@@ -2180,6 +2181,11 @@ forge:bucketfilled, item.forge.bucketFilled.name, 熔融Bronze桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 熔融琥珀金桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 炼金红石浆液桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 结晶之水桶, 0
+forge:bucketfilled, item.forge.bucketFilled.name, 原油桶, 0
+forge:bucketfilled, item.forge.bucketFilled.name, 柴油桶, 0
+forge:bucketfilled, item.forge.bucketFilled.name, 润滑油桶, 0
+forge:bucketfilled, item.forge.bucketFilled.name, 汽油桶, 0
+forge:bucketfilled, item.forge.bucketFilled.name, 凝固汽油桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 液态粘土桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 木焦油桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 煤焦油桶, 0
@@ -2200,6 +2206,7 @@ forge:bucketfilled, item.forge.bucketFilled.name, 净化之水桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 生命源质桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 液态泥土桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 精炼生命精华桶, 0
+forge:bucketfilled, item.forge.bucketFilled.name, 月露桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 水银桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 熔融深渊桶, 0
 forge:bucketfilled, item.forge.bucketFilled.name, 熔融Arkenium桶, 0
@@ -2485,167 +2492,6 @@ thaumcraft:seal, item.seal.stock.name, 操控印记：仓储, 15
 thaumcraft:seal, item.seal.breaker_advanced.name, 操控印记：高级方块采掘, 16
 thaumcraft:seal, item.seal.attack.name, 操控印记：治安, 17
 thaumcraft:seal, item.seal.attack_advanced.name, 高级操控印记：治安, 18
-aether:skyroot_door_item, item.aether.skyroot_door_item.name, 天根木门, 0
-aether:arkenium_door_item, item.aether.arkenium_door_item.name, 阿肯钢门, 0
-aether:skyroot_sign, item.aether.skyroot_sign.name, 天根告示牌, 0
-aether:secret_skyroot_door_item, item.aether.secret_skyroot_door_item.name, 伪装天根木门, 0
-aether:skyroot_bed_item, item.aether.skyroot_bed_item.name, 天根床, 0
-aether:skyroot_stick, item.aether.skyroot_stick.name, 天根木棍, 0
-aether:valkyrie_wings, item.aether.valkyrie_wings.name, 武神草穗, 0
-aether:brettl_cane, item.aether.brettl_cane.name, 布雷特蔗, 0
-aether:brettl_grass, item.aether.brettl_grass.name, 布雷特干草, 0
-aether:brettl_rope, item.aether.brettl_rope.name, Brettl Rope, 0
-aether:skyroot_pinecone, item.aether.skyroot_pinecone.name, Skyroot Pinecone, 0
-aether:golden_amber, item.aether.golden_amber.name, 金琥珀, 0
-aether:cloudtwine, item.aether.cloudtwine.name, 卷云绳, 0
-aether:moa_feather, item.aether.moa_feather.name, 恐鸟羽毛, 0
-aether:taegore_hide, item.aether.taegore_hide.name, 探戈毛皮, 0
-aether:burrukai_pelt, item.aether.burrukai_pelt.name, 布鲁牛皮, 0
-aether:swet_gel, item.aether.swet_gel.blue.name, 天蓝史维特凝胶, 0
-aether:swet_gel, item.aether.swet_gel.green.name, 鲜绿史维特凝胶, 1
-aether:swet_gel, item.aether.swet_gel.purple.name, 幻紫史维特凝胶, 2
-aether:swet_sugar, item.aether.swet_sugar.name, 史维特糖, 0
-aether:aechor_petal, item.aether.aechor_petal.name, 箭毒花瓣, 0
-aether:cockatrice_feather, item.aether.cockatrice_feather.name, 鸡蛇翎羽, 0
-aether:crude_scatterglass_shard, item.aether.crude_scatterglass_shard.name, Scatterglass Shard, 0
-aether:ambrosium_shard, item.aether.ambrosium_shard.name, 神能晶片, 0
-aether:ambrosium_chunk, item.aether.ambrosium_chunk.name, 神能晶块, 0
-aether:icestone, item.aether.icestone.name, 冰石, 0
-aether:zanite_gemstone, item.aether.zanite_gemstone.name, 紫晶石, 0
-aether:arkenium, item.aether.arkenium.name, 阿肯钢材, 0
-aether:arkenium_strip, item.aether.arkenium_strip.name, 阿肯钢条, 0
-aether:gravitite_plate, item.aether.gravitite_plate.name, 重力晶板, 0
-aether:scatterglass_vial, item.aether.scatterglass_vial.name, Scatterglass Vial, 0
-aether:irradiated_dust, item.aether.irradiated_dust.name, 辐化粉尘, 0
-aether:irradiated_chunk, item.aether.irradiated_chunk.name, 辐化原料, 0
-aether:irradiated_tool, item.aether.irradiated_tool.name, 辐化工具, 0
-aether:irradiated_sword, item.aether.irradiated_sword.name, 辐化宝剑, 0
-aether:irradiated_armor, item.aether.irradiated_armor.name, 辐化装甲, 0
-aether:irradiated_ring, item.aether.irradiated_ring.name, 辐化戒指, 0
-aether:irradiated_neckwear, item.aether.irradiated_neckwear.name, 辐化项链, 0
-aether:irradiated_charm, item.aether.irradiated_charm.name, 辐化符文, 0
-aether:blueberries, item.aether.blueberries.name, 蓝莓, 0
-aether:enchanted_blueberry, item.aether.enchanted_blueberry.name, 神饯蓝莓, 0
-aether:orange, item.aether.orange.name, 橙子, 0
-aether:wyndberry, item.aether.wyndberry.name, 风莓, 0
-aether:enchanted_wyndberry, item.aether.enchanted_wyndberry.name, 神饯风莓, 0
-aether:plumproot_mash, item.aether.plumproot_mash.name, 腴根羹, 0
-aether:plumproot_pie, item.aether.plumproot_pie.name, 腴根派, 0
-aether:fried_moa_egg, item.aether.fried_moa_egg.name, 煎恐鸟蛋, 0
-aether:skyroot_lizard_stick, item.aether.skyroot_lizard_stick.name, 生天根树蜥串, 0
-aether:skyroot_lizard_stick_roasted, item.aether.skyroot_lizard_stick_roasted.name, 烤天根树蜥串, 0
-aether:kirrid_loin, item.aether.kirrid_loin.name, 科里后腰, 0
-aether:kirrid_cutlet, item.aether.kirrid_cutlet.name, 科里羊排, 0
-aether:raw_taegore_meat, item.aether.raw_taegore_meat.name, 探戈猪腿, 0
-aether:taegore_steak, item.aether.taegore_steak.name, 探戈猪排, 0
-aether:burrukai_rib_cut, item.aether.burrukai_rib_cut.name, 布鲁牛肋, 0
-aether:burrukai_ribs, item.aether.burrukai_ribs.name, 布鲁烤肋, 0
-aether:swet_jelly, item.aether.swet_jelly.blue.name, 天蓝史维特果冻, 0
-aether:swet_jelly, item.aether.swet_jelly.green.name, 鲜绿史维特果冻, 1
-aether:swet_jelly, item.aether.swet_jelly.purple.name, 幻紫史维特果冻, 2
-aether:blueberry_lollipop, item.aether.blueberry_lollipop.name, 蓝莓棒棒糖, 0
-aether:orange_lollipop, item.aether.orange_lollipop.name, 橙子棒棒糖, 0
-aether:candy_corn, item.aether.candy_corn.name, 玉米糖, 0
-aether:wrapped_chocolates, item.aether.wrapped_chocolates.name, 精装巧克力, 0
-aether:jelly_plumproot, item.aether.jelly_plumproot.name, 腴根软糖, 0
-aether:cocoatrice, item.aether.cocoatrice.name, 可可鸡蛇, 0
-aether:candy_cane, item.aether.candy_cane.name, 拐杖糖, 0
-aether:ginger_bread_man, item.aether.ginger_bread_man.name, 姜饼人, 0
-aether:icestone_poprocks, item.aether.icestone_poprocks.name, 冰石跳跳糖, 0
-aether:eggnog, item.aether.eggnog.name, 蛋奶酒, 0
-aether:yule_log, item.aether.yule_log.name, 圣诞节原木蛋糕, 0
-aether:stomper_pop, item.aether.stomper_pop.name, 粉红史维特棒棒糖, 0
-aether:healing_stone_depleted, item.aether.healing_stone_depleted.name, 空治愈灵石, 0
-aether:healing_stone, item.aether.healing_stone.name, 治愈灵石, 0
-aether:bandage, item.aether.bandage.name, Bandage, 0
-aether:splint, item.aether.splint.name, Splint, 0
-aether:water_vial, item.aether.water_vial.name, Water Vial, 0
-aether:antitoxin_vial, item.aether.antitoxin_vial.name, Antidote Vial, 0
-aether:antivenom_vial, item.aether.antivenom_vial.name, Antivenom Vial, 0
-aether:valkyrie_tea, item.aether.valkyrie_tea.name, Valkyrie Tea, 0
-aether:shard_of_life, item.aether.shard_of_life.name, 生命补片, 0
-aether:skyroot_shovel, item.aether.skyroot_shovel.name, 天根木锹, 0
-aether:skyroot_pickaxe, item.aether.skyroot_pickaxe.name, 天根木镐, 0
-aether:skyroot_axe, item.aether.skyroot_axe.name, 天根木斧, 0
-aether:holystone_shovel, item.aether.holystone_shovel.name, 圣石锹, 0
-aether:holystone_pickaxe, item.aether.holystone_pickaxe.name, 圣石镐, 0
-aether:holystone_axe, item.aether.holystone_axe.name, 圣石斧, 0
-aether:zanite_shovel, item.aether.zanite_shovel.name, 紫晶锹, 0
-aether:zanite_pickaxe, item.aether.zanite_pickaxe.name, 紫晶镐, 0
-aether:zanite_axe, item.aether.zanite_axe.name, 紫晶斧, 0
-aether:arkenium_shovel, item.aether.arkenium_shovel.name, 阿肯钢锹, 0
-aether:arkenium_pickaxe, item.aether.arkenium_pickaxe.name, 阿肯钢镐, 0
-aether:arkenium_axe, item.aether.arkenium_axe.name, 阿肯钢斧, 0
-aether:gravitite_shovel, item.aether.gravitite_shovel.name, 重力晶锹, 0
-aether:gravitite_pickaxe, item.aether.gravitite_pickaxe.name, 重力晶镐, 0
-aether:gravitite_axe, item.aether.gravitite_axe.name, 重力晶斧, 0
-aether:arkenium_shears, item.aether.arkenium_shears.name, 阿肯钢剪刀, 0
-aether:dart_shooter, item.aether.dart_shooter.golden.name, 金琥珀吹箭筒, 0
-aether:dart_shooter, item.aether.dart_shooter.enchanted.name, 神能吹箭筒, 1
-aether:dart_shooter, item.aether.dart_shooter.poison.name, 剧毒吹箭筒, 2
-aether:dart, item.aether.dart.golden.name, 金琥珀镖箭, 0
-aether:dart, item.aether.dart.enchanted.name, 神能镖箭, 1
-aether:dart, item.aether.dart.poison.name, 剧毒镖箭, 2
-aether:skyroot_sword, item.aether.skyroot_sword.name, 天根木剑, 0
-aether:holystone_sword, item.aether.holystone_sword.name, 圣石剑, 0
-aether:zanite_sword, item.aether.zanite_sword.name, 紫晶剑, 0
-aether:arkenium_sword, item.aether.arkenium_sword.name, 阿肯钢剑, 0
-aether:gravitite_sword, item.aether.gravitite_sword.name, 重力晶剑, 0
-aether:bolt, item.aether.bolt.name, Scatterglass Bolt, 0
-aether:skyroot_crossbow, item.aether.skyroot_crossbow.name, 天根木弩, 0
-aether:holystone_crossbow, item.aether.holystone_crossbow.name, 圣石重弩, 0
-aether:zanite_crossbow, item.aether.zanite_crossbow.name, 紫晶劲弩, 0
-aether:arkenium_crossbow, item.aether.arkenium_crossbow.name, 阿肯钢弩, 0
-aether:gravitite_crossbow, item.aether.gravitite_crossbow.name, 重力晶弩, 0
-aether:taegore_hide_helmet, item.aether.taegore_hide_helmet.name, 探戈皮帽, 0
-aether:taegore_hide_chestplate, item.aether.taegore_hide_chestplate.name, 探戈皮袄, 0
-aether:taegore_hide_leggings, item.aether.taegore_hide_leggings.name, 探戈皮裤, 0
-aether:taegore_hide_boots, item.aether.taegore_hide_boots.name, 探戈皮靴, 0
-aether:taegore_hide_gloves, item.aether.taegore_hide_gloves.name, 探戈皮手套, 0
-aether:skyroot_shield, item.aether.skyroot_shield.name, 天根木盾, 0
-aether:burrukai_pelt_helmet, item.aether.burrukai_pelt_helmet.name, Burrukai Pelt Hood, 0
-aether:burrukai_pelt_chestplate, item.aether.burrukai_pelt_chestplate.name, Burrukai Pelt Jacket, 0
-aether:burrukai_pelt_leggings, item.aether.burrukai_pelt_leggings.name, Burrukai Pelt Leggings, 0
-aether:burrukai_pelt_boots, item.aether.burrukai_pelt_boots.name, Burrukai Pelt Boots, 0
-aether:burrukai_pelt_gloves, item.aether.burrukai_pelt_gloves.name, Burrukai Pelt Gloves, 0
-aether:holystone_shield, item.aether.holystone_shield.name, 圣石重盾, 0
-aether:zanite_helmet, item.aether.zanite_helmet.name, 紫晶头盔, 0
-aether:zanite_chestplate, item.aether.zanite_chestplate.name, 紫晶胸甲, 0
-aether:zanite_leggings, item.aether.zanite_leggings.name, 紫晶护腿, 0
-aether:zanite_boots, item.aether.zanite_boots.name, 紫晶战靴, 0
-aether:zanite_gloves, item.aether.zanite_gloves.name, 紫晶护手, 0
-aether:zanite_shield, item.aether.zanite_shield.name, 紫晶战盾, 0
-aether:arkenium_helmet, item.aether.arkenium_helmet.name, 阿肯钢盔, 0
-aether:arkenium_chestplate, item.aether.arkenium_chestplate.name, 阿肯钢胸甲, 0
-aether:arkenium_leggings, item.aether.arkenium_leggings.name, 阿肯钢护腿, 0
-aether:arkenium_boots, item.aether.arkenium_boots.name, 阿肯钢靴, 0
-aether:arkenium_gloves, item.aether.arkenium_gloves.name, 阿肯钢手套, 0
-aether:arkenium_shield, item.aether.arkenium_shield.name, 阿肯钢盾, 0
-aether:gravitite_helmet, item.aether.gravitite_helmet.name, 重力晶盔, 0
-aether:gravitite_chestplate, item.aether.gravitite_chestplate.name, 重力晶胸甲, 0
-aether:gravitite_leggings, item.aether.gravitite_leggings.name, 重力晶护腿, 0
-aether:gravitite_boots, item.aether.gravitite_boots.name, 重力晶靴, 0
-aether:gravitite_gloves, item.aether.gravitite_gloves.name, 重力晶拳甲, 0
-aether:gravitite_shield, item.aether.gravitite_shield.name, 重力晶盾, 0
-aether:rainbow_moa_egg, item.aether.rainbow_moa_egg.name, 彩虹恐鸟蛋, 0
-aether:aether_saddle, item.aether.aether_saddle.name, 恐鸟鞍鞯, 0
-aether:moa_feed, item.aether.moa_feed.name, Moa Feed, 0
-aether:moa_feed_blueberries, item.aether.moa_feed_blueberries.name, Blueberry Moa Feed, 0
-aether:moa_feed_enchanted_blueberries, item.aether.moa_feed_enchanted_blueberries.name, Enchanted Moa Feed, 0
-aether:cloud_parachute, item.aether.cold_cloud_parachute.name, 寒风云落伞, 0
-aether:cloud_parachute, item.aether.purple_cloud_parachute.name, 幻紫云落伞, 1
-aether:cloud_parachute, item.aether.blue_cloud_parachute.name, 天蓝云落伞, 2
-aether:skyroot_bucket, item.aether.skyroot_bucket.name, 天根木桶, 0
-aether:skyroot_water_bucket, item.aether.skyroot_water_bucket.name, 天根水桶, 0
-aether:skyroot_milk_bucket, item.aether.skyroot_milk_bucket.name, 天根牛奶桶, 0
-aether:skyroot_poison_bucket, item.aether.skyroot_poison_bucket.name, 天根毒液桶, 0
-aether:aerwhale_music_disc, item.aether.aerwhale_music_disc.name, 云鲸唱片, 0
-aether:moa_music_disc, item.aether.moa_music_disc.name, 恐鸟唱片, 0
-aether:labyrinth_music_disc, item.aether.labyrinth_music_disc.name, 迷宫唱片, 0
-aether:valkyrie_music_disc, item.aether.valkyrie_music_disc.name, 武神唱片, 0
-aether:recording_892, item.aether.recording_892.name, 录音#892, 0
-aether:winter_hat, item.aether.winter_hat.name, 圣诞帽, 0
-aether:wrapping_paper, item.aether.wrapping_paper.name, 包装纸, 0
 aether:aether_grass, tile.aether.aether_grass.normal.name, 空叶草方块, 0
 aether:aether_grass, tile.aether.aether_grass.enchanted.name, 神沃空叶草方块, 1
 aether:aether_grass, tile.aether.aether_grass.arctic.name, 极寒草方块, 2
@@ -2867,6 +2713,167 @@ aether:therastone_brick_stairs, tile.aether.therastone_brick_stairs.name, 坻星
 aether:therastone_brick_slab, tile.aether.therastone_brick_slab.name, 坻星石砖台阶, 0
 aether:therastone_brick_wall, tile.aether.therastone_brick_wall.name, 坻星石砖墙, 0
 aether:present, tile.aether.present.name, 礼物, 0
+aether:skyroot_door_item, item.aether.skyroot_door_item.name, 天根木门, 0
+aether:arkenium_door_item, item.aether.arkenium_door_item.name, 阿肯钢门, 0
+aether:skyroot_sign, item.aether.skyroot_sign.name, 天根告示牌, 0
+aether:secret_skyroot_door_item, item.aether.secret_skyroot_door_item.name, 伪装天根木门, 0
+aether:skyroot_bed_item, item.aether.skyroot_bed_item.name, 天根床, 0
+aether:skyroot_stick, item.aether.skyroot_stick.name, 天根木棍, 0
+aether:valkyrie_wings, item.aether.valkyrie_wings.name, 武神草穗, 0
+aether:brettl_cane, item.aether.brettl_cane.name, 布雷特蔗, 0
+aether:brettl_grass, item.aether.brettl_grass.name, 布雷特干草, 0
+aether:brettl_rope, item.aether.brettl_rope.name, Brettl Rope, 0
+aether:skyroot_pinecone, item.aether.skyroot_pinecone.name, Skyroot Pinecone, 0
+aether:golden_amber, item.aether.golden_amber.name, 金琥珀, 0
+aether:cloudtwine, item.aether.cloudtwine.name, 卷云绳, 0
+aether:moa_feather, item.aether.moa_feather.name, 恐鸟羽毛, 0
+aether:taegore_hide, item.aether.taegore_hide.name, 探戈毛皮, 0
+aether:burrukai_pelt, item.aether.burrukai_pelt.name, 布鲁牛皮, 0
+aether:swet_gel, item.aether.swet_gel.blue.name, 天蓝史维特凝胶, 0
+aether:swet_gel, item.aether.swet_gel.green.name, 鲜绿史维特凝胶, 1
+aether:swet_gel, item.aether.swet_gel.purple.name, 幻紫史维特凝胶, 2
+aether:swet_sugar, item.aether.swet_sugar.name, 史维特糖, 0
+aether:aechor_petal, item.aether.aechor_petal.name, 箭毒花瓣, 0
+aether:cockatrice_feather, item.aether.cockatrice_feather.name, 鸡蛇翎羽, 0
+aether:crude_scatterglass_shard, item.aether.crude_scatterglass_shard.name, Scatterglass Shard, 0
+aether:ambrosium_shard, item.aether.ambrosium_shard.name, 神能晶片, 0
+aether:ambrosium_chunk, item.aether.ambrosium_chunk.name, 神能晶块, 0
+aether:icestone, item.aether.icestone.name, 冰石, 0
+aether:zanite_gemstone, item.aether.zanite_gemstone.name, 紫晶石, 0
+aether:arkenium, item.aether.arkenium.name, 阿肯钢材, 0
+aether:arkenium_strip, item.aether.arkenium_strip.name, 阿肯钢条, 0
+aether:gravitite_plate, item.aether.gravitite_plate.name, 重力晶板, 0
+aether:scatterglass_vial, item.aether.scatterglass_vial.name, Scatterglass Vial, 0
+aether:irradiated_dust, item.aether.irradiated_dust.name, 辐化粉尘, 0
+aether:irradiated_chunk, item.aether.irradiated_chunk.name, 辐化原料, 0
+aether:irradiated_tool, item.aether.irradiated_tool.name, 辐化工具, 0
+aether:irradiated_sword, item.aether.irradiated_sword.name, 辐化宝剑, 0
+aether:irradiated_armor, item.aether.irradiated_armor.name, 辐化装甲, 0
+aether:irradiated_ring, item.aether.irradiated_ring.name, 辐化戒指, 0
+aether:irradiated_neckwear, item.aether.irradiated_neckwear.name, 辐化项链, 0
+aether:irradiated_charm, item.aether.irradiated_charm.name, 辐化符文, 0
+aether:blueberries, item.aether.blueberries.name, 蓝莓, 0
+aether:enchanted_blueberry, item.aether.enchanted_blueberry.name, 神饯蓝莓, 0
+aether:orange, item.aether.orange.name, 橙子, 0
+aether:wyndberry, item.aether.wyndberry.name, 风莓, 0
+aether:enchanted_wyndberry, item.aether.enchanted_wyndberry.name, 神饯风莓, 0
+aether:plumproot_mash, item.aether.plumproot_mash.name, 腴根羹, 0
+aether:plumproot_pie, item.aether.plumproot_pie.name, 腴根派, 0
+aether:fried_moa_egg, item.aether.fried_moa_egg.name, 煎恐鸟蛋, 0
+aether:skyroot_lizard_stick, item.aether.skyroot_lizard_stick.name, 生天根树蜥串, 0
+aether:skyroot_lizard_stick_roasted, item.aether.skyroot_lizard_stick_roasted.name, 烤天根树蜥串, 0
+aether:kirrid_loin, item.aether.kirrid_loin.name, 科里后腰, 0
+aether:kirrid_cutlet, item.aether.kirrid_cutlet.name, 科里羊排, 0
+aether:raw_taegore_meat, item.aether.raw_taegore_meat.name, 探戈猪腿, 0
+aether:taegore_steak, item.aether.taegore_steak.name, 探戈猪排, 0
+aether:burrukai_rib_cut, item.aether.burrukai_rib_cut.name, 布鲁牛肋, 0
+aether:burrukai_ribs, item.aether.burrukai_ribs.name, 布鲁烤肋, 0
+aether:swet_jelly, item.aether.swet_jelly.blue.name, 天蓝史维特果冻, 0
+aether:swet_jelly, item.aether.swet_jelly.green.name, 鲜绿史维特果冻, 1
+aether:swet_jelly, item.aether.swet_jelly.purple.name, 幻紫史维特果冻, 2
+aether:blueberry_lollipop, item.aether.blueberry_lollipop.name, 蓝莓棒棒糖, 0
+aether:orange_lollipop, item.aether.orange_lollipop.name, 橙子棒棒糖, 0
+aether:candy_corn, item.aether.candy_corn.name, 玉米糖, 0
+aether:wrapped_chocolates, item.aether.wrapped_chocolates.name, 精装巧克力, 0
+aether:jelly_plumproot, item.aether.jelly_plumproot.name, 腴根软糖, 0
+aether:cocoatrice, item.aether.cocoatrice.name, 可可鸡蛇, 0
+aether:candy_cane, item.aether.candy_cane.name, 拐杖糖, 0
+aether:ginger_bread_man, item.aether.ginger_bread_man.name, 姜饼人, 0
+aether:icestone_poprocks, item.aether.icestone_poprocks.name, 冰石跳跳糖, 0
+aether:eggnog, item.aether.eggnog.name, 蛋奶酒, 0
+aether:yule_log, item.aether.yule_log.name, 圣诞节原木蛋糕, 0
+aether:stomper_pop, item.aether.stomper_pop.name, 粉红史维特棒棒糖, 0
+aether:healing_stone_depleted, item.aether.healing_stone_depleted.name, 空治愈灵石, 0
+aether:healing_stone, item.aether.healing_stone.name, 治愈灵石, 0
+aether:bandage, item.aether.bandage.name, Bandage, 0
+aether:splint, item.aether.splint.name, Splint, 0
+aether:water_vial, item.aether.water_vial.name, Water Vial, 0
+aether:antitoxin_vial, item.aether.antitoxin_vial.name, Antidote Vial, 0
+aether:antivenom_vial, item.aether.antivenom_vial.name, Antivenom Vial, 0
+aether:valkyrie_tea, item.aether.valkyrie_tea.name, Valkyrie Tea, 0
+aether:shard_of_life, item.aether.shard_of_life.name, 生命补片, 0
+aether:skyroot_shovel, item.aether.skyroot_shovel.name, 天根木锹, 0
+aether:skyroot_pickaxe, item.aether.skyroot_pickaxe.name, 天根木镐, 0
+aether:skyroot_axe, item.aether.skyroot_axe.name, 天根木斧, 0
+aether:holystone_shovel, item.aether.holystone_shovel.name, 圣石锹, 0
+aether:holystone_pickaxe, item.aether.holystone_pickaxe.name, 圣石镐, 0
+aether:holystone_axe, item.aether.holystone_axe.name, 圣石斧, 0
+aether:zanite_shovel, item.aether.zanite_shovel.name, 紫晶锹, 0
+aether:zanite_pickaxe, item.aether.zanite_pickaxe.name, 紫晶镐, 0
+aether:zanite_axe, item.aether.zanite_axe.name, 紫晶斧, 0
+aether:arkenium_shovel, item.aether.arkenium_shovel.name, 阿肯钢锹, 0
+aether:arkenium_pickaxe, item.aether.arkenium_pickaxe.name, 阿肯钢镐, 0
+aether:arkenium_axe, item.aether.arkenium_axe.name, 阿肯钢斧, 0
+aether:gravitite_shovel, item.aether.gravitite_shovel.name, 重力晶锹, 0
+aether:gravitite_pickaxe, item.aether.gravitite_pickaxe.name, 重力晶镐, 0
+aether:gravitite_axe, item.aether.gravitite_axe.name, 重力晶斧, 0
+aether:arkenium_shears, item.aether.arkenium_shears.name, 阿肯钢剪刀, 0
+aether:dart_shooter, item.aether.dart_shooter.golden.name, 金琥珀吹箭筒, 0
+aether:dart_shooter, item.aether.dart_shooter.enchanted.name, 神能吹箭筒, 1
+aether:dart_shooter, item.aether.dart_shooter.poison.name, 剧毒吹箭筒, 2
+aether:dart, item.aether.dart.golden.name, 金琥珀镖箭, 0
+aether:dart, item.aether.dart.enchanted.name, 神能镖箭, 1
+aether:dart, item.aether.dart.poison.name, 剧毒镖箭, 2
+aether:skyroot_sword, item.aether.skyroot_sword.name, 天根木剑, 0
+aether:holystone_sword, item.aether.holystone_sword.name, 圣石剑, 0
+aether:zanite_sword, item.aether.zanite_sword.name, 紫晶剑, 0
+aether:arkenium_sword, item.aether.arkenium_sword.name, 阿肯钢剑, 0
+aether:gravitite_sword, item.aether.gravitite_sword.name, 重力晶剑, 0
+aether:bolt, item.aether.bolt.name, Scatterglass Bolt, 0
+aether:skyroot_crossbow, item.aether.skyroot_crossbow.name, 天根木弩, 0
+aether:holystone_crossbow, item.aether.holystone_crossbow.name, 圣石重弩, 0
+aether:zanite_crossbow, item.aether.zanite_crossbow.name, 紫晶劲弩, 0
+aether:arkenium_crossbow, item.aether.arkenium_crossbow.name, 阿肯钢弩, 0
+aether:gravitite_crossbow, item.aether.gravitite_crossbow.name, 重力晶弩, 0
+aether:taegore_hide_helmet, item.aether.taegore_hide_helmet.name, 探戈皮帽, 0
+aether:taegore_hide_chestplate, item.aether.taegore_hide_chestplate.name, 探戈皮袄, 0
+aether:taegore_hide_leggings, item.aether.taegore_hide_leggings.name, 探戈皮裤, 0
+aether:taegore_hide_boots, item.aether.taegore_hide_boots.name, 探戈皮靴, 0
+aether:taegore_hide_gloves, item.aether.taegore_hide_gloves.name, 探戈皮手套, 0
+aether:skyroot_shield, item.aether.skyroot_shield.name, 天根木盾, 0
+aether:burrukai_pelt_helmet, item.aether.burrukai_pelt_helmet.name, Burrukai Pelt Hood, 0
+aether:burrukai_pelt_chestplate, item.aether.burrukai_pelt_chestplate.name, Burrukai Pelt Jacket, 0
+aether:burrukai_pelt_leggings, item.aether.burrukai_pelt_leggings.name, Burrukai Pelt Leggings, 0
+aether:burrukai_pelt_boots, item.aether.burrukai_pelt_boots.name, Burrukai Pelt Boots, 0
+aether:burrukai_pelt_gloves, item.aether.burrukai_pelt_gloves.name, Burrukai Pelt Gloves, 0
+aether:holystone_shield, item.aether.holystone_shield.name, 圣石重盾, 0
+aether:zanite_helmet, item.aether.zanite_helmet.name, 紫晶头盔, 0
+aether:zanite_chestplate, item.aether.zanite_chestplate.name, 紫晶胸甲, 0
+aether:zanite_leggings, item.aether.zanite_leggings.name, 紫晶护腿, 0
+aether:zanite_boots, item.aether.zanite_boots.name, 紫晶战靴, 0
+aether:zanite_gloves, item.aether.zanite_gloves.name, 紫晶护手, 0
+aether:zanite_shield, item.aether.zanite_shield.name, 紫晶战盾, 0
+aether:arkenium_helmet, item.aether.arkenium_helmet.name, 阿肯钢盔, 0
+aether:arkenium_chestplate, item.aether.arkenium_chestplate.name, 阿肯钢胸甲, 0
+aether:arkenium_leggings, item.aether.arkenium_leggings.name, 阿肯钢护腿, 0
+aether:arkenium_boots, item.aether.arkenium_boots.name, 阿肯钢靴, 0
+aether:arkenium_gloves, item.aether.arkenium_gloves.name, 阿肯钢手套, 0
+aether:arkenium_shield, item.aether.arkenium_shield.name, 阿肯钢盾, 0
+aether:gravitite_helmet, item.aether.gravitite_helmet.name, 重力晶盔, 0
+aether:gravitite_chestplate, item.aether.gravitite_chestplate.name, 重力晶胸甲, 0
+aether:gravitite_leggings, item.aether.gravitite_leggings.name, 重力晶护腿, 0
+aether:gravitite_boots, item.aether.gravitite_boots.name, 重力晶靴, 0
+aether:gravitite_gloves, item.aether.gravitite_gloves.name, 重力晶拳甲, 0
+aether:gravitite_shield, item.aether.gravitite_shield.name, 重力晶盾, 0
+aether:rainbow_moa_egg, item.aether.rainbow_moa_egg.name, 彩虹恐鸟蛋, 0
+aether:aether_saddle, item.aether.aether_saddle.name, 恐鸟鞍鞯, 0
+aether:moa_feed, item.aether.moa_feed.name, Moa Feed, 0
+aether:moa_feed_blueberries, item.aether.moa_feed_blueberries.name, Blueberry Moa Feed, 0
+aether:moa_feed_enchanted_blueberries, item.aether.moa_feed_enchanted_blueberries.name, Enchanted Moa Feed, 0
+aether:cloud_parachute, item.aether.cold_cloud_parachute.name, 寒风云落伞, 0
+aether:cloud_parachute, item.aether.purple_cloud_parachute.name, 幻紫云落伞, 1
+aether:cloud_parachute, item.aether.blue_cloud_parachute.name, 天蓝云落伞, 2
+aether:skyroot_bucket, item.aether.skyroot_bucket.name, 天根木桶, 0
+aether:skyroot_water_bucket, item.aether.skyroot_water_bucket.name, 天根水桶, 0
+aether:skyroot_milk_bucket, item.aether.skyroot_milk_bucket.name, 天根牛奶桶, 0
+aether:skyroot_poison_bucket, item.aether.skyroot_poison_bucket.name, 天根毒液桶, 0
+aether:aerwhale_music_disc, item.aether.aerwhale_music_disc.name, 云鲸唱片, 0
+aether:moa_music_disc, item.aether.moa_music_disc.name, 恐鸟唱片, 0
+aether:labyrinth_music_disc, item.aether.labyrinth_music_disc.name, 迷宫唱片, 0
+aether:valkyrie_music_disc, item.aether.valkyrie_music_disc.name, 武神唱片, 0
+aether:recording_892, item.aether.recording_892.name, 录音#892, 0
+aether:winter_hat, item.aether.winter_hat.name, 圣诞帽, 0
+aether:wrapping_paper, item.aether.wrapping_paper.name, 包装纸, 0
 bloodmagic:altar, tile.bloodmagic.altar.name, 血之祭坛, 0
 bloodmagic:blood_rune, tile.bloodmagic.rune.blank.name, 空白符文, 0
 bloodmagic:blood_rune, tile.bloodmagic.rune.speed.name, 速度符文, 1
@@ -3977,24 +3984,6 @@ compactstorage:backpack, item.backpack.name, 背包, 0
 compactstorage:barrel, tile.barrel.name, 木桶, 0
 compactstorage:barrel_fluid, tile.barrel_fluid.name, 鼓, 0
 crimsonwarfare:boss_activator, tile.boss_activator.name, Ancient Altar, 0
-grimoireofgaia:block_pearl, tile.grimoireofgaia.block_pearl.name, 珍珠块, 0
-grimoireofgaia:bust_gorgon, tile.grimoireofgaia.bust_gorgon.name, 戈耳工雕像, 0
-grimoireofgaia:bust_sphinx, tile.grimoireofgaia.bust_sphinx.name, 斯芬克斯雕像, 0
-grimoireofgaia:bust_valkyrie, tile.grimoireofgaia.bust_valkyrie.name, 女武神雕像, 0
-grimoireofgaia:bust_vampire, tile.grimoireofgaia.bust_vampire.name, 吸血鬼雕像, 0
-grimoireofgaia:doll_creeper_girl, tile.grimoireofgaia.doll_creeper_girl.name, 苦力怕娘玩偶, 0
-grimoireofgaia:doll_ender_girl, tile.grimoireofgaia.doll_ender_girl.name, 末影娘玩偶, 0
-grimoireofgaia:doll_slime_girl, tile.grimoireofgaia.doll_slime_girl.name, 史莱姆娘玩偶, 0
-grimoireofgaia:doll_maid, tile.grimoireofgaia.doll_maid.name, 女仆玩偶, 0
-grimoireofgaia:doll_dullahan, tile.grimoireofgaia.doll_dullahan.name, 无头骑士玩偶, 0
-grimoireofgaia:doll_mermaid, tile.grimoireofgaia.doll_mermaid.name, 美人鱼玩偶, 0
-grimoireofgaia:doll_nine_tails, tile.grimoireofgaia.doll_nine_tails.name, 九尾狐玩偶, 0
-grimoireofgaia:doll_dryad, tile.grimoireofgaia.doll_dryad.name, Dryad Doll, 0
-grimoireofgaia:deco_garden_gnome, tile.grimoireofgaia.deco_garden_gnome.name, 花园矮人, 0
-grimoireofgaia:deco_mandragora_pot, tile.grimoireofgaia.deco_mandragora_pot.name, 曼德拉盆栽, 0
-grimoireofgaia:deco_bust_minotaur, tile.grimoireofgaia.deco_bust_minotaur.name, 牛头人雕像, 0
-grimoireofgaia:deco_nest_harpy, tile.grimoireofgaia.deco_nest_harpy.name, 鹰身女妖巢, 0
-grimoireofgaia:spawn_guard, tile.grimoireofgaia.spawn_guard.name, 护身石版, 0
 grimoireofgaia:shard, item.grimoireofgaia.shard_0.name, 铁粒, 0
 grimoireofgaia:shard, item.grimoireofgaia.shard_1.name, 金粒, 1
 grimoireofgaia:shard, item.grimoireofgaia.shard_2.name, 钻石碎片, 2
@@ -4114,6 +4103,24 @@ grimoireofgaia:weapon_prop_dagger_metal, item.grimoireofgaia.weapon_prop_dagger_
 grimoireofgaia:weapon_prop_broom, item.grimoireofgaia.weapon_prop_broom.name, 扫帚, 0
 grimoireofgaia:weapon_prop_hammer_minotaur, item.grimoireofgaia.weapon_prop_hammer_minotaur.name, 牛头人之锤, 0
 grimoireofgaia:pickup_heart, item.grimoireofgaia.pickup_heart.name, 心, 0
+grimoireofgaia:block_pearl, tile.grimoireofgaia.block_pearl.name, 珍珠块, 0
+grimoireofgaia:bust_gorgon, tile.grimoireofgaia.bust_gorgon.name, 戈耳工雕像, 0
+grimoireofgaia:bust_sphinx, tile.grimoireofgaia.bust_sphinx.name, 斯芬克斯雕像, 0
+grimoireofgaia:bust_valkyrie, tile.grimoireofgaia.bust_valkyrie.name, 女武神雕像, 0
+grimoireofgaia:bust_vampire, tile.grimoireofgaia.bust_vampire.name, 吸血鬼雕像, 0
+grimoireofgaia:doll_creeper_girl, tile.grimoireofgaia.doll_creeper_girl.name, 苦力怕娘玩偶, 0
+grimoireofgaia:doll_ender_girl, tile.grimoireofgaia.doll_ender_girl.name, 末影娘玩偶, 0
+grimoireofgaia:doll_slime_girl, tile.grimoireofgaia.doll_slime_girl.name, 史莱姆娘玩偶, 0
+grimoireofgaia:doll_maid, tile.grimoireofgaia.doll_maid.name, 女仆玩偶, 0
+grimoireofgaia:doll_dullahan, tile.grimoireofgaia.doll_dullahan.name, 无头骑士玩偶, 0
+grimoireofgaia:doll_mermaid, tile.grimoireofgaia.doll_mermaid.name, 美人鱼玩偶, 0
+grimoireofgaia:doll_nine_tails, tile.grimoireofgaia.doll_nine_tails.name, 九尾狐玩偶, 0
+grimoireofgaia:doll_dryad, tile.grimoireofgaia.doll_dryad.name, Dryad Doll, 0
+grimoireofgaia:deco_garden_gnome, tile.grimoireofgaia.deco_garden_gnome.name, 花园矮人, 0
+grimoireofgaia:deco_mandragora_pot, tile.grimoireofgaia.deco_mandragora_pot.name, 曼德拉盆栽, 0
+grimoireofgaia:deco_bust_minotaur, tile.grimoireofgaia.deco_bust_minotaur.name, 牛头人雕像, 0
+grimoireofgaia:deco_nest_harpy, tile.grimoireofgaia.deco_nest_harpy.name, 鹰身女妖巢, 0
+grimoireofgaia:spawn_guard, tile.grimoireofgaia.spawn_guard.name, 护身石版, 0
 iceandfire:lectern, tile.iceandfire.lectern.name, 书桌, 0
 iceandfire:podium, tile.iceandfire.podium_oak.name, 橡木展台, 0
 iceandfire:podium, tile.iceandfire.podium_spruce.name, 云杉木展台, 1
@@ -4490,6 +4497,40 @@ iceandfire:troll_skull, item.iceandfire.troll_skull.name, 食人妖颅骨, 0
 iceandfire:amphithere_skull, item.iceandfire.amphithere_skull.name, 翼蚺颅骨, 0
 iceandfire:seaserpent_skull, item.iceandfire.seaserpent_skull.name, 海蟒颅骨, 0
 iceandfire:hydra_skull, item.iceandfire.hydra_skull.name, 九头蛇颅骨, 0
+immersivepetroleum:metal_device, tile.immersivepetroleum.metal_device.automatic_lubricator.name, 自动润滑器, 0
+immersivepetroleum:metal_device, tile.immersivepetroleum.metal_device.gas_generator.name, 便携式发电机, 1
+immersivepetroleum:stone_decoration, tile.immersivepetroleum.stone_decoration.asphalt.name, 沥青混凝土, 0
+immersivepetroleum:material, item.immersivepetroleum.material.bitumen.name, 沥青, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 焦炉, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 合金窑, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 高炉, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 强化高炉, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 金属冲压机, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 粉碎机, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 流体储罐, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 储物筒仓, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 装配机, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 自动化工程师装配台, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 灌装机, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 工业挤压机, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 工业发酵机, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 炼油厂, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 柴油发电机, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 电弧炉, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 避雷针, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 混合器, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 desc.immersiveengineering.info.multiblock.IE:Feedthrough, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 精馏塔, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 采油机, 0
+immersivepetroleum:schematic, item.immersivepetroleum.schematic.name, 多方块结构投影仪 挖掘机, 0
+immersivepetroleum:speedboat, item.immersivepetroleum.speedboat.name, 汽艇, 0
+immersivepetroleum:upgrades, item.immersivepetroleum.upgrades.reinforced_hull.name, 钢制船体, 0
+immersivepetroleum:upgrades, item.immersivepetroleum.upgrades.icebreaker.name, 破冰船首, 1
+immersivepetroleum:upgrades, item.immersivepetroleum.upgrades.tank.name, 扩展油箱, 2
+immersivepetroleum:upgrades, item.immersivepetroleum.upgrades.rudders.name, 机动船舵, 3
+immersivepetroleum:upgrades, item.immersivepetroleum.upgrades.paddles.name, 应急桨, 4
+immersivepetroleum:oil_can, item.immersivepetroleum.oil_can.name, 润滑油罐, 0
 ironchest:iron_chest, tile.ironchest.chest.iron.name, 铁箱子, 0
 ironchest:iron_chest, tile.ironchest.chest.gold.name, 金箱子, 1
 ironchest:iron_chest, tile.ironchest.chest.diamond.name, 钻石箱子, 2
@@ -4705,6 +4746,35 @@ netherendingores:ore_other_1, tile.netherendingores:ore_other_1.overworld_gravit
 netherendingores:ore_other_1, tile.netherendingores:ore_other_1.overworld_zanite_ore.name, Overworld Zanite Ore, 8
 netherendingores:ore_other_1, tile.netherendingores:ore_other_1.overworld_arkenium_ore.name, Overworld Arkenium Ore, 9
 netherendingores:ore_other_1, tile.netherendingores:ore_other_1.overworld_icestone_ore.name, Overworld Icestone Ore, 10
+nyx:meteor_bow, item.nyx.meteor_bow.name, Meteorite-Reinforced Bow, 0
+nyx:meteor_ingot, item.nyx.meteor_ingot.name, Meteor Ingot, 0
+nyx:meteor_sword, item.nyx.meteor_sword.name, Meteor Sword, 0
+nyx:lunar_water_bottle, item.nyx.lunar_water_bottle.name, 瓶装月露, 0
+nyx:meteor_finder, item.nyx.meteor_finder.name, Meteor Location Device, 0
+nyx:cracked_star_block, tile.nyx.cracked_star_block.name, 破裂流星块, 0
+nyx:meteor_axe, item.nyx.meteor_axe.name, Meteor Axe, 0
+nyx:meteor_pickaxe, item.nyx.meteor_pickaxe.name, Meteor Pickaxe, 0
+nyx:meteor_pants, item.nyx.meteor_pants.name, Meteor Leggings, 0
+nyx:meteor_chest, item.nyx.meteor_chest.name, Meteor Chestplate, 0
+nyx:chiseled_star_block, tile.nyx.chiseled_star_block.name, 錾制流星块, 0
+nyx:gleaning_meteor_rock, tile.nyx.gleaning_meteor_rock.name, Gleaning Meteor Cluster, 0
+nyx:meteor_glass, tile.nyx.meteor_glass.name, Meteoric Glass, 0
+nyx:meteor_boots, item.nyx.meteor_boots.name, Meteor Boots, 0
+nyx:fallen_star, item.nyx.fallen_star.name, 流星, 0
+nyx:meteor_helm, item.nyx.meteor_helm.name, Meteor Helmet, 0
+nyx:star_block, tile.nyx.star_block.name, 流星块, 0
+nyx:meteor_dust, item.nyx.meteor_dust.name, Meteor Dust, 0
+nyx:star_slab, tile.nyx.star_slab.name, 流星块台阶, 0
+nyx:crystal, tile.nyx.crystal.name, Gleaning Crystal, 0
+nyx:meteor_hoe, item.nyx.meteor_hoe.name, Meteor Hoe, 0
+nyx:meteor_rock, tile.nyx.meteor_rock.name, Meteoric Rock, 0
+nyx:meteor_shovel, item.nyx.meteor_shovel.name, Meteor Shovel, 0
+nyx:meteor_hammer, item.nyx.meteor_hammer.name, Meteor Hammer, 0
+nyx:star_stairs, tile.nyx.star_stairs.name, 流星块楼梯, 0
+nyx:meteor_shard, item.nyx.meteor_shard.name, Meteor Shard, 0
+nyx:scythe, item.nyx.scythe.name, Gleaning Scythe, 0
+nyx:unrefined_crystal, item.nyx.unrefined_crystal.name, Unrefined Gleaning Crystal, 0
+nyx:meteor_block, tile.nyx.meteor_block.name, Block of Meteor, 0
 pouchofunknown:pouch, item.pouchofunknown.pouch.name, 未知之袋, 0
 pyrotech:fluid.liquid_clay, tile.fluid.liquid_clay.name, 液态粘土, 0
 pyrotech:rock, tile.pyrotech.rock_stone.name, 石块, 0
@@ -5142,25 +5212,25 @@ thaumictinkerer:energetic_nitor, item.thaumictinkerer:energetic_nitor.name, 超�
 thaumictinkerer:spellbinding_cloth, item.thaumictinkerer:spellbinding_cloth.name, 祛魔之布, 0
 thaumictinkerer:blood_sword, item.thaumictinkerer:blood_sword.name, 咒灵之刃, 0
 thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name, item.thaumictinkerer:mob_aspect.name, 0
+thaumicwonders:dimensional_ripper, tile.thaumicwonders.dimensional_ripper.name, 维度撕裂器, 0
+thaumicwonders:void_beacon, tile.thaumicwonders.void_beacon.name, 虚空信标, 0
+thaumicwonders:hexamite, tile.thaumicwonders.hexamite.name, 乌洛托品（魔法版01型）, 0
+thaumicwonders:portal_anchor, tile.thaumicwonders.portal_anchor.name, 传送锚, 0
+thaumicwonders:ore_diviner, tile.thaumicwonders.ore_diviner.name, 矿石探测器, 0
+thaumicwonders:primordial_accelerator_terminus, tile.thaumicwonders.primordial_accelerator_terminus.name, 元始加速冲撞终端, 0
+thaumicwonders:flux_capacitor, tile.thaumicwonders.flux_capacitor.name, 咒波容器, 0
+thaumicwonders:everburning_urn, tile.thaumicwonders.everburning_urn.name, 永燃之瓮, 0
 thaumicwonders:portal_generator, tile.thaumicwonders.portal_generator.name, 传送门生成器, 0
-thaumicwonders:meaty_orb, tile.thaumicwonders.meaty_orb.name, 嗜肉之球, 0
 thaumicwonders:primordial_accelerator_tunnel, tile.thaumicwonders.primordial_accelerator_tunnel.name, 元始加速轨道, 0
 thaumicwonders:coalescence_matrix_precursor, tile.thaumicwonders.coalescence_matrix_precursor.name, 聚合矩阵, 0
-thaumicwonders:flux_distiller, tile.thaumicwonders.flux_distiller.name, 咒波蒸馏器, 0
-thaumicwonders:meteorb, tile.thaumicwonders.meteorb.name, 气象之球, 0
-thaumicwonders:inspiration_engine, tile.thaumicwonders.inspiration_engine.name, 灵感引擎, 0
-thaumicwonders:creative_essentia_jar, tile.thaumicwonders.creative_essentia_jar.name, 创造模式源质罐子, 0
-thaumicwonders:alkahest_vat, tile.thaumicwonders.alkahest_vat.name, 万能溶剂之锅, 0
-thaumicwonders:flux_capacitor, tile.thaumicwonders.flux_capacitor.name, 咒波容器, 0
-thaumicwonders:primordial_accelerator_terminus, tile.thaumicwonders.primordial_accelerator_terminus.name, 元始加速冲撞终端, 0
-thaumicwonders:dimensional_ripper, tile.thaumicwonders.dimensional_ripper.name, 维度撕裂器, 0
-thaumicwonders:portal_anchor, tile.thaumicwonders.portal_anchor.name, 传送锚, 0
-thaumicwonders:everburning_urn, tile.thaumicwonders.everburning_urn.name, 永燃之瓮, 0
-thaumicwonders:hexamite, tile.thaumicwonders.hexamite.name, 乌洛托品（魔法版01型）, 0
-thaumicwonders:ore_diviner, tile.thaumicwonders.ore_diviner.name, 矿石探测器, 0
-thaumicwonders:void_beacon, tile.thaumicwonders.void_beacon.name, 虚空信标, 0
 thaumicwonders:madness_engine, tile.thaumicwonders.madness_engine.name, 疯狂引擎, 0
+thaumicwonders:flux_distiller, tile.thaumicwonders.flux_distiller.name, 咒波蒸馏器, 0
 thaumicwonders:primordial_accelerator, tile.thaumicwonders.primordial_accelerator.name, 元始加速器, 0
+thaumicwonders:meteorb, tile.thaumicwonders.meteorb.name, 气象之球, 0
+thaumicwonders:alkahest_vat, tile.thaumicwonders.alkahest_vat.name, 万能溶剂之锅, 0
+thaumicwonders:creative_essentia_jar, tile.thaumicwonders.creative_essentia_jar.name, 创造模式源质罐子, 0
+thaumicwonders:meaty_orb, tile.thaumicwonders.meaty_orb.name, 嗜肉之球, 0
+thaumicwonders:inspiration_engine, tile.thaumicwonders.inspiration_engine.name, 灵感引擎, 0
 thaumicwonders:disjunction_cloth, item.thaumicwonders.disjunction_cloth.name, 驱魔之布, 0
 thaumicwonders:primal_destroyer, item.thaumicwonders.primal_destroyer.name, 元始毁灭者, 0
 thaumicwonders:flying_carpet, item.thaumicwonders.flying_carpet.name, 飞毯, 0
@@ -6759,8 +6829,14 @@ thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草�
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f沼泽的水§f桶, 0
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f死水§f桶, 0
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f焦油§f桶, 0
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f§3纯净炼金提纯液§f桶, 0
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f矮人燃油§f桶, 0
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f结晶之水§f桶, 0
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f原油§f桶, 0
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f柴油§f桶, 0
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f润滑油§f桶, 0
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f汽油§f桶, 0
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f凝固汽油§f桶, 0
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f液态粘土§f桶, 0
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f木焦油§f桶, 0
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f煤焦油§f桶, 0
@@ -6780,6 +6856,7 @@ thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草�
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§e液态泥土§f桶, 0
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§e液态反物质§f桶, 0
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f精炼生命精华§f桶, 0
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f月露§f桶, 0
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_weedwood.name, 杂草木§f水银§f桶, 0
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f液态珊瑚§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f液态反物质§f桶, 1
@@ -6800,6 +6877,7 @@ thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f沼泽的水§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f死水§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f焦油§f桶, 1
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f§3纯净炼金提纯液§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f灵魂原油§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f矮人燃油§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f熔融铁§f桶, 1
@@ -6815,6 +6893,11 @@ thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f熔融琥珀金§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f炼金红石浆液§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f结晶之水§f桶, 1
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f原油§f桶, 1
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f柴油§f桶, 1
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f润滑油§f桶, 1
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f汽油§f桶, 1
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f凝固汽油§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f液态粘土§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f木焦油§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f煤焦油§f桶, 1
@@ -6836,6 +6919,7 @@ thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§e液态泥土§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§e液态反物质§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f精炼生命精华§f桶, 1
+thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f月露§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§f水银§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§e熔融深渊§f桶, 1
 thebetweenlands:bl_bucket, item.thebetweenlands.bl_bucket_syrmorite.name, 赛摩铜§e熔融铝§f桶, 1
@@ -6879,8 +6963,8 @@ thebetweenlands:life_crystal, item.thebetweenlands.life_crystal.name, 生命水�
 thebetweenlands:life_crystal_fragment, item.thebetweenlands.life_crystal_fragment.name, 生命水晶碎块, 0
 thebetweenlands:pyrad_flame, item.thebetweenlands.pyrad_flame.name, 树妖的烈焰, 0
 thebetweenlands:critter, entity.thebetweenlands.firefly.name, 萤火虫, 0
-thebetweenlands:critter, entity.thebetweenlands.dragonfly.name, 蜻蜓, 0
 thebetweenlands:critter, entity.thebetweenlands.gecko.name, 壁虎, 0
+thebetweenlands:critter, entity.thebetweenlands.dragonfly.name, 蜻蜓, 0
 thebetweenlands:sludge_worm_egg_sac, entity.thebetweenlands.tiny_worm_egg_sac.name, 烂泥蠕虫蛋囊, 0
 thebetweenlands:chiromaw_egg, item.thebetweenlands.chiromaw_egg.name, 翼手怪的卵, 0
 thebetweenlands:chiromaw_egg_lightning, item.thebetweenlands.chiromaw_egg_lightning.name, 闪电翼手怪的卵, 0
@@ -6998,6 +7082,7 @@ thebetweenlands:draeton_upgrade_furnace, item.thebetweenlands.draeton_upgrade_fu
 thebetweenlands:draeton_upgrade_anchor, item.thebetweenlands.draeton_upgrade_anchor.name, 飞艇锚升级, 0
 thebetweenlands:draeton_upgrade_crafting, item.thebetweenlands.draeton_upgrade_crafting.name, 飞艇合成升级, 0
 thebetweenlands:weedwood_rowboat_upgrade_lantern, item.thebetweenlands.weedwood_rowboat_upgrade_lantern.name, 杂草木船灯笼升级, 0
+contenttweaker:logo_item, item.contenttweaker.logo_item.name, item.contenttweaker.logo_item.name, 0
 embers:block_caminite_brick_slab, tile.block_caminite_brick_slab.name, 方镁矾台阶, 0
 embers:ashen_stone_slab, tile.ashen_stone_slab.name, 灰石台阶, 0
 embers:ashen_brick_slab, tile.ashen_brick_slab.name, 灰石砖台阶, 0
