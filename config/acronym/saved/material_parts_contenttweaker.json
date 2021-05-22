@@ -1,3 +1,25 @@
 {
-  "materialMappings": {}
+  "materialMappings": {
+    "abyssalnite_crudeingot": 8,
+    "copper_unformedingot": 16,
+    "abyssalnite_clusterbroken": 6,
+    "bronze_purefragments": 18,
+    "bronze_metal_alchemy_fluid": 20,
+    "copper_crudeingot": 14,
+    "gold_clusterbroken": 0,
+    "abyssalnite_purefragments": 9,
+    "gold_unformedingot": 4,
+    "copper_metal_alchemy_fluid": 17,
+    "abyssalnite_metal_alchemy_fluid": 11,
+    "abyssalnite_crudedust": 7,
+    "copper_clusterbroken": 12,
+    "gold_crudeingot": 2,
+    "bronze_unformedingot": 19,
+    "gold_crudedust": 1,
+    "abyssalnite_unformedingot": 10,
+    "gold_purefragments": 3,
+    "gold_metal_alchemy_fluid": 5,
+    "copper_purefragments": 15,
+    "copper_crudedust": 13
+  }
 }

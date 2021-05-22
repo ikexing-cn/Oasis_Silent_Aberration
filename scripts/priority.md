@@ -1,7 +1,7 @@
 # 优先级预处理规则-Priority preprocessing rules
 
     1.函数类优先级为255
-    1.The priority of the defined function type is 255
+    1.The priority of the defined function type is 1024
 
     2.配方移除类优先级为254
     2.The priority of recipe removal is 254

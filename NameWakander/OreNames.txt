@@ -387,6 +387,12 @@ clusterAluminum
   jaopca:item_clusteraluminium, item.jaopca.cluster.name, 铝原矿簇, 0
 clusterArkenium
   jaopca:item_clusterarkenium, item.jaopca.cluster.name, Arkenium原矿簇, 0
+clusterBrokenAbyssalnite
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.clusterbroken, 6
+clusterBrokenCopper
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.clusterbroken, 12
+clusterBrokenGold
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.clusterbroken, 0
 clusterCinnabar
   thaumcraft:cluster, item.cluster.cinnabar.name, 朱砂原矿簇, 6
 clusterCopper
@@ -749,6 +755,18 @@ cropWormwood
   bewitchment:wormwood, item.bewitchment.wormwood.name, 苦艾, 0
 cropZucchini
   harvestcraft:zucchiniitem, item.zucchiniitem.name, 西葫芦, 0
+crudeDustAbyssalnite
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.crudedust, 7
+crudeDustCopper
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.crudedust, 13
+crudeDustGold
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.crudedust, 1
+crudeIngotAbyssalnite
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.crudeingot, 8
+crudeIngotCopper
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.crudeingot, 14
+crudeIngotGold
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.crudeingot, 2
 crystalAbyssalnite
   abyssalcraft:crystal, item.crystal.name, 结晶渊素, 12
 crystalAlumina
@@ -1357,8 +1375,8 @@ dustWheat
 dustZanite
   jaopca:item_dustzanite, item.jaopca.dust.name, Zanite 粉, 0
 dye
-  bewitchment:catechu_brown, item.bewitchment.catechu_brown.name, 儿茶棕, 0
   bewitchment:dragons_blood_resin, item.bewitchment.dragons_blood_resin.name, 龙血树脂, 0
+  bewitchment:catechu_brown, item.bewitchment.catechu_brown.name, 儿茶棕, 0
   minecraft:dye, item.dyePowder.black.name, 墨囊, 32767
   bewitchment:iron_gall_ink, item.bewitchment.iron_gall_ink.name, 铁胆墨, 0
   bewitchment:ink_cap_dye, item.bewitchment.ink_cap_dye.name, Blue Ink Cap Extract, 0
@@ -3456,8 +3474,8 @@ gearZanite
   jaopca:item_gearzanite, item.jaopca.gear.name, Zanite齿轮, 0
 gemAll
   minecraft:quartz, item.netherquartz.name, 下界石英, 0
-  bewitchment:amethyst, item.bewitchment.amethyst.name, 紫水晶, 0
   bewitchment:garnet, item.bewitchment.garnet.name, 石榴石, 0
+  bewitchment:amethyst, item.bewitchment.amethyst.name, 紫水晶, 0
   minecraft:diamond, item.diamond.name, 钻石, 0
   minecraft:emerald, item.emerald.name, 绿宝石, 0
   minecraft:dye, item.dyePowder.blue.name, 青金石, 4
@@ -4128,8 +4146,8 @@ listAllseed
   harvestcraft:curryleafseeditem, item.curryleafseeditem.name, 咖喱叶种子, 0
   harvestcraft:sesameseedsseeditem, item.sesameseedsseeditem.name, 芝麻种子, 0
   harvestcraft:celeryseeditem, item.celeryseeditem.name, 芹菜种子, 0
-  bewitchment:aconitum_seeds, item.bewitchment.aconitum_seeds.name, 乌头种子, 0
   bewitchment:wormwood_seeds, item.bewitchment.wormwood_seeds.name, 苦艾种子, 0
+  bewitchment:aconitum_seeds, item.bewitchment.aconitum_seeds.name, 乌头种子, 0
   harvestcraft:flaxseeditem, item.flaxseeditem.name, 亚麻种子, 0
   harvestcraft:cucumberseeditem, item.cucumberseeditem.name, 黄瓜种子, 0
   harvestcraft:grapeseeditem, item.grapeseeditem.name, 葡萄种子, 0
@@ -4352,6 +4370,14 @@ materialWax
   bewitchment:tallow, item.bewitchment.tallow.name, 油脂, 0
 materialWaxcomb
   rustic:honeycomb, item.rustic.honeycomb.name, 蜂巢, 0
+metal_alchemy_fluidAbyssalnite
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.metal_alchemy_fluid, 11
+metal_alchemy_fluidBronze
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.metal_alchemy_fluid, 20
+metal_alchemy_fluidCopper
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.metal_alchemy_fluid, 17
+metal_alchemy_fluidGold
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.metal_alchemy_fluid, 5
 milk
   pyrotech:bucket_stone, item.pyrotech.bucket.stone.name, 石牛奶桶, 1
   pyrotech:bucket_clay, item.pyrotech.bucket.clay.name, 粘土牛奶桶, 1
@@ -5097,6 +5123,14 @@ plateZanite
   jaopca:item_platezanite, item.jaopca.plate.name, Zanite板, 0
 portionSalt
   bewitchment:salt, item.bewitchment.salt.name, 盐, 0
+pureFragmentsAbyssalnite
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.purefragments, 9
+pureFragmentsBronze
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.purefragments, 18
+pureFragmentsCopper
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.purefragments, 15
+pureFragmentsGold
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.purefragments, 3
 pyreFireStarters
   minecraft:flint_and_steel, item.flintAndSteel.name, 打火石, 0
 quartzDark
@@ -5862,6 +5896,14 @@ twine
   minecraft:string, item.string.name, 线, 0
   pyrotech:material, item.pyrotech.twine.name, 麻线, 14
   pyrotech:material, item.pyrotech.twine.durable.name, 耐用麻线, 26
+unformedIngotAbyssalnite
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.unformedingot, 10
+unformedIngotBronze
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.unformedingot, 19
+unformedIngotCopper
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.unformedingot, 16
+unformedIngotGold
+  contenttweaker:material_part, item.contenttweaker.material_part.name, contenttweaker.part.unformedingot, 4
 vine
   thebetweenlands:thorns, tile.thebetweenlands.thorns.name, 荆棘, 0
   thebetweenlands:poison_ivy, tile.thebetweenlands.poison_ivy.name, 剧毒藤蔓, 0
@@ -5934,4 +5976,4 @@ woolYellow
 workbench
   minecraft:crafting_table, tile.workbench.name, 工作台, 0
   thebetweenlands:weedwood_workbench, tile.thebetweenlands.weedwood_workbench.name, 杂草木工作台, 0
-#output time is 13 ms.
+#output time is 15 ms.

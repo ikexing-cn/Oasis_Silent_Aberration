@@ -28,8 +28,9 @@ crafttweaker.log
 ExtraBotanyVars.dat
 minecraftinstance.json
 mods/i18nupdatemod-1.12.2-1.1.0.jar.disabled
-mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar.meta
-config/splash.properties
+mods/memory_repo/
 **/output/biome
 config/jei/worldSettings.cfg
 *.disabled
+resources/contenttweaker/models/item/
+resources/contenttweaker/blockstates/
