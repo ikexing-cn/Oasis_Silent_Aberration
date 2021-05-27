@@ -1,7 +1,12 @@
 #loader contenttweaker
 #priority 257
 
-import scripts.cot.system.partSystem as IPS;
+import scripts.grassUtils.CotUtils;
+import scripts.wcdnUtils.functions.Getter as getter;
+
+print(getter.metalGetter()[0]);
+
+val partBuild as string[] = ["cluster_broken", "crude_dust", "crude_ingot", "pure_fragments", "unformed_ingot",];
 
 val  metalBuild as int[string] = {
     Copper : 0xe9893a ,
@@ -14,12 +19,20 @@ val alloyBuild as int[string] = {
     Bronze : 0xe9b23a
 };
 
-for metal, color in metalBuild {
-        IMetalBuilder.registerParts(IPS.partBuild);
-        IMetalBuilder.registerParts(IPS.partBuild2);
-    print(metal);
+for metals, color in metalBuild {
+    val metal = CotUtils.getMaterialSystemHelper(0);
+        metal.registerMaterial(metals, color);
 }
-for alloy, color in alloyBuild {
-    val IAlloyBuilder as Material = alloyBuilder.build();
-        IAlloyBuilder.registerParts(IPS.partBuild2);
+
+for alloys, color in alloyBuild {
+    val alloy = CotUtils.getMaterialSystemHelper(1);
+        alloy.registerMaterial(alloys, color);
+}
+
+for name in partBuild {
+    for meatal in metalBuild {
+        val part = CotUtils.getMaterialSystemHelper(2);
+            part.registerNormalPart(name, "item", false);
+            part.registerMaterialPartsByMaterial(meatal);
+    }
 }

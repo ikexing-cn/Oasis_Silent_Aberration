@@ -1,7 +1,9 @@
 #priority 254
 import crafttweaker.oredict.IOreDictEntry;
-import scripts.utils.functions.remover as remover;
+import scripts.wcdnUtils.functions.Remover as remover;
 import crafttweaker.item.IItemDefinition;
+
+import scripts.wcdnUtils.functions.Getter as getter;
 
 var removePartList as string[] = [
     "ingot",
@@ -15,15 +17,11 @@ var removePartList as string[] = [
 ];
 
 
-for ingot in oreDict.entries {
-    var IIngot as string = ingot.name;
-    if(IIngot has "ingot") {
-        var metal as string = IIngot.substring("ingot".length);
-        for part in removePartList {
-            var removes as IOreDictEntry = oreDict.get(part~metal);
-            for Iremover in removes.items {
-                remover.removeMetalByOutput(Iremover.definition.makeStack(Iremover.metadata));
-            }
+for part in removePartList {
+    for metal in getter.metalGetter() {
+        var removes = getter.odNameToIItemStack(part ~ metal);
+        for IRemove in removes{
+            remover.removeMetalByOutput(IRemove.definition.makeStack(IRemove.metadata));
         }
     }
 }

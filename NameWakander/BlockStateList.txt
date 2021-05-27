@@ -859,7 +859,7 @@ Gold Moloch Idol, bewitchment:gold_moloch_idol[facing=south]
 秘银源质罐子, thaumadditions:jar_mithrillium
 精金源质罐子, thaumadditions:jar_adaminite
 秘金源质罐子, thaumadditions:jar_mithminite
-Herba 水晶块, thaumadditions:crystal_block[facing=down]
+Instrumentum 水晶块, thaumadditions:crystal_block[facing=down]
 Aer 水晶块, thaumadditions:crystal_block[facing=down]
 Terra 水晶块, thaumadditions:crystal_block[facing=down]
 Ignis 水晶块, thaumadditions:crystal_block[facing=down]
@@ -883,7 +883,7 @@ Vitium 水晶块, thaumadditions:crystal_block[facing=down]
 Tenebrae 水晶块, thaumadditions:crystal_block[facing=down]
 Alienis 水晶块, thaumadditions:crystal_block[facing=down]
 Volatus 水晶块, thaumadditions:crystal_block[facing=down]
-Instrumentum 水晶块, thaumadditions:crystal_block[facing=down]
+Herba 水晶块, thaumadditions:crystal_block[facing=down]
 Fabrico 水晶块, thaumadditions:crystal_block[facing=down]
 Machina 水晶块, thaumadditions:crystal_block[facing=down]
 Vinculum 水晶块, thaumadditions:crystal_block[facing=down]
@@ -1491,6 +1491,14 @@ Juniper Table, rusticwitchcraft:table_juniper[ne=true,nw=true,se=true,sw=true]
 坻星石砖台阶, aether:therastone_brick_slab[state=bottom]
 坻星石砖墙, aether:therastone_brick_wall[east=false,north=false,south=false,up=false,variant=cobblestone,west=false]
 礼物, aether:present
+种子分析仪, agricraft:seed_analyzer[facing=north,journal=true]
+数控种子分析仪, agricraft:peripheral
+木质水箱, agricraft:water_tank
+木质浇灌水道, agricraft:water_channel_normal
+木质浇灌水道, agricraft:water_channel_full
+木质水道阀门, agricraft:water_channel_valve[powered=false]
+洒水器, agricraft:sprinkler
+木格栅, agricraft:grate[axis=x,offset=near,vines=none]
 血之祭坛, bloodmagic:altar[powered=false]
 空白符文, bloodmagic:blood_rune[type=blank]
 速度符文, bloodmagic:blood_rune[type=speed]
@@ -2217,16 +2225,16 @@ Overworld Gravitite Ore, netherendingores:ore_other_1[blocks=overworld_gravitite
 Overworld Zanite Ore, netherendingores:ore_other_1[blocks=overworld_zanite_ore]
 Overworld Arkenium Ore, netherendingores:ore_other_1[blocks=overworld_arkenium_ore]
 Overworld Icestone Ore, netherendingores:ore_other_1[blocks=overworld_icestone_ore]
-流星块, nyx:star_block
-Meteoric Rock, nyx:meteor_rock
-Block of Meteor, nyx:meteor_block
 破裂流星块, nyx:cracked_star_block
-錾制流星块, nyx:chiseled_star_block
+Gleaning Crystal, nyx:crystal
+Meteoric Rock, nyx:meteor_rock
 Gleaning Meteor Cluster, nyx:gleaning_meteor_rock
+Block of Meteor, nyx:meteor_block
 流星块台阶, nyx:star_slab[half=bottom]
+錾制流星块, nyx:chiseled_star_block
 Meteoric Glass, nyx:meteor_glass
 流星块楼梯, nyx:star_stairs[facing=east,half=bottom,shape=straight]
-Gleaning Crystal, nyx:crystal
+流星块, nyx:star_block
 液态粘土, pyrotech:fluid.liquid_clay[level=0]
 石块, pyrotech:rock[variant=rock_stone]
 花岗岩块, pyrotech:rock[variant=rock_granite]
@@ -2437,25 +2445,25 @@ Gleaning Crystal, nyx:crystal
 渗透附魔台, thaumictinkerer:osmotic_enchanter
 活力牌板, thaumictinkerer:animation_tablet
 烟黑石英块, thaumictinkerer:black_quartz_block
-创造模式源质罐子, thaumicwonders:creative_essentia_jar
-矿石探测器, thaumicwonders:ore_diviner
-嗜肉之球, thaumicwonders:meaty_orb[facing=north]
-乌洛托品（魔法版01型）, thaumicwonders:hexamite[explode=false]
-万能溶剂之锅, thaumicwonders:alkahest_vat
-虚空信标, thaumicwonders:void_beacon[enabled=true]
-维度撕裂器, thaumicwonders:dimensional_ripper[enabled=true,facing=down]
-元始加速冲撞终端, thaumicwonders:primordial_accelerator_terminus[facing=north]
-聚合矩阵, thaumicwonders:coalescence_matrix_precursor
-咒波容器, thaumicwonders:flux_capacitor[charge=0]
 咒波蒸馏器, thaumicwonders:flux_distiller[charge=0]
-元始加速器, thaumicwonders:primordial_accelerator[enabled=true,facing=north]
-传送门生成器, thaumicwonders:portal_generator[enabled=true]
+矿石探测器, thaumicwonders:ore_diviner
+万能溶剂之锅, thaumicwonders:alkahest_vat
 气象之球, thaumicwonders:meteorb[facing=north]
-元始加速轨道, thaumicwonders:primordial_accelerator_tunnel[facing=north]
-永燃之瓮, thaumicwonders:everburning_urn
-灵感引擎, thaumicwonders:inspiration_engine
 传送锚, thaumicwonders:portal_anchor
+传送门生成器, thaumicwonders:portal_generator[enabled=true]
+虚空信标, thaumicwonders:void_beacon[enabled=true]
+永燃之瓮, thaumicwonders:everburning_urn
 疯狂引擎, thaumicwonders:madness_engine
+元始加速冲撞终端, thaumicwonders:primordial_accelerator_terminus[facing=north]
+元始加速器, thaumicwonders:primordial_accelerator[enabled=true,facing=north]
+乌洛托品（魔法版01型）, thaumicwonders:hexamite[explode=false]
+灵感引擎, thaumicwonders:inspiration_engine
+咒波容器, thaumicwonders:flux_capacitor[charge=0]
+维度撕裂器, thaumicwonders:dimensional_ripper[enabled=true,facing=down]
+聚合矩阵, thaumicwonders:coalescence_matrix_precursor
+嗜肉之球, thaumicwonders:meaty_orb[facing=north]
+元始加速轨道, thaumicwonders:primordial_accelerator_tunnel[facing=north]
+创造模式源质罐子, thaumicwonders:creative_essentia_jar
 城堡方块, vampirism:castle_block[variant=dark_brick]
 城堡方块, vampirism:castle_block[variant=purple_brick]
 城堡方块, vampirism:castle_block[variant=dark_brick_bloody]
@@ -2755,14 +2763,6 @@ Featherweight.name, variegated:featherweight
 被珊瑚侵染的鱿鱼头颅, acheads:head[type=0]
 查伽洛斯之拳手部（左手）, acheads:head[type=0]
 暗裔头颅, acheads:head[type=0]
-种子分析仪, agricraft:seed_analyzer[facing=north,journal=true]
-数控种子分析仪, agricraft:peripheral
-木质水箱, agricraft:water_tank
-木质浇灌水道, agricraft:water_channel_normal
-木质浇灌水道, agricraft:water_channel_full
-木质水道阀门, agricraft:water_channel_valve[powered=false]
-洒水器, agricraft:sprinkler
-木格栅, agricraft:grate[axis=x,offset=near,vines=none]
 符石1, thebetweenlands:druid_stone_1[active=false,facing=south]
 符石2, thebetweenlands:druid_stone_2[active=false,facing=south]
 符石3, thebetweenlands:druid_stone_3[active=false,facing=south]

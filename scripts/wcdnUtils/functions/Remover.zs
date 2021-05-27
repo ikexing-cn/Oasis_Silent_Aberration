@@ -1,4 +1,4 @@
-#priority 1024
+#priority 2047
 import crafttweaker.item.IItemStack;
 
 import mods.immersiveengineering.AlloySmelter as AlloySmelter;
@@ -7,7 +7,7 @@ import mods.immersiveengineering.MetalPress as MetalPress;
 
 import mods.embers.Stamper as Stamper;
 
-function removeMetalByOutput(output as IItemStack){
+function removeMetalByOutput(output as IItemStack) {
     recipes.remove(output);
     furnace.remove(output);
     AlloySmelter.removeRecipe(output);
